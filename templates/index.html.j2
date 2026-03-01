@@ -4,9 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ briefing.title }} — 팩트렌즈</title>
+    <meta name="description" content="AI가 뉴스를 쉽게 요약하고 팩트체크 검증 태그를 붙여주는 중립적 뉴스 브리핑">
+    <meta property="og:title" content="{{ briefing.title }} — 팩트렌즈">
+    <meta property="og:description" content="팩트가 검증된 쉬운 뉴스 브리핑 — 진실을 보는 렌즈">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://factlens.pages.dev/">
+    <meta property="og:locale" content="ko_KR">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ briefing.title }} — 팩트렌즈">
+    <meta name="twitter:description" content="팩트가 검증된 쉬운 뉴스 브리핑 — 진실을 보는 렌즈">
     <link rel="stylesheet" href="/static/style.css">
-    <link rel="icon" href="/static/favicon.ico">
+    <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
     <script async src="https://t1.daumcdn.net/kas/static/ba.min.js"></script>
+    <!-- Google Analytics (GA4) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RYQSQF9486"></script>
+    <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-RYQSQF9486');</script>
+    <!-- Microsoft Clarity -->
+    <script>(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y)})(window,document,"clarity","script","vp0n1nogns");</script>
 </head>
 <body>
     <header class="site-header">

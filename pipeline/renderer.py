@@ -118,5 +118,30 @@ def render_html(
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
 
+    # sitemap.xml 생성
+    sitemap_path = os.path.join(dist_dir, "sitemap.xml")
+    sitemap_content = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        "  <url>\n"
+        "    <loc>https://factlens.pages.dev/</loc>\n"
+        f"    <lastmod>{briefing.date}</lastmod>\n"
+        "    <changefreq>daily</changefreq>\n"
+        "  </url>\n"
+        "</urlset>\n"
+    )
+    with open(sitemap_path, "w", encoding="utf-8") as f:
+        f.write(sitemap_content)
+
+    # robots.txt 생성
+    robots_path = os.path.join(dist_dir, "robots.txt")
+    robots_content = (
+        "User-agent: *\n"
+        "Allow: /\n"
+        "Sitemap: https://factlens.pages.dev/sitemap.xml\n"
+    )
+    with open(robots_path, "w", encoding="utf-8") as f:
+        f.write(robots_content)
+
     logger.info("HTML 렌더링 완료: %s", output_path)
     return output_path
