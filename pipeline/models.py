@@ -36,6 +36,7 @@ class Article:
     original_url: str = ""
     published_at: str = ""
     publisher: str = ""
+    search_entry_point: str = field(default="", repr=False)
     _article_text: str = field(default="", repr=False)
 
 

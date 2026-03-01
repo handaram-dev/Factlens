@@ -3,9 +3,8 @@ from unittest.mock import MagicMock, patch
 
 from pipeline.models import Article
 from pipeline.verifier import (
-    _build_search_context,
+    _extract_grounding_evidence,
     _parse_verification_response,
-    _search_google,
     _verify_with_gemini,
     verify_articles,
 )
@@ -20,63 +19,84 @@ def _article(
     return a
 
 
-def _search_result(title: str = "관련 기사", url: str = "https://example.com") -> dict[str, str]:
-    return {"title": title, "url": url, "snippet": "관련 내용 스니펫"}
+def _mock_grounding_chunk(title: str, uri: str) -> MagicMock:
+    chunk = MagicMock()
+    chunk.web.title = title
+    chunk.web.uri = uri
+    return chunk
 
 
-class TestSearchGoogle:
-    @patch("pipeline.verifier.requests.get")
-    def test_success(self, mock_get: MagicMock) -> None:
-        mock_resp = MagicMock()
-        mock_resp.json.return_value = {
-            "items": [
-                {"title": "기사1", "link": "https://a.com", "snippet": "내용1"},
-                {"title": "기사2", "link": "https://b.com", "snippet": "내용2"},
-            ]
-        }
-        mock_resp.raise_for_status = MagicMock()
-        mock_get.return_value = mock_resp
+def _mock_response(
+    text: str,
+    grounding_chunks: list[MagicMock] | None = None,
+    search_entry_point_html: str = "",
+) -> MagicMock:
+    """Gemini 응답 mock 생성."""
+    response = MagicMock()
+    response.text = text
 
-        with patch.dict("os.environ", {"GOOGLE_CSE_API_KEY": "key", "GOOGLE_CSE_CX": "cx"}):
-            result = _search_google("테스트 쿼리")
-        assert len(result) == 2
-        assert result[0]["title"] == "기사1"
-        assert result[0]["url"] == "https://a.com"
+    candidate = MagicMock()
+    metadata = MagicMock()
 
-    @patch("pipeline.verifier.requests.get", side_effect=Exception("network error"))
-    def test_failure(self, mock_get: MagicMock) -> None:
-        with patch.dict("os.environ", {"GOOGLE_CSE_API_KEY": "key", "GOOGLE_CSE_CX": "cx"}):
-            result = _search_google("테스트 쿼리")
-        assert result == []
+    metadata.grounding_chunks = grounding_chunks or []
 
-    def test_missing_env(self) -> None:
-        with patch.dict("os.environ", {}, clear=True):
-            result = _search_google("테스트 쿼리")
-        assert result == []
+    if search_entry_point_html:
+        metadata.search_entry_point.rendered_content = search_entry_point_html
+    else:
+        metadata.search_entry_point = None
+
+    candidate.grounding_metadata = metadata
+    response.candidates = [candidate]
+
+    return response
 
 
-class TestBuildSearchContext:
-    def test_with_results(self) -> None:
-        results = [_search_result("기사A", "https://a.com")]
-        context = _build_search_context(results)
-        assert "기사A" in context
-        assert "https://a.com" in context
+class TestExtractGroundingEvidence:
+    def test_success(self) -> None:
+        chunks = [
+            _mock_grounding_chunk("연합뉴스", "https://yna.co.kr/1"),
+            _mock_grounding_chunk("KBS", "https://kbs.co.kr/1"),
+        ]
+        response = _mock_response("text", grounding_chunks=chunks)
+        evidence, sep = _extract_grounding_evidence(response)
+        assert len(evidence) == 2
+        assert evidence[0]["title"] == "연합뉴스"
+        assert evidence[0]["url"] == "https://yna.co.kr/1"
 
-    def test_empty_results(self) -> None:
-        context = _build_search_context([])
-        assert context == "(검색 결과 없음)"
+    def test_no_metadata(self) -> None:
+        response = MagicMock()
+        response.candidates = [MagicMock()]
+        response.candidates[0].grounding_metadata = None
+        evidence, sep = _extract_grounding_evidence(response)
+        assert evidence == []
+        assert sep == ""
+
+    def test_search_entry_point(self) -> None:
+        response = _mock_response(
+            "text",
+            search_entry_point_html="<div>Google 검색 위젯</div>",
+        )
+        evidence, sep = _extract_grounding_evidence(response)
+        assert "Google 검색 위젯" in sep
+
+    def test_empty_candidates(self) -> None:
+        response = MagicMock()
+        response.candidates = []
+        evidence, sep = _extract_grounding_evidence(response)
+        assert evidence == []
+        assert sep == ""
 
 
 class TestParseVerificationResponse:
     def test_verified(self) -> None:
         response = json.dumps({
             "tag": "verified",
-            "reason": "다수 언론이 동일하게 보도했어요.",
-            "evidence": [{"title": "연합뉴스", "url": "https://yna.co.kr/1"}],
+            "reason": "공식 출처로 확인됐어요.",
+            "evidence": [{"title": "정부 발표", "url": "https://gov.kr/1"}],
         })
         result = _parse_verification_response(response)
         assert result["tag"] == "verified"
-        assert result["reason"] == "다수 언론이 동일하게 보도했어요."
+        assert result["reason"] == "공식 출처로 확인됐어요."
         assert len(result["evidence"]) == 1
 
     def test_unconfirmed(self) -> None:
@@ -91,7 +111,7 @@ class TestParseVerificationResponse:
     def test_misleading(self) -> None:
         response = json.dumps({
             "tag": "misleading",
-            "reason": "다른 보도와 내용이 달라요.",
+            "reason": "공식 출처와 내용이 달라요.",
             "evidence": [{"title": "공식 발표", "url": "https://gov.kr/1"}],
         })
         result = _parse_verification_response(response)
@@ -116,55 +136,88 @@ class TestParseVerificationResponse:
 class TestVerifyWithGemini:
     def test_success(self) -> None:
         mock_client = MagicMock()
-        mock_response = MagicMock()
-        mock_response.text = json.dumps({
-            "tag": "verified",
-            "reason": "확인됐어요.",
-            "evidence": [{"title": "출처", "url": "https://example.com"}],
-        })
-        mock_client.models.generate_content.return_value = mock_response
+        chunks = [_mock_grounding_chunk("출처", "https://example.com")]
+        response = _mock_response(
+            json.dumps({
+                "tag": "verified",
+                "reason": "확인됐어요.",
+                "evidence": [{"title": "출처A", "url": "https://a.com"}],
+            }),
+            grounding_chunks=chunks,
+            search_entry_point_html="<div>widget</div>",
+        )
+        mock_client.models.generate_content.return_value = response
 
-        result = _verify_with_gemini(mock_client, "제목", "본문", "검색 결과")
+        result = _verify_with_gemini(mock_client, "제목", "본문")
         assert result["tag"] == "verified"
+        assert result["search_entry_point"] == "<div>widget</div>"
+        # JSON evidence + grounding evidence 병합
+        assert len(result["evidence"]) >= 1
+
+    def test_grounding_config_passed(self) -> None:
+        mock_client = MagicMock()
+        response = _mock_response(
+            json.dumps({"tag": "verified", "reason": "ok", "evidence": []}),
+        )
+        mock_client.models.generate_content.return_value = response
+
+        _verify_with_gemini(mock_client, "제목", "본문")
+        call_kwargs = mock_client.models.generate_content.call_args
+        assert call_kwargs.kwargs.get("config") is not None
 
     def test_api_failure(self) -> None:
         mock_client = MagicMock()
         mock_client.models.generate_content.side_effect = Exception("API error")
 
-        result = _verify_with_gemini(mock_client, "제목", "본문", "검색 결과")
+        result = _verify_with_gemini(mock_client, "제목", "본문")
         assert result["tag"] == "unconfirmed"
 
     @patch("pipeline.verifier.time.sleep")
     def test_rate_limit_retry(self, mock_sleep: MagicMock) -> None:
         mock_client = MagicMock()
-        mock_response = MagicMock()
-        mock_response.text = json.dumps({
-            "tag": "verified", "reason": "확인됐어요.", "evidence": [],
-        })
+        response = _mock_response(
+            json.dumps({"tag": "verified", "reason": "확인됐어요.", "evidence": []}),
+        )
         mock_client.models.generate_content.side_effect = [
             Exception("429 Resource exhausted"),
-            mock_response,
+            response,
         ]
 
-        result = _verify_with_gemini(mock_client, "제목", "본문", "검색 결과")
+        result = _verify_with_gemini(mock_client, "제목", "본문")
         assert result["tag"] == "verified"
         mock_sleep.assert_called_once()
+
+    def test_merges_evidence_without_duplicates(self) -> None:
+        mock_client = MagicMock()
+        chunks = [_mock_grounding_chunk("출처A", "https://a.com")]
+        response = _mock_response(
+            json.dumps({
+                "tag": "verified",
+                "reason": "ok",
+                "evidence": [{"title": "출처A", "url": "https://a.com"}],
+            }),
+            grounding_chunks=chunks,
+        )
+        mock_client.models.generate_content.return_value = response
+
+        result = _verify_with_gemini(mock_client, "제목", "본문")
+        urls = [e["url"] for e in result["evidence"]]
+        assert urls.count("https://a.com") == 1
 
 
 class TestVerifyArticles:
     @patch("pipeline.verifier._init_gemini")
-    @patch("pipeline.verifier._search_google", return_value=[_search_result()])
     @patch("pipeline.verifier._verify_with_gemini")
     def test_full_flow(
         self,
         mock_verify: MagicMock,
-        mock_search: MagicMock,
         mock_init: MagicMock,
     ) -> None:
         mock_verify.return_value = {
             "tag": "verified",
             "reason": "확인됐어요.",
             "evidence": [{"title": "출처", "url": "https://example.com"}],
+            "search_entry_point": "<div>widget</div>",
         }
         articles = [_article("기사1"), _article("기사2")]
         result = verify_articles(articles)
@@ -173,20 +226,20 @@ class TestVerifyArticles:
         assert result[0].verification_reason == "확인됐어요."
         assert len(result[0].evidence_links) == 1
         assert result[0].evidence_links[0].title == "출처"
+        assert result[0].search_entry_point == "<div>widget</div>"
 
     @patch("pipeline.verifier._init_gemini")
-    @patch("pipeline.verifier._search_google", return_value=[])
     @patch("pipeline.verifier._verify_with_gemini")
     def test_all_tagged(
         self,
         mock_verify: MagicMock,
-        mock_search: MagicMock,
         mock_init: MagicMock,
     ) -> None:
         mock_verify.return_value = {
             "tag": "unconfirmed",
             "reason": "확인 안 됨",
             "evidence": [],
+            "search_entry_point": "",
         }
         articles = [_article("기사1"), _article("기사2"), _article("기사3")]
         result = verify_articles(articles)
@@ -195,18 +248,17 @@ class TestVerifyArticles:
             assert article.verification_tag != ""
 
     @patch("pipeline.verifier._init_gemini")
-    @patch("pipeline.verifier._search_google", return_value=[])
     @patch("pipeline.verifier._verify_with_gemini")
     def test_fallback_on_failure(
         self,
         mock_verify: MagicMock,
-        mock_search: MagicMock,
         mock_init: MagicMock,
     ) -> None:
         mock_verify.return_value = {
             "tag": "unconfirmed",
             "reason": "이 브리핑 시점에 AI가 충분히 확인하지 못했어요.",
             "evidence": [],
+            "search_entry_point": "",
         }
         articles = [_article("기사1")]
         result = verify_articles(articles)

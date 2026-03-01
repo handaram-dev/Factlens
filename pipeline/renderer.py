@@ -47,6 +47,7 @@ def _article_to_dict(article: Article) -> dict[str, object]:
         "original_url": article.original_url,
         "published_at": article.published_at,
         "publisher": article.publisher,
+        "search_entry_point": article.search_entry_point,
     }
 
 

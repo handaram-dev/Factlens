@@ -40,6 +40,11 @@
                     {% endfor %}
                 </ul>
                 {% endif %}
+                {% if article.search_entry_point %}
+                <div class="search-widget">
+                    {{ article.search_entry_point | safe }}
+                </div>
+                {% endif %}
             </section>
 
             <section class="card-sources">
