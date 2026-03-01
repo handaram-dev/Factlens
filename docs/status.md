@@ -56,6 +56,6 @@
 - [x] GitHub Actions 워크플로우 권한 설정 (Read and write permissions)
 
 ## Next Steps
-1. workflow_dispatch 재실행하여 디자인 + 기사 수 + 파싱 강화 확인
+1. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
 2. factlens.pages.dev 모바일 확인 (구분선, 태그, 여백, 후원 배너)
 3. 채널A 등 봇 차단 사이트 기사가 정상 스킵되는지 로그 확인
