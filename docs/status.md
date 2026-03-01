@@ -24,6 +24,7 @@
 - [x] Buy Me a Coffee 연결 — buymeacoffee.com/handaram 후원 링크 반영 (2026-03-02)
 
 ## 진행중
+- [ ] **프롬프트 재설계** — 요약 난이도 문제 해결 (리서치 완료, plan 작성 필요)
 - [ ] 카카오 AdFit 매체 심사 대기 중 (승인 후 광고 노출)
 
 ## 변경사항 로그
@@ -69,6 +70,11 @@
   - Google Search Console 인증 (VnZBNB4M...) + 사이트맵 제출
   - Naver Search Advisor 인증 (e956417c...) + 사이트맵 제출
   - Buy Me a Coffee 후원 링크: buymeacoffee.com/handaram
+- 2026-03-02: **요약 난이도 리서치** — `docs/research-요약난이도.md`
+  - 문제 진단: "정보 압축 vs 정보 번역" — 현재 프롬프트가 신문 기사를 압축만 하고 번역(쉽게 풀어쓰기)을 안 함
+  - 5대 원인: 직접 인용 과다, 숫자 전량 포함, 페르소나가 풀어쓰기 억압, 규칙 우선순위 부재, 전문용어 풀이 미실행
+  - 벤치마크: 뉴닉/어피티/토스 분석 → "쉬움과 냉철함은 양립 가능"
+  - 다음 단계: `plan-프롬프트재설계.md` 작성 → 승인 후 구현
 
 ## 인프라 설정 완료
 - [x] GitHub Secrets 등록 (GEMINI_API_KEY)
@@ -85,11 +91,17 @@
 6. ~~서치 콘솔 등록~~ ✅
 7. ~~속도 점검~~ ✅
 
+## Next Steps — 즉시
+
+1. **프롬프트 재설계 plan 작성** — `docs/research-요약난이도.md` 기반으로 `docs/plan-프롬프트재설계.md` 작성
+2. plan 승인 후 `pipeline/summarizer.py` SUMMARY_PROMPT_TEMPLATE 재설계 구현
+3. workflow_dispatch 재실행 + 출력 품질 검증
+
 ## Next Steps — 론칭 후 / 보류
 
-8. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
-9. AdFit 매체 심사 승인 후 광고 노출 확인
-10. PRD 수락 기준 검증 (4.4 체크리스트 점검) — 프롬프트 개선 후
-11. 랜딩페이지 제작 — 고민 중
-12. 유저 피드백 채널 — 카카오 오픈톡방 버튼
-13. 재방문(Sticky) 성장 전략
+4. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
+5. AdFit 매체 심사 승인 후 광고 노출 확인
+6. PRD 수락 기준 검증 (4.4 체크리스트 점검) — 프롬프트 재설계 후
+7. 랜딩페이지 제작 — 고민 중
+8. 유저 피드백 채널 — 카카오 오픈톡방 버튼
+9. 재방문(Sticky) 성장 전략
