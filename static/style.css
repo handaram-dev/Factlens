@@ -207,6 +207,12 @@ a:hover {
   margin-bottom: 20px;
 }
 
+/* ===== Ad Banner ===== */
+.ad-banner {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 /* ===== Footer ===== */
 .site-footer {
   text-align: center;

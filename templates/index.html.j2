@@ -6,6 +6,7 @@
     <title>{{ briefing.title }} — 팩트렌즈</title>
     <link rel="stylesheet" href="/static/style.css">
     <link rel="icon" href="/static/favicon.ico">
+    <script async src="https://t1.daumcdn.net/kas/static/ba.min.js"></script>
 </head>
 <body>
     <header class="site-header">
@@ -69,6 +70,14 @@
             <a class="support-link" href="https://buymeacoffee.com/factlens" target="_blank" rel="noopener">
                 가짜뉴스 없는 세상, 후원으로 함께 만들어주세요
             </a>
+        </div>
+        {% endif %}
+        {% if loop.index == 7 %}
+        <div class="ad-banner">
+            <ins class="kakao_ad_area" style="display:none;"
+                 data-ad-unit="DAN-H8O06nayAbOwWLLC"
+                 data-ad-width="320"
+                 data-ad-height="100"></ins>
         </div>
         {% endif %}
         {% endfor %}
