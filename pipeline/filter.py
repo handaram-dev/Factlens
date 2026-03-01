@@ -19,7 +19,7 @@ def _deduplicate(articles: list[Article]) -> list[Article]:
 
 def filter_and_select(
     feeds: list[list[Article]],
-    max_count: int = 10,
+    max_count: int = 15,
 ) -> list[Article]:
     """여러 피드의 Article 리스트를 받아 중복 제거 후
     피드 순서 기반 라운드 로빈으로 상위 max_count개 선별."""

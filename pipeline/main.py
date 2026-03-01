@@ -27,7 +27,7 @@ def run_pipeline() -> None:
     logger.info("=== 1단계: 뉴스 수집 ===")
     feeds = collect_news()
 
-    # 2. 필터링/선별 (라운드 로빈, 상위 10개)
+    # 2. 필터링/선별 (라운드 로빈, 상위 15개)
     logger.info("=== 2단계: 필터링/선별 ===")
     articles = filter_and_select(feeds)
     if not articles:

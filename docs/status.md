@@ -14,9 +14,10 @@
 - [x] 검증 방식 개선 — Google CSE → Gemini Google Search Grounding 전환 + 67개 테스트 통과 (2026-03-01)
 - [x] 검증 재실행 — 7개 기사 중 6개 verified, 1개 unconfirmed (JSON 파싱 오류) (2026-03-01)
 - [x] UI/UX 개선 + 파싱 품질 강화 — 77개 테스트 통과 (2026-03-01)
+- [x] 가독성 전면 개선 + 기사 수 확대 — 디자인 구현, 77개 테스트 통과 (2026-03-01)
 
 ## 진행중
-- [ ] UI/UX 개선 파이프라인 재실행 (workflow_dispatch)
+- [ ] 파싱 실패 감지 강화 (키워드 수정 + 최소 길이 + Gemini INVALID 검증)
 
 ## 변경사항 로그
 - 2026-03-01: google-generativeai → google-genai 마이그레이션 (기존 SDK deprecated)
@@ -33,6 +34,15 @@
   - 검색 위젯: 토글 내부 배치, `overflow-x: auto` 가로 스크롤
   - unconfirmed 출처 숨김: 확인 못 한 기사에서 출처 링크 미표시
   - 파서 체인: newspaper3k → trafilatura 폴백, 면책 키워드 필터로 잘못된 파싱 감지
+- 2026-03-01: **가독성 전면 개선 + 기사 수 확대**
+  - CSS: 배경 #f0f0f0, 카드 radius 16px/border 추가, headline 1.25rem/800, 본문 1rem/#222
+  - 섹션 구분선: 요약↔검증, 검증↔원문보기 사이 border-top
+  - 태그: pill shape (radius 20px), 색상 강화, misleading에 border 추가
+  - word-break: keep-all (한글 어절 단위 줄바꿈)
+  - 모바일: padding 16px, 카드 20px/12px, headline 1.125rem
+  - 후원 배너: 3번째 기사 뒤 중간 삽입 + footer 유지
+  - 기사 수: filter max_count 10 → 15
+  - 완료된 research/plan 파일 → docs/archive/ 이동
 
 ## 인프라 설정 완료
 - [x] GitHub Secrets 등록 (GEMINI_API_KEY)
@@ -40,7 +50,6 @@
 - [x] GitHub Actions 워크플로우 권한 설정 (Read and write permissions)
 
 ## Next Steps
-1. UI/UX 개선 파이프라인 재실행 결과 확인
-2. factlens.pages.dev에서 토글, 문단 분리, 후원 문구 확인
-3. 파서 체인 작동 확인 (채널A 등 이전 실패 사이트)
-4. 안정화 후 추가 튜닝
+1. 파싱 실패 감지 강화 구현 (키워드 수정 + 최소 길이 + Gemini INVALID)
+2. workflow_dispatch 재실행하여 디자인 + 기사 수 확인
+3. factlens.pages.dev 모바일 확인 (구분선, 태그, 여백, 후원 배너)
