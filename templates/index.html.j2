@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ briefing.title }} — 팩트렌즈</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" href="/static/favicon.ico">
+</head>
+<body>
+    <header class="site-header">
+        <h1 class="site-title">팩트렌즈</h1>
+        <p class="tagline">팩트가 검증된 쉬운 뉴스 브리핑</p>
+    </header>
+
+    <main class="briefing">
+        <h2 class="briefing-title">{{ briefing.title }}</h2>
+
+        {% for article in briefing.articles %}
+        <article class="news-card">
+            <h3 class="card-headline">{{ article.headline }}</h3>
+
+            <section class="card-summary">
+                <p>{{ article.summary }}</p>
+            </section>
+
+            <section class="card-verification">
+                {% if article.verification_tag == 'verified' %}
+                <span class="tag tag--verified">&#x2705; 사실 확인됨</span>
+                {% elif article.verification_tag == 'unconfirmed' %}
+                <span class="tag tag--unconfirmed">&#x26A0;&#xFE0F; 사실 확인 중</span>
+                {% elif article.verification_tag == 'misleading' %}
+                <span class="tag tag--misleading">&#x274C; 왜곡/오류</span>
+                {% endif %}
+                <p class="verification-reason">{{ article.verification_reason }}</p>
+                {% if article.evidence_links %}
+                <ul class="evidence-list">
+                    {% for evidence in article.evidence_links %}
+                    <li><a href="{{ evidence.url }}" target="_blank" rel="noopener">{{ evidence.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endif %}
+            </section>
+
+            <section class="card-sources">
+                <h4>원문 보기</h4>
+                <ul class="source-list">
+                    {% for source in article.source_articles %}
+                    <li><a href="{{ source.url }}" target="_blank" rel="noopener">{{ source.publisher }}</a></li>
+                    {% endfor %}
+                    {% if article.original_url %}
+                    <li><a href="{{ article.original_url }}" target="_blank" rel="noopener">{{ article.publisher if article.publisher else '원문' }}</a></li>
+                    {% endif %}
+                </ul>
+            </section>
+        </article>
+        {% endfor %}
+    </main>
+
+    <footer class="site-footer">
+        <p class="disclaimer">AI 기반 자동 검증이며, 최종 판단은 독자의 몫입니다.</p>
+        <a class="support-link" href="https://buymeacoffee.com/factlens" target="_blank" rel="noopener">
+            &#x2615; 이 브리핑이 유용했다면 커피 한 잔 사주세요
+        </a>
+    </footer>
+</body>
+</html>
