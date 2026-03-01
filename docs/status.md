@@ -18,6 +18,8 @@
 
 - [x] 파싱 실패 감지 강화 — 3층 방어 구현, 81개 테스트 통과 (2026-03-01)
 - [x] 광고 플랫폼 도입 — 카카오 AdFit 배너 1개 (7번째 기사 뒤), 81개 테스트 통과 (2026-03-01)
+- [x] 론칭 준비 — 파비콘, OG 태그, GA4, Clarity, sitemap.xml, robots.txt (2026-03-02)
+- [x] 프롬프트 개선 — 냉철한 톤, 존칭 금지, 직접 인용(""), 숫자 정확 표기, 검증 reason 해요체 통일, 81개 테스트 통과 (2026-03-02)
 
 ## 진행중
 - [ ] 카카오 AdFit 매체 심사 대기 중 (승인 후 광고 노출)
@@ -53,14 +55,35 @@
 - 2026-03-01: **광고 플랫폼 도입** — 카카오 AdFit
   - 7번째 기사 뒤에 320x100 모바일 배너 1개 배치
   - AdFit SDK 스크립트 `<head>`에 추가
+- 2026-03-02: **론칭 준비**
+  - 파비콘: SVG (돋보기+체크마크)
+  - OG 태그: og:title, og:description, og:type, og:url, og:locale, twitter:card
+  - GA4 (G-RYQSQF9486) + Microsoft Clarity (vp0n1nogns)
+  - sitemap.xml + robots.txt 자동 생성 (renderer.py)
+- 2026-03-02: **프롬프트 개선**
+  - 요약: 페르소나 "냉철한 작가", 존칭 금지, 중립 동사("말했다"), 직접 인용(""), 숫자 정확 표기
+  - 검증: reason 해요체 통일 + 구체적 사실/수치 근거 제시 규칙
 
 ## 인프라 설정 완료
 - [x] GitHub Secrets 등록 (GEMINI_API_KEY)
 - [x] Cloudflare Pages 연동 (factlens.pages.dev, master 브랜치, 빌드 출력: dist/)
 - [x] GitHub Actions 워크플로우 권한 설정 (Read and write permissions)
 
-## Next Steps
-1. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
-2. AdFit 매체 심사 승인 후 광고 노출 확인
-3. PRD 수락 기준 검증 (4.4 체크리스트 점검)
+## Next Steps — 론칭 전 필수
 
+1. ~~프롬프트 개선~~ ✅
+2. ~~파비콘 제작~~ ✅
+3. ~~Open Graph 태그~~ ✅
+4. Stripe 가입 후 Buy Me a Coffee 연결 — 후원 링크 실제 동작 확인
+5. ~~애널리틱스 설치~~ ✅
+6. 서치 콘솔 등록 — 구글 서치 콘솔 + 네이버 서치어드바이저 → 사이트맵 제출
+7. ~~속도 점검~~ ✅
+
+## Next Steps — 론칭 후 / 보류
+
+8. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
+9. AdFit 매체 심사 승인 후 광고 노출 확인
+10. PRD 수락 기준 검증 (4.4 체크리스트 점검) — 프롬프트 개선 후
+11. 랜딩페이지 제작 — 고민 중
+12. 유저 피드백 채널 — 카카오 오픈톡방 버튼
+13. 재방문(Sticky) 성장 전략

@@ -31,7 +31,7 @@ VERIFY_PROMPT_TEMPLATE = """당신은 뉴스 보도의 신뢰성을 교차확인
 3. 아래 JSON 형식으로만 응답하세요.
 
 ## 출력 형식 (JSON만 출력, 다른 텍스트 없이)
-{{"tag": "verified 또는 unconfirmed 또는 misleading", "reason": "판별 근거를 해요체 1~2문장으로 작성", "evidence": [{{"title": "출처 제목", "url": "출처 URL"}}]}}
+{{"tag": "verified 또는 unconfirmed 또는 misleading", "reason": "판별 근거를 해요체(~에요, ~했어요) 1~2문장으로. 합니다체(~습니다, ~했습니다) 금지. 구체적 사실이나 수치를 근거로 제시", "evidence": [{{"title": "출처 제목", "url": "출처 URL"}}]}}
 
 ## 판단 기준
 - verified: 공식 출처(정부, 기관, 공식 통계)로 핵심 내용이 뒷받침됨
