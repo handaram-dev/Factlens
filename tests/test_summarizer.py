@@ -21,15 +21,30 @@ class TestHasDisclaimer:
         assert _has_disclaimer(text) is True
 
     def test_normal_article(self) -> None:
-        text = "이재명 대통령이 싱가포르를 방문했습니다. 한-아세안 미래산업 확대 박차."
+        text = "이재명 대통령이 싱가포르를 방문했습니다. 한-아세안 미래산업 확대 박차. " * 20
         assert _has_disclaimer(text) is False
 
     def test_single_keyword_ok(self) -> None:
-        text = "기사 본문 내용입니다. Copyright 2026"
+        text = "기사 본문 내용입니다. Copyright 2026. " + "추가 내용입니다. " * 20
         assert _has_disclaimer(text) is False
 
     def test_empty(self) -> None:
         assert _has_disclaimer("") is True
+
+    def test_partial_redistribution_keyword(self) -> None:
+        """'재배포 및 AI학습 이용 금지' 같은 변형도 감지."""
+        text = "기사 내용... 무단 전재 및 재배포 및 AI학습 이용 금지" + "." * 200
+        assert _has_disclaimer(text) is True
+
+    def test_too_short(self) -> None:
+        """200자 미만 텍스트는 불량 판정."""
+        text = "짧은 텍스트"
+        assert _has_disclaimer(text) is True
+
+    def test_long_normal_article(self) -> None:
+        """200자 이상 정상 기사는 통과."""
+        text = "이재명 대통령이 싱가포르를 방문했습니다. " * 20
+        assert _has_disclaimer(text) is False
 
 
 class TestFetchWithNewspaper:
@@ -65,18 +80,22 @@ class TestFetchWithTrafilatura:
 
 
 class TestFetchArticleText:
+    _LONG_ARTICLE = "정상 기사 본문입니다. " * 30
+
     @patch("pipeline.summarizer._fetch_with_trafilatura")
-    @patch("pipeline.summarizer._fetch_with_newspaper", return_value="정상 기사 본문입니다.")
+    @patch("pipeline.summarizer._fetch_with_newspaper")
     def test_success_with_newspaper(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        mock_np.return_value = self._LONG_ARTICLE
         result = _fetch_article_text("https://example.com/1")
-        assert result == "정상 기사 본문입니다."
+        assert result == self._LONG_ARTICLE
         mock_tf.assert_not_called()
 
-    @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="정상 본문")
+    @patch("pipeline.summarizer._fetch_with_trafilatura")
     @patch("pipeline.summarizer._fetch_with_newspaper", return_value="무단 전재 재배포 금지 이용약관")
     def test_fallback_to_trafilatura(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        mock_tf.return_value = self._LONG_ARTICLE
         result = _fetch_article_text("https://example.com/1")
-        assert result == "정상 본문"
+        assert result == self._LONG_ARTICLE
 
     @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="")
     @patch("pipeline.summarizer._fetch_with_newspaper", return_value="무단 전재 재배포 금지 이용약관")
@@ -84,11 +103,12 @@ class TestFetchArticleText:
         result = _fetch_article_text("https://example.com/1")
         assert result == ""
 
-    @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="정상 본문")
+    @patch("pipeline.summarizer._fetch_with_trafilatura")
     @patch("pipeline.summarizer._fetch_with_newspaper", return_value="")
     def test_newspaper_empty_fallback(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        mock_tf.return_value = self._LONG_ARTICLE
         result = _fetch_article_text("https://example.com/1")
-        assert result == "정상 본문"
+        assert result == self._LONG_ARTICLE
 
     def test_empty_url(self) -> None:
         result = _fetch_article_text("")
@@ -108,6 +128,15 @@ class TestGenerateSummary:
         mock_client = MagicMock()
         mock_client.models.generate_content.side_effect = Exception("API error")
         result = _generate_summary(mock_client, "기사 제목", "기사 본문")
+        assert result == ""
+
+    def test_invalid_article_returns_empty(self) -> None:
+        """Gemini가 [[INVALID]] 반환 시 빈 문자열."""
+        mock_client = MagicMock()
+        mock_response = MagicMock()
+        mock_response.text = "[[INVALID]]"
+        mock_client.models.generate_content.return_value = mock_response
+        result = _generate_summary(mock_client, "기사 제목", "이용약관 텍스트")
         assert result == ""
 
     @patch("pipeline.summarizer.time.sleep")

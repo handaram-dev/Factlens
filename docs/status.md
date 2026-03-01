@@ -16,8 +16,10 @@
 - [x] UI/UX 개선 + 파싱 품질 강화 — 77개 테스트 통과 (2026-03-01)
 - [x] 가독성 전면 개선 + 기사 수 확대 — 디자인 구현, 77개 테스트 통과 (2026-03-01)
 
+- [x] 파싱 실패 감지 강화 — 3층 방어 구현, 81개 테스트 통과 (2026-03-01)
+
 ## 진행중
-- [ ] 파싱 실패 감지 강화 (키워드 수정 + 최소 길이 + Gemini INVALID 검증)
+- (없음)
 
 ## 변경사항 로그
 - 2026-03-01: google-generativeai → google-genai 마이그레이션 (기존 SDK deprecated)
@@ -43,6 +45,10 @@
   - 후원 배너: 3번째 기사 뒤 중간 삽입 + footer 유지
   - 기사 수: filter max_count 10 → 15
   - 완료된 research/plan 파일 → docs/archive/ 이동
+- 2026-03-01: **파싱 실패 감지 강화** — 3층 방어 전략
+  - Layer 1: 키워드 `"재배포 금지"` → `"재배포"` 교체 (변형 매칭)
+  - Layer 2: MIN_ARTICLE_LENGTH=200 최소 길이 체크
+  - Layer 3: Gemini 프롬프트에 `[[INVALID]]` 반환 규칙 + 감지 처리
 
 ## 인프라 설정 완료
 - [x] GitHub Secrets 등록 (GEMINI_API_KEY)
@@ -50,6 +56,6 @@
 - [x] GitHub Actions 워크플로우 권한 설정 (Read and write permissions)
 
 ## Next Steps
-1. 파싱 실패 감지 강화 구현 (키워드 수정 + 최소 길이 + Gemini INVALID)
-2. workflow_dispatch 재실행하여 디자인 + 기사 수 확인
-3. factlens.pages.dev 모바일 확인 (구분선, 태그, 여백, 후원 배너)
+1. workflow_dispatch 재실행하여 디자인 + 기사 수 + 파싱 강화 확인
+2. factlens.pages.dev 모바일 확인 (구분선, 태그, 여백, 후원 배너)
+3. 채널A 등 봇 차단 사이트 기사가 정상 스킵되는지 로그 확인
