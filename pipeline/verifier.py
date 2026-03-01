@@ -37,9 +37,10 @@ VERIFY_PROMPT_TEMPLATE = """당신은 뉴스 보도의 신뢰성을 교차확인
 - 확신이 없으면 반드시 unconfirmed으로 판단하세요
 - evidence에는 검색 결과에서 실제 비교에 사용한 출처만 포함하세요"""
 
-RATE_LIMIT_RETRY_DELAY = 30
+RATE_LIMIT_RETRY_DELAY = 60
 MAX_RETRIES = 3
 SEARCH_NUM_RESULTS = 5
+REQUEST_INTERVAL = 5
 
 UNCONFIRMED_FALLBACK = {
     "tag": "unconfirmed",
@@ -223,6 +224,7 @@ def verify_articles(articles: list[Article]) -> list[Article]:
         logger.info(
             "검증 완료: %s → %s", article.headline[:40], article.verification_tag,
         )
+        time.sleep(REQUEST_INTERVAL)
 
     logger.info("교차검증 완료: %d 기사", len(articles))
     return articles
