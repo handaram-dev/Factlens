@@ -21,7 +21,9 @@
             <h3 class="card-headline">{{ article.headline }}</h3>
 
             <section class="card-summary">
-                <p>{{ article.summary }}</p>
+                {% for paragraph in article.summary.split('\n\n') %}
+                <p>{{ paragraph }}</p>
+                {% endfor %}
             </section>
 
             <section class="card-verification">
@@ -33,17 +35,20 @@
                 <span class="tag tag--misleading">&#x274C; 왜곡/오류</span>
                 {% endif %}
                 <p class="verification-reason">{{ article.verification_reason }}</p>
-                {% if article.evidence_links %}
-                <ul class="evidence-list">
-                    {% for evidence in article.evidence_links %}
-                    <li><a href="{{ evidence.url }}" target="_blank" rel="noopener">{{ evidence.title }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
-                {% if article.search_entry_point %}
-                <div class="search-widget">
-                    {{ article.search_entry_point | safe }}
-                </div>
+                {% if article.verification_tag != 'unconfirmed' and article.evidence_links %}
+                <details class="evidence-toggle">
+                    <summary>출처 확인하기 ({{ article.evidence_links | length }}건)</summary>
+                    <ul class="evidence-list">
+                        {% for evidence in article.evidence_links %}
+                        <li><a href="{{ evidence.url }}" target="_blank" rel="noopener">{{ evidence.title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% if article.search_entry_point %}
+                    <div class="search-widget">
+                        {{ article.search_entry_point | safe }}
+                    </div>
+                    {% endif %}
+                </details>
                 {% endif %}
             </section>
 
@@ -65,7 +70,7 @@
     <footer class="site-footer">
         <p class="disclaimer">AI 기반 자동 검증이며, 최종 판단은 독자의 몫입니다.</p>
         <a class="support-link" href="https://buymeacoffee.com/factlens" target="_blank" rel="noopener">
-            &#x2615; 이 브리핑이 유용했다면 커피 한 잔 사주세요
+            가짜뉴스 없는 세상, 후원으로 함께 만들어주세요
         </a>
     </footer>
 </body>

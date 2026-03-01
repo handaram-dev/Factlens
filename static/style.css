@@ -127,6 +127,32 @@ a:hover {
   content: "📎 ";
 }
 
+/* ===== Evidence Toggle ===== */
+.evidence-toggle {
+  margin-top: 8px;
+}
+
+.evidence-toggle summary {
+  font-size: 0.8rem;
+  color: #2563eb;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.evidence-toggle summary:hover {
+  text-decoration: underline;
+}
+
+.evidence-toggle[open] summary {
+  margin-bottom: 6px;
+}
+
+.search-widget {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-top: 8px;
+}
+
 /* ===== Sources ===== */
 .card-sources h4 {
   font-size: 0.85rem;

@@ -3,7 +3,10 @@ from unittest.mock import MagicMock, patch
 from pipeline.models import Article
 from pipeline.summarizer import (
     _fetch_article_text,
+    _fetch_with_newspaper,
+    _fetch_with_trafilatura,
     _generate_summary,
+    _has_disclaimer,
     summarize_articles,
 )
 
@@ -12,21 +15,80 @@ def _article(headline: str = "테스트 기사", original_url: str = "https://ex
     return Article(id="test-id", headline=headline, original_url=original_url)
 
 
-class TestFetchArticleText:
+class TestHasDisclaimer:
+    def test_disclaimer_detected(self) -> None:
+        text = "기사 내용... 무단 전재 재배포 금지 Copyright 채널A"
+        assert _has_disclaimer(text) is True
+
+    def test_normal_article(self) -> None:
+        text = "이재명 대통령이 싱가포르를 방문했습니다. 한-아세안 미래산업 확대 박차."
+        assert _has_disclaimer(text) is False
+
+    def test_single_keyword_ok(self) -> None:
+        text = "기사 본문 내용입니다. Copyright 2026"
+        assert _has_disclaimer(text) is False
+
+    def test_empty(self) -> None:
+        assert _has_disclaimer("") is True
+
+
+class TestFetchWithNewspaper:
     @patch("pipeline.summarizer.NewspaperArticle")
     def test_success(self, mock_cls: MagicMock) -> None:
         mock_article = MagicMock()
         mock_article.text = "기사 본문 내용입니다."
         mock_cls.return_value = mock_article
-        result = _fetch_article_text("https://example.com/1")
+        result = _fetch_with_newspaper("https://example.com/1")
         assert result == "기사 본문 내용입니다."
         mock_article.download.assert_called_once()
         mock_article.parse.assert_called_once()
 
     @patch("pipeline.summarizer.NewspaperArticle", side_effect=Exception("network error"))
     def test_failure(self, mock_cls: MagicMock) -> None:
-        result = _fetch_article_text("https://example.com/fail")
+        result = _fetch_with_newspaper("https://example.com/fail")
         assert result == ""
+
+
+class TestFetchWithTrafilatura:
+    @patch("pipeline.summarizer.trafilatura")
+    def test_success(self, mock_tf: MagicMock) -> None:
+        mock_tf.fetch_url.return_value = "<html>content</html>"
+        mock_tf.extract.return_value = "기사 본문 내용입니다."
+        result = _fetch_with_trafilatura("https://example.com/1")
+        assert result == "기사 본문 내용입니다."
+
+    @patch("pipeline.summarizer.trafilatura")
+    def test_fetch_failure(self, mock_tf: MagicMock) -> None:
+        mock_tf.fetch_url.return_value = None
+        result = _fetch_with_trafilatura("https://example.com/fail")
+        assert result == ""
+
+
+class TestFetchArticleText:
+    @patch("pipeline.summarizer._fetch_with_trafilatura")
+    @patch("pipeline.summarizer._fetch_with_newspaper", return_value="정상 기사 본문입니다.")
+    def test_success_with_newspaper(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        result = _fetch_article_text("https://example.com/1")
+        assert result == "정상 기사 본문입니다."
+        mock_tf.assert_not_called()
+
+    @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="정상 본문")
+    @patch("pipeline.summarizer._fetch_with_newspaper", return_value="무단 전재 재배포 금지 이용약관")
+    def test_fallback_to_trafilatura(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        result = _fetch_article_text("https://example.com/1")
+        assert result == "정상 본문"
+
+    @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="")
+    @patch("pipeline.summarizer._fetch_with_newspaper", return_value="무단 전재 재배포 금지 이용약관")
+    def test_both_fail(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        result = _fetch_article_text("https://example.com/1")
+        assert result == ""
+
+    @patch("pipeline.summarizer._fetch_with_trafilatura", return_value="정상 본문")
+    @patch("pipeline.summarizer._fetch_with_newspaper", return_value="")
+    def test_newspaper_empty_fallback(self, mock_np: MagicMock, mock_tf: MagicMock) -> None:
+        result = _fetch_article_text("https://example.com/1")
+        assert result == "정상 본문"
 
     def test_empty_url(self) -> None:
         result = _fetch_article_text("")
