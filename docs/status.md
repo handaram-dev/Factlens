@@ -57,5 +57,6 @@
 
 ## Next Steps
 1. Gemini 무료 버전으로 전환 (현재 pay-as-you-go 유료 플랜)
-2. factlens.pages.dev 모바일 확인 (구분선, 태그, 여백, 후원 배너)
-3. 채널A 등 봇 차단 사이트 기사가 정상 스킵되는지 로그 확인
+2. 광고 플랫폼 도입 (AdSense / AdFit / 쿠팡 파트너스)
+3. PRD 수락 기준 검증 (4.4 체크리스트 점검)
+
