@@ -22,9 +22,9 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 
 
 def _format_briefing_title(date: datetime) -> str:
-    """'2026년 3월 1일 (토) 모닝 브리핑' 형식 제목 생성."""
+    """'AI가 검증한 오늘의 뉴스 — 3월 1일 (토)' 형식 제목 생성."""
     weekday = WEEKDAY_KO[date.weekday()]
-    return f"{date.year}년 {date.month}월 {date.day}일 ({weekday}) 모닝 브리핑"
+    return f"AI가 검증한 오늘의 뉴스 — {date.month}월 {date.day}일 ({weekday})"
 
 
 def _article_to_dict(article: Article) -> dict[str, object]:

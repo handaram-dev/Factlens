@@ -35,7 +35,7 @@ def _article(
 def _briefing(articles: list[Article] | None = None) -> Briefing:
     return Briefing(
         date="2026-03-01",
-        title="2026년 3월 1일 (일) 모닝 브리핑",
+        title="AI가 검증한 오늘의 뉴스 — 3월 1일 (일)",
         articles=articles or [_article()],
         generated_at="2026-03-01T07:00:00+09:00",
     )
@@ -49,12 +49,12 @@ class TestFormatBriefingTitle:
         # 2026-03-01 is Sunday (일)
         dt = datetime(2026, 3, 1, 7, 0, 0, tzinfo=KST)
         result = _format_briefing_title(dt)
-        assert result == "2026년 3월 1일 (일) 모닝 브리핑"
+        assert result == "AI가 검증한 오늘의 뉴스 — 3월 1일 (일)"
 
     def test_monday(self) -> None:
         dt = datetime(2026, 3, 2, 7, 0, 0, tzinfo=KST)
         result = _format_briefing_title(dt)
-        assert result == "2026년 3월 2일 (월) 모닝 브리핑"
+        assert result == "AI가 검증한 오늘의 뉴스 — 3월 2일 (월)"
 
 
 class TestBriefingToDict:
@@ -68,7 +68,7 @@ class TestBriefingToDict:
         briefing = _briefing()
         result = _briefing_to_dict(briefing)
         assert result["date"] == "2026-03-01"
-        assert result["title"] == "2026년 3월 1일 (일) 모닝 브리핑"
+        assert result["title"] == "AI가 검증한 오늘의 뉴스 — 3월 1일 (일)"
         assert len(result["articles"]) == 1
 
         article = result["articles"][0]
@@ -218,7 +218,7 @@ class TestBuildBriefing:
         result = build_briefing(articles)
         assert len(result.articles) == 2
         assert result.date  # YYYY-MM-DD 형식
-        assert "모닝 브리핑" in result.title
+        assert "AI가 검증한 오늘의 뉴스" in result.title
         assert result.generated_at
 
     def test_empty_articles(self) -> None:
