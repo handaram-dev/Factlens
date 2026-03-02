@@ -45,6 +45,56 @@ a:hover {
   margin-top: 4px;
 }
 
+/* ===== Hero Section ===== */
+.hero {
+  text-align: center;
+  padding: 32px 20px;
+  margin-bottom: 24px;
+  background: #fff;
+  border-radius: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.hero-headline {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #111;
+  margin-bottom: 8px;
+}
+
+.hero-sub {
+  font-size: 1rem;
+  color: #444;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.hero-features {
+  list-style: none;
+  text-align: left;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.hero-features li {
+  font-size: 0.9rem;
+  color: #333;
+  padding: 4px 0;
+  word-break: keep-all;
+}
+
+.hero-features li::before {
+  content: "\2713  ";
+  color: #10b981;
+  font-weight: 700;
+}
+
+.hero-update {
+  font-size: 0.8rem;
+  color: #888;
+}
+
 /* ===== Briefing Title ===== */
 .briefing-title {
   font-size: 1.25rem;
@@ -259,5 +309,13 @@ a:hover {
 
   .card-headline {
     font-size: 1.125rem;
+  }
+
+  .hero {
+    padding: 24px 16px;
+  }
+
+  .hero-headline {
+    font-size: 1.25rem;
   }
 }

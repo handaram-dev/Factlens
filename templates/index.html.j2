@@ -12,9 +12,11 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://factlens.pages.dev/">
     <meta property="og:locale" content="ko_KR">
-    <meta name="twitter:card" content="summary">
+    <meta property="og:image" content="https://factlens.pages.dev/static/og-image.svg">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ briefing.title }} — 팩트렌즈">
     <meta name="twitter:description" content="팩트가 검증된 쉬운 뉴스 브리핑 — 진실을 보는 렌즈">
+    <meta name="twitter:image" content="https://factlens.pages.dev/static/og-image.svg">
     <link rel="stylesheet" href="/static/style.css">
     <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
     <script async src="https://t1.daumcdn.net/kas/static/ba.min.js"></script>
@@ -29,6 +31,20 @@
         <h1 class="site-title">팩트렌즈</h1>
         <p class="tagline">팩트가 검증된 쉬운 뉴스 브리핑</p>
     </header>
+
+    <section class="hero">
+        <h2 class="hero-headline">뉴스, 어렵지 않아요</h2>
+        <p class="hero-sub">
+            AI가 오늘의 뉴스를 <strong>쉬운 말</strong>로 요약하고<br>
+            <strong>팩트체크</strong>까지 해드려요.
+        </p>
+        <ul class="hero-features">
+            <li>쉬운 요약 — 전문용어 없이 누구나 이해</li>
+            <li>팩트체크 — AI가 여러 언론사를 교차 확인</li>
+            <li>다양한 시각 — 같은 사건, 다른 언론사 원문 비교</li>
+        </ul>
+        <p class="hero-update">매일 아침 자동 업데이트</p>
+    </section>
 
     <main class="briefing">
         <h2 class="briefing-title">{{ briefing.title }}</h2>
