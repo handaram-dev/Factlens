@@ -188,7 +188,7 @@ a:hover {
 }
 
 .evidence-list li::before {
-  content: "\U0001F4CE ";
+  content: "";
 }
 
 /* ===== Evidence Toggle ===== */
