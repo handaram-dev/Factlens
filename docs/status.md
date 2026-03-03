@@ -30,6 +30,7 @@
 
 ## 진행중
 - [ ] 카카오 AdFit 매체 심사 대기 중 (승인 후 광고 노출)
+- [ ] 마케팅 2차 — 채널별 UTM 단축 URL 재정비 후 유입 데이터 관찰 중
 
 ## 변경사항 로그
 - 2026-03-01: google-generativeai → google-genai 마이그레이션 (기존 SDK deprecated)
@@ -106,6 +107,16 @@
   - `## 판단 우선순위` — misleading은 최후의 수단, 애매하면 unconfirmed 선택 규칙
   - 근본 원인: "검색에서 확인 안 됨"을 "사실과 다름"으로 비약하는 AI 패턴 (`docs/research-검증시스템분석.md`)
   - workflow_dispatch 검증: verified 4, unconfirmed 6, misleading 2 — misleading 2건 모두 공식 출처와 명백히 모순되는 정당한 케이스 확인
+- 2026-03-02: **마케팅 1차 실행 + 결과**
+  - 게시 완료: 쓰레드, X, 에브리타임, 카카오 오픈채팅 (1인 개발자 700명)
+  - 디스콰이엇/긱뉴스: 기술 중심이라 후순위 보류
+  - GA4 결과 (2/3~3/2): 총 41명, 재방문 0%, 평균 참여 21초
+  - 트래픽 소스: direct 35, everytime 3, threads 3, x 1 — 대부분 UTM 유실 (인앱 브라우저)
+  - 카카오 오픈채팅 피드백: 가독성 개선 요청(2명) vs 현재 상태 괜찮음(3명), 팩트체크 태그 호응 높음
+  - 상세: `docs/plan-마케팅2차.md` Phase 1 실행 결과 참조
+- 2026-03-03: **마케팅 2차 — UTM 재정비**
+  - 인앱 브라우저 UTM 유실 문제 → bit.ly 단축 URL로 전환 예정
+  - 단축 URL 생성 후 채널별 재공유 → D+3에 GA4 확인 → 유료 마케팅 여부 판단
 
 ## 인프라 설정 완료
 - [x] GitHub Secrets 등록 (GEMINI_API_KEY)
