@@ -1,0 +1,1362 @@
+{
+  "date": "2026-03-05",
+  "title": "AI가 검증한 오늘의 뉴스 — 3월 5일 (목)",
+  "generated_at": "2026-03-05T08:17:47.502399+09:00",
+  "articles": [
+    {
+      "id": "3325a4d2-0ced-433d-bc22-3d1026c49969",
+      "headline": "미·이란 접촉설에 뉴욕증시 상승 마감",
+      "summary": "뉴욕 증시가 상승 마감했어요.\n미국과 이란이 물밑에서 접촉한다는 소문과 좋은 경제 지표 덕분이에요.\n\n다우존스, S&P 500 등 주요 지수들이 모두 올랐어요.\n뉴욕타임스는 이란이 미국에 \"협상을 제안했다\"고 보도했어요.\n\n또한, 미국의 민간 기업 고용이 2월에 6만 3천 명 늘어 시장 예상을 뛰어넘었어요.\n중동 긴장이 줄어들 거라는 기대에 국제 유가도 안정세를 보였어요.",
+      "verification_tag": "verified",
+      "verification_reason": "기사에서 언급된 뉴욕증시 주요 지수(다우존스, S&P 500, 나스닥)의 3월 4일 종가와 상승폭이 여러 공식 출처와 정확히 일치했어요. 국제유가(브렌트유, 서부텍사스산원유)의 종가와 변동폭도 확인된 정보와 같고, 2월 미국의 민간기업 고용 증가분(6만 3천 명) 및 2025년 7월 이후 최대 증가 폭이라는 내용도 ADP 보고서와 일치했어요. 또한, 뉴욕타임스의 미·이란 접촉설 보도에 대한 내용도 다수의 검색 결과에서 확인되었어요.",
+      "evidence_links": [
+        {
+          "title": "Stocks rebound after strong economic updates and as oil prices stop spiking",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEacE2TQ4UpNHMS0OF7gQepNYmxRqpl0Xttb0IqSUXZJTQXTD0pAofPHKzXsHJJlZwTyoAkFOPvDm_KrvdpsqgYS8-KaXvV9uHeO_Kuj96kMpyY9O5fvOl8QKY6-Z8ooOE6UOMsgzqEgykZK0WhAI4qnd2sg5bwxhRvBq_WtCcRDDpQeFW9OsfFkksQWXL9TKN_TATvXDpL0xga0LVRGq3_Q1Szt6EHhgIBMuSQKqmDIEroAA=="
+        },
+        {
+          "title": "DAILY OIL PRICE: March 4, 2026 - Odessa American",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYAEQE5uYH660UhAs1ei4GMRHwaSAVRhyMT4vz2dTZrsTbUotstqfmyi7RJcYNUcMSWuN2tgCRfvexocGlzAiEBjDYCdGvX0SURjjppnBLNJumIH9VV02P6fQTad5ncKnT9n_2JwE8AOLi300YlPVNGTPIRl41xQ=="
+        },
+        {
+          "title": "ADP National Employment Report: Private Sector Employment Increased by 63000 Jobs in February; Annual Pay was Up 4.5% - Investing News Network",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETuS5oQeAqMORlG13zObS8rf9pr1XSxMIItNBO9zZWFMxHdI0LPzMaykeakeUwUA4dyvIn3Xf2M6aW-4nWX4wRehztkqz63y508YP6NRl2Zueeyy13ZB5hdjBT086SjSRGXyyIJ_9sE7l7EbX4jL8o2WDb3V-7yA-xTcFqyJBKUptKNwqOb-e9SXDHEWgInz82jO1PzkbldeTHwRtYy_v8aTmemqik73F5r7dDrN5-jAUwiyXO52CQsdjhjlQ4HyjWFXaeUmWrhA=="
+        },
+        {
+          "title": "Global-U.S. oil price spread hits more than 2-year high, as Strait of Hormuz shutdown halts tanker traffic | Morningstar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqa7Sbh9kJwzDTTPLNhYVpbtDqomJJoKWWSKPr-s0TV15JPNpgXATQzOhkDuhnSeQ3lrKGZF2tHrYu5SXI4OR-8qttMGaC_X0MiJTiha6IXhnZRgD3gR57l0BRdkO43qRtFKYGfu1O1JsSJs0gfIP9cdbEWj109Xq3ollCSMjttWpfmlxa-B_8c2oBzV3mM3kPrc6o54gHXGaZM5qZRaan6H7K2I2eMEWtjE2HmiAxsGy9dRETZLptwHTML7KX2OkVDRD34NRtTGsTRB_FAd_I8id4lrAqZw3nhn0="
+        },
+        {
+          "title": "United States ADP Employment Change - Trading Economics",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_3nLs8GV4knLB6aNH_OaQoUjLeoUvcuAKsQwGqGp7o9_biI3_p-vKwD6VEnQNP2av7CETRjpI5vL-QSQS3aBe9pacpMXDGuQraT2llxKRVQ87kIlsnQgDLgRBRbIEeBEinlobKOIG6wcqI87sfYybuxeXXm1FVnVA6A=="
+        },
+        {
+          "title": "S&P/TSX composite up nearly 160 points, U.S. stock markets also climb - North Shore News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpQDSYJ6HwWgv42mO193pa35W6MtlbjudWpyBnbvVEYWY8hzkENTk9wIiic-5LrE3PvQ_We1Agnm2VBiIHmTewd1SFSq0x5ByzNwLPiAXAM_RC0HCUXWusya4TZErptVRHHYlC2Iks-eOIh4aa3vkkfPzkSju9VVTkC75zFvyrtA_GaiX1ou0eL3qqFAWWCHSMFcftorXE-ftFo1FFjBryVcvFem3oFJSH_yge"
+        },
+        {
+          "title": "Iranian intelligence sends word to US on potential talks to end war, but US officials say no active negotiations - RNZ",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbybSD-47MKGmzCWbGFxd39UFL4nnLlHjRmkJTlKn3B0lE5sOKh4fbStbHpOzkSQBijXnCrlPFrjOVh4I6Yqbxi_AD4Ui10knyPxjamTm7_HNYJrkBET4dwfpeYK7TgCVEVeckUeTeX5qOqFArm5I3Qo_inyaBd_f7oFbeFbDyMT60r7To0vQ40-oq35Xpjsw31xmvgX_ZlKv-WgHWlLRBgJhxRkkG3zw2CT-UP9uHQ5aLKjDDiNmGXfX7m_nxf4sZtDUL_SMpV_8Xjl7tSt63UyE="
+        },
+        {
+          "title": "Iran intelligence operatives signaled openness to talks with CIA to end war: Report",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsPT3_YLL7acI8GaiBsTL8xHC8y40KercDyr0hotnCb5QzV3JZnUi1W1oS5xaCSlvqEQlD5OYXHF0M7kBlgS898lsnwTq6CioZVSYjIMHt6JPtXbnEoD3cyP7Hdf4N3KJq6dArYlBdkv187VEQxl1Kqd0DLUDA8FwYRafY6n3dMd9HnnXWblSWLTCfQ4O3Da-L5SC8hM00Ob0wg1L2LY99rcZZQMT39hF3dNc8OrptTaXWaG1b8g3ETYksXfduH2Z-TGzqiRE1"
+        },
+        {
+          "title": "Iran intelligence operatives signalled openness to talks with CIA to end war, NYT reports",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwEMM8m6TO9CMAHk5D87KgWQslQ4LXD-5572D01E8zbUudI7hWbPeyN6jw-aVowwI_DxFF2X8mVOjLvnBuw2rlvVRpUz367kZFpgZrhUscYA4069CYVcvISC1CQ4chRRaDuDTjs9AAWx6Ruy12uYfX1vEWIh4iWa7nR-0VXB2LTFMcGbwTtDk1FtG52kDJqJb6kwSfB8Wbfg8A3Sy8EPxkhBlfgHzZthbo2YcmfHUO5qeN43k="
+        },
+        {
+          "title": "Iran reached out to CIA for terms to end war with Israel | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQFVxQctQdusU3IX0phpIIH-nm6KqkyIBjRG2q1PJC4H1rX896uJaiSOB1CmYT0qrO4Ios-d2TEu_DyS4k4RZTTiwwrgCDxbXhCtBbSqqSPit4rfpt0IORNmn8eYGBphzkyfe8PmktgKfxECd0WOkqTAf22k5g=="
+        },
+        {
+          "title": "S&P/TSX composite up nearly 160 points, U.S. stock markets also climb - Coast Reporter",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgBPtk-Lfbcw86a9SfvOZ16Vw_iQsLGBwTzCXzlwujUyhC45Bf-zNQtZqE0GDLVCKY3wAJO0A38udV8gbg3y5UMxiouny7u9V5oE7JqxPx9TOsCcC6ssZG1wpQqEAU8eKCrX66lR09rQeurjjpIRGL9KI7uHCXmfNg5k5xY_6y0eAgmDtxWF9g3bAVzwsJN5aqadPzc3_kVvFp3FBNwxC8pTJLKmWMNKQB"
+        },
+        {
+          "title": "S&P 500 Rises 0.78% to 6869.50 — Data Talk | Morningstar",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7vRYnOPiqU37Bw5JPpU4AzEhfG7JDAM-NPvjGKKikO5jYJ67Qu83FIB_WDpFzTru2J30f7P-9jNSAjW9Ta-KCA76R7pbGi_Zdhxw7erihK32FwydxkUJyQj5rPnBjLeDD4fnWrbgZJTXsXEZnKhYff_PatNiVlSXkl3qvP5RpiZ14WvC6cb4qPo3vkUItu0NK00oSKErS"
+        },
+        {
+          "title": "US stocks rebound after strong economic updates - CommBank",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcuiAdQHYE0dzEWb-ppIkutf8fHKt0T9dzTqY_ZEVUuelAOvUwUThm2stnKCSbO_Df_kAJLOBzfZiW5alMprNlN1cdZaUUkVnSkJk9Bn_3J0pPNTjAIEEpj2DjvFoCELwnyWilQIAr168X8sESVfJrr78hntGQtMjT19fW2DoioBAWt3o2A3ftNf7UOnit7MC_73Q6QoSALrRto-UeMczHuyRNZQ=="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1PNDOzm0ooVZWefr2q8BSOwjIap_jvoEyaAgiVQpwGE5Qaq92C5yqrAIPHMBaOhZZhxGWOxk3shlQFhJLHgV4jRh1uQPLRtDgIDIo_ShNrwSqjIcVem9f8IVmlUGJ4Ri6Xa0s0O06MkeinbId83-5A6XNFAbTM3ydHUkx-IQ0SLW8HEhJ6TPpIkNdb_WJrelaak4411IrXM4NbtuHwjcYjKZdbMcQ_RqsVQ=="
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPMS1MUUtNVGo5SXRJTGd2dFJja3dmQWFhM0tNVVFrcEFqcGEyZ0RCUlZEY2txWXhkN2ptU09VTFlYckxtTEp4U0NUWkxnVWRic29wdlpwckhXd9IBX0FVX3lxTE9QWHA2Mzl5ZDhaaENXcThuUVhPa0o4czNmMW5RTGNrSnlUeEJyd1JUaFR0bWszQzRvcEo3RzA3MENqYU1BUmoxNlNVaUpEVHJCeGlwTnY3TnJtbFJzS2w4?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3MTRINmZaVDBWb1Iwc3U2WDNWbjlEQ25zeEhLNkNpYU1pbDNoMUlCYUxUYVJ4akM2YzlIR0ZtQjBJVlJ2QjcyWlV3VGIyWUU?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTJkUm1pbzEzNmF0WGk2NGoweWZPcVpoVklBb0ZEQTNtS29La19JdXllOEEycUYwQ2k5ZjJhQmxTOXdsSmgyTWFTb1NLN3M0V0xhMWNaeWdPWjFES0RJZkVGeUwzdVhhOEVUV2JaWWw4SS1mVUcxSXNqbWlOOUw3aXhtTmNrR0VkMnhHMVZGcGlyaWt4ZkpCRy1UXy02UdIBsgFBVV95cUxPV2Utc2QtZlVHZXNNNkJUVW4wUFh1UW5sS0Y3LWlJaXR4NzdaTlUtVjNobVpqS3VDV0NxZEtkNTVfakNFd1BTbzdfU2xPaUpYaVNHVmlRZVBBUnh3cm9NenAtRmRWOUlZdUxTQzlEQzVHR1JqMlk5SWYxYzRHQWs5Q192SnVzd1FFMXRIai0zUmdneHk2bFpaSUhZY09hVUJhMHV1TzZnTlhfbXlMVDU2dHp3?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42RVl6QmQzZ3hsZHc3SHNjQVF3Qm9TMFNiMGo1OWttWlBWRlhKbDJRVDBCT0dGWDJ2SUIwcG5MZUQ0cklvYjNEQjNXN1ZvaTRsdzZneVBTYlhJYUU?oc=5"
+        },
+        {
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTG9rcTVyQVFMbXBJQ0JGU0JhOS1ldFh6cTU5NW5qcmVZbnhITldRMWhsdDIxZjRhTjkwbzRMWWZIZnVHR0pYQUFJOFNFV2s0eUtKM0FrZnhRTDBTazBWVThpYzlmdw?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPMS1MUUtNVGo5SXRJTGd2dFJja3dmQWFhM0tNVVFrcEFqcGEyZ0RCUlZEY2txWXhkN2ptU09VTFlYckxtTEp4U0NUWkxnVWRic29wdlpwckhXd9IBX0FVX3lxTE9QWHA2Mzl5ZDhaaENXcThuUVhPa0o4czNmMW5RTGNrSnlUeEJyd1JUaFR0bWszQzRvcEo3RzA3MENqYU1BUmoxNlNVaUpEVHJCeGlwTnY3TnJtbFJzS2w4?oc=5",
+      "original_url": "https://www.khan.co.kr/article/202603050740001",
+      "published_at": "Wed, 04 Mar 2026 22:40:00 GMT",
+      "publisher": "경향신문",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV1in6EzVo5_BOTmSe1QSgheZXbDyR5YzIcUEy64xOVy0kXzc64uwfalbU734C2F0XQvwVfHbvxBbjtSvT5demNg3r_ABwcks4goe_6DXP5wXHIETarvpRWCB0c_QUI8V4-1yW1MgK9hy_NqsCeVkP8RtvXNvUcbTt6DxxZnfrwKJyWKDS7r59O3A78gHQrIaveaPrJU4BtiCDbUW6WEfQIS0tS7M=\">ADP employment report February 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe_tPtW5XSJ7Cg2Pdf4aSWsGSG_r65uH8TvyRZasjdqrjyuectNT5abilsMJTEpEEY0o167ssIMyeVVbZN5hBao_bYYrrDS6om0qPXnIn-eL-7PXsDyOionYTQVZ4VigXhILs8zsoC-Gm5DG0XfRXtuiSg07fFMTIHiqLxd_US4pxam-fiFYSnRx18Uxw4gJHgPKyZKdDKKePGQZ_5UZLxx2lUrmZBf2m0bWoTbA==\">NASDAQ Composite March 4 2026 closing price</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG79JsQoEWkguUbOTMTpWc-HSKD5wMJOB96yKcE1fJAwlLzE7xHsW77UDlDbXL8Qkrz3Ag_cL1FzCGAZMuLiGhKLkSc4qLJ4HivQFi5Jw2o4NzKnpQmU8zZkiNpqbV9litxy4KFwMQZcHyZv-6GB0wIil44u_rqesgHHZQuUuyWlG9D482N3r2vce7sXtlReWYP2avzZYipo_D-RdtCZsERYVELC79ntWq9iDzP4Rx-NVxzH_f9kVz7QeM=\">Dow Jones Industrial Average March 4 2026 closing price</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYiB__RaNIlffoVlVnMApzIYrXnslhfKR1tB1CCISshNvXwOKpR4bil4gq8biOGVbajA64obCnCs5RbzTyds7Z-iusVL9Ht1zczrgpBdRgPG6YJbJEy0Z5B1eKUP51On-HIC1EQQz3OQ_vvJfqJGBa-elyP1DOLTpuVlJ5S_KQz2Jd3adYOL-uBu38SUbOwyxPIAmAeK619m0Az8x9WAhKWCTeykxq\">S&amp;P 500 March 4 2026 closing price</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdTgatA1rjErK7YxUYLFDATOjJXiK2ox7XeGTIXed7gSLdxzrjClTDIbAw0TC7_WV_ZDhoC-PMI2fNOdSR9rXiaBVFj5z1inSTEefG0SX3IFPGFK-ZsAgbkS_m9eHAtG7J9fBazkjNoIQDhev0CVkY6ZgPKGWb1N_dXru7_sWxpwp2Jts-ZY-wUdx68dMsLTQ-8m9l3y7aW11A26n9vfUOrHnMJPyeOBFvhy98GDQyGyyROA2g3BaEKg==\">US Iran contact negotiations March 2026 New York Times</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgEO5Ai-FbuEXTmEr9REoFVsn8pPi1YCuEBmfoKlulI6FIhFR5KXxRxUrp_69zianphuLwu4dSlQdrDmsNkT4t9I_Z6GYkvzYY3wmEzmeih1SpPjjipNZZMXAJt-VD4qiixxWTHJZA11JGkTjsGr9nF-FzizZiNqLg9da8hMWv5syK2aWkN1nNzBmYZwBGrapoIVpaMDv9mtCF58gnYUHBW5c=\">WTI crude oil price March 4 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy89ZiPeuKL9qBEkuXQIWAHRu6PhYyk2XGp3jrF9VYmmGvrUnFlG4oQcnsmskZ7wBYwjHcPz1UcX8V1_U-aZlE9-0Xp2sB-cwuakSddCToLCVAoQwB-gV6FHn6BRY5LGrpajlXB2vsj6vBHtfeW48ephl34qR7ygAde6dwf0XDB2_4r4IVrcU12LbXu5789QqdbeH3i__GOFKvE2mswtXiK8IUlw==\">Brent crude oil price March 4 2026</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "1295606a-ec56-4ba7-8190-14b82f9fa4e3",
+      "headline": "베선트 \"호르무즈 유조선 통과 지원, 관련해 곧 발표\"",
+      "summary": "미국 재무장관 스콧 베선트가 호르무즈 해협의 유조선 통행을 돕겠다고 말했어요.\n미국과 이스라엘의 이란 공습 때문에 해협 통행이 어려워져 국제 유가가 급등했었거든요.\n\n베선트 장관은 원유 공급이 충분하며, 필요하면 미 해군이 유조선을 지원할 것이라고 말했어요.\n트럼프 대통령도 미 해군이 선박을 호위하고 무역 보험을 제공하라고 지시했어요.\n\n이런 소식에 국제 유가는 배럴당 1.1% 떨어진 73.74달러를 기록했어요.\n유가 상승은 미국 내 휘발유 값을 올려 중간선거에 영향을 줄 것으로 보여요.",
+      "verification_tag": "misleading",
+      "verification_reason": "기사에서는 3월 4일(현지시간) 베선트 미 재무장관의 발언 이후 국제 유가가 하락했다고 보도했지만, 로이터 통신 등 구글 검색 결과에 따르면 같은 날 국제 유가는 약 1% 상승했어요.",
+      "evidence_links": [
+        {
+          "title": "US Treasury Secretary Bessent says oil market well supplied amid Iran war - WTVB",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt53euBYMZoerRjZYPT7xA0xCQOg_yXIep8AhSbf8fA8EuE0Tu6GfTrhrjCV06dYf04JVTsovW_NibxX90A702GyiEZ_gyviAYV5VmT2l6yYSC8Jeap7IFLTl1V19vLp8315aPHtsnlSbk0y078Vf--dF1IvMw1BQ468GZvZ3Coft8V5UXCXpcENM90C6P0sMLhCjxXRJUjJOwi6sMHB0IYgY1"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TLUw1YUtHWnhqTzBiU0dhUnp3U0xrbVdDVDNwOHYzakFnQmxSanJFbkQ0clBBSjhEODZNMkIzcGxHZUN4WEpjZTU5ZW1QZTRQNnBSeF9KUWJNQdIBVEFVX3lxTE5WbDMzUWl0VFBiUGpGMFdoNWtyVVA5X3d5c0dRS25wOER3RlhnMTFCTzhGWl9LWGNzUm1WZnRJbHByMV9QUDg4aXBaVTJOUktZenpsRA?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYTFaaUxmb0xUVXliQzk0UjBOVU5nZjQ5ZGUzVTFmR3l5eTFkdHBLaW5HbWROR3ZVQTVPck5nUGZreG5LeGRlR0NlTUpqSW1GU1BtNWRZcGM2a3RUYlhFeVJDQXhESEZiY3VERVBmYUlJeHZERElfS1d3Zkx6dnFVMU81cnh3V1Z5N05vYlloY9IBowFBVV95cUxPZUxFZWpKSFlaRmMtNEs1NTNGR0ZJaUk5RXBvQlcwejlIYUlTWjhjSHZyNTk3WWlXWjgwU3Rja2dMZnpVR0dkUnNpUHJ3c2txSFc2NVdOVUwtZU1NaXlIMnVscTNfcjFwczJlQVZHYTZvZkZ2YXdpVm5BRFFDZkZqS2VrZ2JuRmY0ckcway1TZl9FLW1JYnZ6dUtpdnNlOTh1Z2Zz?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41QWtUa1BTX1pNNlpiUmdrdVFGWjY1eHZPNWVHY0R0cl9TYTRuNkZvN0g0MFNNV3BIYW56dUFnYk83V1hTc3dnZnFuelc0S0VNTldBTWIzeGxtd1k?oc=5"
+        },
+        {
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBidEU1Wmw4TkhhbDRreUFyTWRRSUVLZFVZT1BMSTZKbG0yWk9FVGprTGpEQ0ZtRERaZlpZX0dDSWZYM0NfNFNDWkhnMFZ6Q3dSTk1UemlnbFg2NjZscTc5aTctWGlveWkwNDlReA?oc=5"
+        },
+        {
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLdXdqUUMtejhNN0sycnZHNUY4b0VaUmR6Qkg3dmtlN1V0LTB5aWw0NjF5ZkVablVxdDFNOU5ZRHhqMTZ6eFR4a2lEUmxlcEVmTWh1di1lVDdRZWVrTXVCZXAyQ1PSAXhBVV95cUxQMWdCZnpNUUVLN28xSTdYMGhOWTJXTXR2YkNLOVBvSjRwWlV1VWpjV21vamtYUXBRMG1pTGI5Wk9PZDFXVUxweGNyVWw5b2hwZkFRbkIzUkpDNk5WRjhlc0d0akEwMXJfMHNPd1o1ZklXZkNuYjZHajQ?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TLUw1YUtHWnhqTzBiU0dhUnp3U0xrbVdDVDNwOHYzakFnQmxSanJFbkQ0clBBSjhEODZNMkIzcGxHZUN4WEpjZTU5ZW1QZTRQNnBSeF9KUWJNQdIBVEFVX3lxTE5WbDMzUWl0VFBiUGpGMFdoNWtyVVA5X3d5c0dRS25wOER3RlhnMTFCTzhGWl9LWGNzUm1WZnRJbHByMV9QUDg4aXBaVTJOUktZenpsRA?oc=5",
+      "original_url": "https://www.hankyung.com/article/202603049629i",
+      "published_at": "Wed, 04 Mar 2026 13:30:03 GMT",
+      "publisher": "한국경제",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgGtBeKOUxOtY_R3429O7IvUONkm52BdtzQDs1DJ1mv1okJ41kfoj8uyjKLhTsBvqpzvdNgSuxt1tme4OezZaSJ-2qB5KcMEGZB-AhQyGlQDPp9kOi9cjAHaM9ZIXo-UY1KSU2CwbNcfS7jAUU8ajHNYk_8lT5e7WtfUy4or7pZF8eumnaKmzBAyxPc80ssi-lkMDPFNf1TzzKpFBj9p5wUtXLa5JzvqCqtnj6wWT8BG3rmwf7cjQT72FhjSOmYev0DCDMMUc-nocaTSDUPvYPElzFwKAjBP_e3_5T3goRJ591XCGtZTTZYM2C9t1Usr0=\">도널드 트럼프 대통령 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfnbBmGK7MVks1hPHRPbJRmqljDWCRbiXB6Pu53Fch7g3jjghTEc9NOYBrX6cXLRTWuZreNhjJFykrJ6NUB0586y2y2Wd9WynDiKog_WEcIRNECCDUVYh1ZLSlPLm4q9X6r8pyZlCmgZg45LtHfIpAM5xJdJLQfnzcy-X_oORB11gVdnkBeHMD4ouFpE20nYlPXAwbxAV-\">who is scott bessent</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6hnwGdb-aqet6vL1hczscuXKfRXNzxzgR8GWkQ_TCCVG58XLmCcqCVwG3oaiYl9kSjUR5hvNWodNMgJiV71qROVN3f8f3T7DBe09ftDNN8t5xvgGXnhG7Gb9mooqua0T1KPr2wtN6ZU9BNw4cvaqfcph3_Q-BbWxifoZF7GTU6dgBTrlJAHCljtAAYNV7TFB8FzC1EgldVYiIWTA-ZeikTulXKP1BIGHvj9E=\">current US Treasury Secretary March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxipYSJm95OlHgxit4eZSb_DgarYtGcb5X16gDJtl3TgSfL76bj2Nn2Lxd_3IcTbMkFPwSjKrgsxEq-h3E8hUpwYlUmgTQoxq71L3hmgysyTmxlDwt1R7w7MdOZwCeGlGKw2V5Sq5nuYLgFZz87UB75gJJG_yFp097gaKAkQEjphWyPhEp_Q2cET8VQ5ZT6sXlf18NI7YSQh_Ix4TTo83gDNKEjRWUjGr9B_NMBqffHV2V31F5kW3wsR04lgVOVwu0bd7rXLvxkZpGK_qDYuX545yJA700N7vU-YGr6sO1Y42jL0WyfDaDGtGmxF_qNwuv6qPn941VLgeC\">이란 미국 이스라엘 전쟁 2026년 3월</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "ba907bb6-7568-4e12-8551-3beed5078ddc",
+      "headline": "“우산 챙기세요”···오후부터 전국 곳곳 비·눈",
+      "summary": "5일 목요일, 전국 대부분 지역에 늦은 오후부터 비나 눈이 와요.\n비와 눈은 밤에 전국으로 넓게 퍼질 예정이에요.\n\n강원 산지에는 많은 눈이 올 수 있고, 일부 지역은 비가 20mm까지 올 수 있어요.\n낮 기온은 9도에서 16도 사이를 보이지만, 일교차(낮과 밤의 기온 차이)가 아주 커요.\n\n아침에는 서리가 내리는 곳이 있어 농작물에 주의해야 해요.",
+      "verification_tag": "verified",
+      "verification_reason": "기사 내용은 2026년 3월 5일 기상청이 발표한 예보와 강수량, 적설량, 기온 등 주요 사항들이 정확하게 일치해요.",
+      "evidence_links": [
+        {
+          "title": "예보 종합(위치) - 기상청 날씨누리",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0zuLlYYodyqEHzZpgcSPpU9wbM7itNrBv1WwOlHL0ptMIGOmCvlMmResb-ahqDiSc3cpCxRW8EP8WvaHVRpqx69j8ZT-rr9DZSRozrOW_fYX8QdTLcQbSMTdmnkRk5UKVfoIqENeSy8laO54EET7o7GYBqw=="
+        },
+        {
+          "title": "[전국 날씨예보] 5일 밤부터 최대 15mm 비 또는 최대 8cm 눈 - 더페어",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVQDRP5kR1jOZVWnAnF9hNzN5qod8CwGlXyisgku9vjTrod8kfK-r9XD1_Pc560MhIx4EB_flzG43phTdBuX7iGYItrY6QERmO-eO5etUhZxcBxEn-IgRiPGz8AaqvYXoZhQKU14278eI1p8U07rOhQQ1zyqX1EGB3"
+        },
+        {
+          "title": "[오늘 날씨 03/05] 밤부터 전국 대부분 지역에 눈·비…강원도 폭설 예고 - 월요신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWsMjGGEHPd851Ok2sAG1mdeP2ooGWlvlkJ_-JXeAWYG4yRbvnNIgDjUKsNEDSm4RVLdOdCmAZAU0ANpf1Yq7MK2BXM99fGnu4wOyDXYsQgKCvQegDpwD0yHegYVsu5QPqctk0tYpgeGtfC3UxAcz_bGonVQ=="
+        },
+        {
+          "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 밤부터 전국 곳곳 비·눈 서울 낮 14도...주말,주간예보 - 퍼블릭타임스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-qKZunm6HECEQ4XItNTxWNwRTlwDnIry7e1nqJfhp_8VK_t_wLnsfqKNAwFkn8AbUayHNq0cftCCB61HidhRvMqChRGKqPNcK9mFWglZ0fz9TeC_tcA8nWhHWttmnm-MnCpGZvCk1ZtuEqquDZpjX01786Q=="
+        },
+        {
+          "title": "[오늘날씨] 전국 대부분 오후 15mm 눈비…강원산지 15cm 이상 큰 눈 - 문화뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgNitL1nimN_vVzI5AX5MZceM-_wiPB2l-GdiQvNMTRYlixf-OaFZkqpXWvtGnYS3NHiVWtQSlgrwn1ZATkUrox9BsnMGgrbmD8up3dB6_YwciuV4Ak2TUGp8nxPCyM5DyS_Lfsd53I7OMbjuuKx57lUM=="
+        },
+        {
+          "title": "오후부터 전국 곳곳 비·눈…강원산지 최대 15㎝ 이상 적설 - 연합뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZMFQnL5VPt-xVIZtcd_AW-y22k-GofwE2VT1bC_Q7fVybrmFg1sCW4rXe3iXIFVYJpwcU9KO_ihOYD3GjkUe1n3_gc5se5JQD0u0RaGffyPXr9s3EJlKVwG-rvNndPdWyU62ln2VRaDE="
+        },
+        {
+          "title": "겨울잠서 깨어나는 '경칩'에 눈 소식…전국 대체로 흐려 [날씨] - 경기일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-Cs8VE8ODr11QixZvr9nb-OdWia0CSALFYs9Uep6yJh248vkNUAOGcsnfPf0aRi3iorjmTeGt00AzahrO7Z6wHqi6grnnBy33qSArIyGDiGD-mmSTunAFCkFCP-xuIKeVJiMM7mhpq0=="
+        },
+        {
+          "title": "mhns.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgNitL1nimN_vVzI5AX5MZceM-_wiPB2l-GdiQvNMTRYlixf-OaFZkqpXWvtGnYS3NHiVWtQSlgrwn1ZATkUrox9BsnMGgrbmD8up3dB6_YwciuV4Ak2TUGp8nxPCyM5DyS_Lfsd53I7OMbjuuKx57lUM="
+        },
+        {
+          "title": "kyeonggi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-Cs8VE8ODr11QixZvr9nb-OdWia0CSALFYs9Uep6yJh248vkNUAOGcsnfPf0aRi3iorjmTeGt00AzahrO7Z6wHqi6grnnBy33qSArIyGDiGD-mmSTunAFCkFCP-xuIKeVJiMM7mhpq0="
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKeDdXOERHY2VHanBHazdqdEZyX2h1MHdMaUN5eVlETExVTjJudXNjaW1EZ2VDTmlxQThwOENpeWtuM2xnSWhOZHA4V2hIeWxNdVd5TDdjTl9kUdIBX0FVX3lxTFAzaUJBNXlBZXI5LWRLUTlRVTg0OEFCRlFmN0djcTRkVUdIdnRpcWpwLUl2aVJzZTlndTdCa0FKT2gzUDQzaXJEZWkxenJ3ZFBmcHlBamFlenU4cnBid1Aw?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CQm9TRWdNSWtDdHVPOGQtTmRDZEVhTlpJY2lOdnhYSGV0VVVxdF9rdUNSeHdRUzh5Y1NTNjJNTmg0R3lEMlppb3NBazJFaVk?oc=5"
+        },
+        {
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLd3VjUG92cFlxSGZ1OS0wbjZ0M2FUdE4wczF2WkdaYkJTdHpwOWtFNHVLdjVfc1dDQUhjV29WSmhZSk5RYkpQVFFSN0lPV3B3S3dBNTNONERaZEtZZmV5SlEyMA?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVUdLVmtsQlY0QzU2a2EwWDU3TXAtbl9odXUtMzU0RGJSWWl2aFQxS055eUVQcjRYRXRoRUtpYVAybGc2bU9CclZneElCdHdXU0FNbUpnYkp2czg?oc=5"
+        },
+        {
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rY1VfLWNlM2xkSlJDdDVxTVNVaGpTeFZrU3BhT2FTZkt2TUdMajExakQwUDhUR3c4TlRaQ20tcDB1bjdnS1hGN1AzNjBjZV9XVmlVY1dSMmw1SVHSAWBBVV95cUxNdkVvUk04dnFFV0ZBcjBfc2llZ19sbVJTblo0WGdPWnZWYVd6YkpWMmxzNVNlMVVCZlBXRkdtM1B0aklTdnM5Q1NnSU9pUnpzYnNNQnUzb3RySzVtNU5wTWw?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKeDdXOERHY2VHanBHazdqdEZyX2h1MHdMaUN5eVlETExVTjJudXNjaW1EZ2VDTmlxQThwOENpeWtuM2xnSWhOZHA4V2hIeWxNdVd5TDdjTl9kUdIBX0FVX3lxTFAzaUJBNXlBZXI5LWRLUTlRVTg0OEFCRlFmN0djcTRkVUdIdnRpcWpwLUl2aVJzZTlndTdCa0FKT2gzUDQzaXJEZWkxenJ3ZFBmcHlBamFlenU4cnBid1Aw?oc=5",
+      "original_url": "https://www.khan.co.kr/article/202603050705001",
+      "published_at": "Wed, 04 Mar 2026 22:05:00 GMT",
+      "publisher": "경향신문",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKJbvGbutHREi-vQ8ao1WlwK-LkbeuO_GPMCbkf6VWUCprNYGiCtDqSYvli5c5V3gRve2vI4T8VUtfSPjKroKXzFQ3Dst8U2S3tGEBbzHIMh7TekYEYRb2hH5MtfbDPuYrXzkxZHut39vaVQR2v9bcSOLoVTT6KdT3aVcquUJXEsEHpYoR5lzMeprKApZcuQQkwb7qP8BzPQ9Pp9v0Er2rsLCD2CzfPN6VuBOln5eyYmqC5axYtPK2C6BzZOhdbId9g5xv0loz1uhwN91yhS0gFjqZ05s=\">기상청 발표 2026년 3월 5일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0bpzDt04Pfl3tlG8Ijgl4Dsw4C5l3CVqJKYNzbsy6Tzb9zDYkgVBVVfOjloD0KqWfyVDEm357cISEcqRE2THtGrLO_Q9n8Rha-nsg3tv79cOw5vsCVGEIURSIPZ5CWz9a0ymtKXjGCkzPxCwgYxB-ucb1EUMu3AFuFN47oNJJ1nUAvwp2_KqJ1oeA-jVEng9ZBT4kVGQ25BPpjH-tF1NRrb-a3XlFRznvxdNMi5c2DSrouITAxBlrDakTwzwOG7HIU7iWKPIVRqvID5vs0L1Rdu4SUZ4=\">기상청 2026년 3월 5일 예보</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGfIioPWzSTW6HVCOYc0r2M1rOoOtnCmvyqlSbqNOwCz4DduqL7FjDmQNk1AxO1Zc_I82uoUlNar0-yNp0_0Xg47kEMfB_S7qpSAVxjqhu-grPk57oPdd_GZ5EIu6NwTpXhUipDf_0Lbnb1QPc1LUtgoCO_UiVZAAYVmCWjCbc1aiNdsrddE3674Bw06G9y-wFjlbWvv9h9Nicuu2x9s7poUFKzokxdtyX0fjvwwcdhDi12kgjt0MvBSHBVPO4DUvHet--WjKXRKKn4YM=\">2026년 3월 5일 날씨 예보</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6AYqmGjvBNVTlsD4zSwn7j3THcNDxmhW7Od6oJSnfnvJy87hGWbeAM0AA25dYi8gHzIHInenWpxPa4rJq9jNfv4N8O-0O1wkKzwLV4wY9JhVKmssfAZ5frfwvNJ0flHwAYSqcYEW9nzzQAM4QkOt2M98ajkszSdxYRVqSVltGrXv6VTX-Tl-nffoOg4Q4yknAmHwZu3LCFBGpjDbDAJLw63dfnXLa-bETaISrwm9nGyGPkvFXRWNIm-5zfgaFHJvj3Nzw4kznQIY4P5KDjb01HVM=\">3월 5일 전국 비 눈 예보</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnF-SOqKiXcXIFS3D1W3c9YwAwH5G6ijjdSFyWC1g40K47bZDDb7AfesF47_XKv2O2vNGdlqqQUFT0TX3mAgun47izkqDtW_2OuADstcAFAvuEsUZeoo28LXZDnOII92OdCnczphkV6WHuDhrt8gAgAl4Zqw0DZcq4sMy96H6xTW84iVZjFkRoqS_60ZyhIgfPaWQFTf7201BcDdnkKNoOVtJEpg624AhS0oVpn1B0tsojexinMAvDDGRm3bq8w45ckMipH7q_1p9Yrd8DTw-njO5pSeuOhk4pK4wC8AnR\">오늘 날씨 예보 2026년 3월 5일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvF01J4reTs_TNd9--vR7p3iQdK0MIgUxNGpegUBjjHMWYKyFJ_Tw8hle9BzZnIMw1t6WvhP2knYQ4dJyWdNbJmMGk1Fm7DNS3MiDgqmyltYteolyOKtspA0oMCs9wkuTz3FHSG4HFwBbJPLMnAd9-6xhuzMswAWo6C0HtCSieBRF2ar3Q5ES-5yKA5EpN451wPK0Xlk4nm_u4ssfcLWdFRzA3_mcdVKTzLlV92c_s5i8A7nXJOm7tnm260ho8PeBSjNbhIybAeG0ZCrAlrcs2glkYXkAuYpoULh-OmrA=\">2026년 3월 5일 강수량 적설량</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "01b4898d-d391-4526-86dc-dd290e721e7a",
+      "headline": "‘전 세계 휴머노이드 87%’ 중국 로봇의 한국 상륙",
+      "summary": "서울에서 열린 자동화 산업 전시회에 중국 휴머노이드 로봇들이 많이 등장했어요.\n이 로봇들은 중국이 로봇 산업을 빠르게 키우면서 만들어진 거예요.\n\n작년에 전 세계에 나온 휴머노이드 로봇 1만 3천 대 중 87%가 중국산이었어요.\n10년 만에 중국 로봇 부품의 자급률도 90% 가까이 올랐어요.\n\n중국은 정부 지원과 싼 전기료로 한국보다 20% 이상 싸게 제품을 만들고 있어요.\n그래서 한국 부품 업체들은 중국과의 경쟁에서 어려움을 겪고 있어요.",
+      "verification_tag": "unconfirmed",
+      "verification_reason": "이 브리핑 시점에 AI가 충분히 확인하지 못했어요.",
+      "evidence_links": [],
+      "source_articles": [
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91eXYtZUdCeGoxVy00UHRZdzJwLXZ4RjZrZVRPeVRrYmRHR2ZyRnpDSk40d1RvNzVBR2dKNHpkRUVQWGRuS3hnbEkwc3g0RmFNLWViR0tpTW1qZXM?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91eXYtZUdCeGoxVy00UHRZdzJwLXZ4RjZrZVRPeVRrYmRHR2ZyRnpDSk40d1RvNzVBR2dKNHpkRUVQWGRuS3hnbEkwc3g0RmFNLWViR0tpTW1qZXM?oc=5",
+      "original_url": "https://news.kbs.co.kr/news/view.do?ncd=8499436",
+      "published_at": "Wed, 04 Mar 2026 12:32:00 GMT",
+      "publisher": "KBS 뉴스",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ-zVy6AfxwV6Da506CNiN0QGlZsvmkZrAPgmJqw2HbjhCTTfAhM3saoRSo7bqVUEzJS95y03f2WXMEjgYBgAkiA5r2lWdfG6CgG9eCdygKSN3OTMspqc4nPu6vVrY4ineHFQWsegAZpbkSgFDJRKVHvXmwPrEWFlSBc90hiOA2Kqe-m8QYGR507gouo00PjpE8CfkH5S7_rgb6CvoRrLaW1nByfwKC--MAeYzRfW_1z55STIkoUVI4f-IXRedafp4kt44zAtv5AObIH_eH-lblnbhA4NmAoharyYwx0FfQrH7Ldsh715RGZSK\">중국 로봇 부품 자급률 증가</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAw-UG6FL_DphyCxYmY1JBbfeoSTDFnQKMqvlmS3aKjt1omrF9KVLRGuCn-_ySqi0k-0PH6ka9j8d_C4E-oZuIYPamK7MBiYBBFnqtTBgC_IRk66a2xhlmpbyqhW9hgRBuOeYMFQ7MVO30rxnc32UsFY2-O-VX9MUyVKAget4LMWhN1F6njmV9TsnS08oyP9jLGCL4fU0lfxVJrqBNMbc3AiNDim0mia-K1Z5elLCRrQYY-WtlQsgWrrrPVMnhxcTXIV1BTv0LOUkbZkFRwHkKNgHVm4ih64v692tUuR4g28hSaAujFQUhNbs3mJUCQ_GULpW5OIHHZpywlKI\">아시아 자동화 산업 전시회 서울</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHByXO9WFelndJXa9qOrZtYJSvZw55uCY271jtNvFERvegGErIdjp7HQ6xlXokW_XqEOKZxK0eJb_vtOMKTKWKYNW0ALp752EQ4w6NxoDzvidNve9vfuoc7a9auDQ9yXmB9bNb-33DcbH67dLagscygcwOeFZ3-6lzj9-1-FSBgxEu_c5BKryQVjhmKRKwFf9SI5O2lpvF8tsYyGPQhat-z4NluqZoIW0rimTRWH-cJiHVDC2VvBkdP9xyxdEtWuKHGjxkR5QVs_2QxgSrJFngWb4lcRosFz0Y1DP33UnjV0etpJ_xdaA==\">서울 자동화 산업 전시회 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcmxchTGY0a8kNsFNsJBm9yGtQOh1XAmqrZQ5OwwjCMhnXR19X-2AC2MaI2_c-FjV5PoueaM1L-N_SxOXfVv8L0uFsQVoLadobPTIHRn0JKdbJLclNM93yS2AKJCe0N8NEJ1aQMeqrsG3KQ3uQyjaVbHwenqpDCYmqzi9bst4E-oprdZzi7dkwGwych4GYMMaOw5hZgPBGisTEQec4KB016Q9xAfmUEtiBfhXO8yXT_-Ido56YOl1aTSy-M5f028I8VO9r_C252j3nbdyxTpba4hkFriJ2jXVaqHiG9E8CA13XvZ61ZD_sLQoKvg_-OQ==\">휴머노이드 로봇 시장 통계 2025</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs4z1JXYdMSeanjqXKHLcgjm0k_G70XBlnqqUYhsfu7V8N2VPbsHD9y-TELfaAhn66RbtX6iaAsSM10vaZWY2FBbJizVAdzXL0vAgjkrkklUY-u0VUzH0qy00uEXdtAL2HbDUl3R5Jznv1DM5botQhrui9TiGMjzab1Li2jIGbPQ2YAr03rvPOj-CZHkqDOdR9zWZpsJIV-tidC44-onqqH_PzvTFG1P59ocvr61PQiVt-vZGl4pIjtPNsHom2FpvjtDJCjFsxOHMa8mBp2cnIcQlUJgtQh4EFPGNR5Zaih6r33Eb-MRX7YbvB\">중국 로봇 산업 정부 보조금</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBgSo-pxziboKapmp4j15NwCdK80iePuK73axPpwGELfXmbNkdPN9wiZaFhvH9WpipavD9pPfulJNt0s7Lr9XK5bNxMvA3_-IrolsbDmGMoEC4V5-CHnnaQPr1J2w4lNNh-EnVd9seJv_ZLpqcxU8QFAHGsx1y6XWGy2v2ZR9mF_nDTcmQ5dwVgrhx2UwO_ttNVl1RUH5_3wfVVFyT7BMKaZ93z8kLSkaDpHyM-f6a1CcIQQO7e1mngwNIgUI3nnQD8ttUR2AjxgCo37rOJTIT19jTEdIKWfo2ttkzg1OB4Z_ITR-dXQKM47kUhNjLpGFht4OKGzy-5Hkmvs9536a4pVoPtSjFHdL6J7VrsCzlP5snOuaKBRvCDvzf7S8EnbGkyG4wxRDz\">중국 휴머노이드 로봇 제조 공장 홍치 JAC 준제</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFu2bOM4M89l_SKkxzBkDdXS3Sjdc4rwVoL8s-a0f9Xcr6A-gYVlP5BB_jzbTmDviMvOdd_YBcSrhSDtfq-h8O3dsaBo9YMWelL_DGFZR9fQWeoki9IJ3r2IH9bQ1KYyIR2ZhdegY01WlS-LeaNU4pfKE7tY207ifSvw9runoZ9WRAgkmjhXtzIBtn4h42yMwCanRYZINcxnwEWDG1FfZrRMzg0h562zWEIoH7bfsWjl84BTgKYdFUPerJDyb1qs3b0x_IG874GC55By1d9HfqkcuEECGfiTeG2OhXhvL9gRCQL7JDkT3xXhK1CRHzoM3cwYdNoncaa5JV0562PLK4-5M2xA5bm9Xe8WqVQdVZsv-arOcK_bfMRCQaOr4asXCA5ooGoR81kuvXFddNlanh4dQ==\">전 세계 휴머노이드 로봇 출하량 중국 점유율 2025</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "e9545a4e-1c76-4df5-8ff1-9983eb0b1689",
+      "headline": "‘순교자’ 하메네이에 ‘허 찔린’ 트럼프…확전·장기전 압박 커져",
+      "summary": "이란의 전략이 도널드 트럼프 미국 대통령을 압박하고 있어요.\n이는 지난 6월부터 이란 최고지도자 아야톨라 알리 하메네이 등이 미리 준비한 계획이었어요.\n\n미국과 이스라엘의 공습으로 지도부가 사망하자, 이란은 중동 전역의 미군 기지와 에너지 시설을 공격하며 보복했어요.\n이란은 약 5만 달러 무인기를 사용해 수백만 달러짜리 미국 방공 미사일을 소진시키고 있어요.\n\n이란은 국제 유가를 올려 미국 물가를 불안하게 만들고, 11월 중간선거에 영향을 주려는 장기전 전략을 쓰고 있어요.\n이란 최고국가안보회의 사무총장인 알리 라리자니는 \"우리는 장기전을 준비했다\"고 말했어요.",
+      "verification_tag": "unconfirmed",
+      "verification_reason": "이 브리핑 시점에 AI가 충분히 확인하지 못했어요.",
+      "evidence_links": [
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMoq0V6nOAGajThAnKL3XWBYeDUIFv69Z8vmaQgERh3cdPwGZIJYX-JUEVJSxwOV_U-XdG3vYfcJZsPU4Ob-o-jKj_neaQcTaBfPcYs7nK-vDBmxCA7I1mmwX21aNDiWMVpZEgmDCn7uGQGmLP-IGsWQ=="
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJSgXbRCzSaT15Tv2kZIc3XhuOVRQd6XYVXyU3L2Rpgpg4mICatOINhYWmGXEtQNSg6eGChiGLSkWrNXvafd2R2r32H0_whAGXILP_paeN-UwnYj0ulKxbSkfnAomoSq-mKpQY8lP5Oc0VyIowZQ00x-rHVKfQQJ9wWbzQITLHyBF1eA1NDw=="
+        },
+        {
+          "title": "nocutnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXd5ei0KKnMf2CsxABWQH7YlFp1sG3twByWhmxH43t3_SHgnx3VnRO4H8ka0p9BPIYGE3Hki3GGT32FRBJkvpkFAG0-lKQimrkZRf06c8e-kTaCMhPEeyEFtK8AVTcNQZgpSc="
+        },
+        {
+          "title": "hankyung.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgK6erVVvFUpn9E0uGLyIvEBFF3ylEgjWix7QusyPABtNYISRJb2Azw4gLGL1yPMv8kl_t0oPApPIPbUeyIyje_qaCErDNSHO0GdnEr4WbG9nBI2yVB6d2HRErzHuXSeDLXth1rvrnOElKaduWUHIH1TbZ6VRn4Q=="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIcKIOjBET4HIwPZ6nnDMoX84bF0irIQQI-3bMxqIVuyJRk7637ivFcGlmtoJ9Rz7o1xZf2BR8_UIIAMPORU_P79paWggQPj52ECaauGlndpYHZqBSKaoccWyBhkuFeZd"
+        },
+        {
+          "title": "edaily.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE26OKzY3hQziHZvF2zRNgs7Ld9K3P3Wb8_2z3HtB9v6b4hq6scRUn4veB_3LrzsQXEhFjNHnwK0szsqNHjW1raihrD7OnMR5qSFxQJLa5U_72Oi8ftQs5eOsRiPpXQnlVyj_Vn7hF9KheH1MV33fyRAtcoUn8M6iyExmKo"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5Pg7-VFRHSjg44xBZ1cEkikY3dt-ZnR92AEDpzmBo2nEc9qpQlHO2seFS-FJDaX6Nze2RH9QDFIsZ2bPUcdgTECyVuRFoF8KeaHXHRmugRgSlr_RTBPAkfNY0WGStExROYVxl4OAur80"
+        },
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERP2Bstmcvh08DuXYb-L89a9Z-iF6xca9KwMObjKLsQgnljmel0cseBWvUWaEOc6SodcN2sBrMGXWB1dp5rWJHcwLzya9pqMQZWEewXcxQfnLTqB-IZXQVPmiij_dvilSfGXn5ma1Z297-NB3Wyvw2TQ=="
+        },
+        {
+          "title": "news1.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdE7GJ8qIlk3iNk6vs6nv8xd7Vewk0WsT5R8JU0mAgYy_sIEn10Ohov1ZCe4-CT1CbAHQIU1PeHOc3TEoD3RYJlVDF37UjW8MGGXsbtIZKU6Ju7zEEA-k3Uo33njAXOTUlEi8M8yY4g=="
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsw8mhWf6YBZbewWav6VQaY8atsMd9HdtTPeb3ftxPWGcOyEqTyX2Pm2niiyNkFlb2SRw31k_qyGl-NAykihp73OtVybtO89Ev3vctS4FNzwWPrWSZlOiSSRWxhGf4BosdJDS7o1BsVWo4MILzFW74KY1of0WHcrwb9p8"
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbzrPDroJdGan8solq_99NprvgrIBUAVI6tPGSVx1H8tytDiBRyH9fecuwJg8WUup6rrcznYZFdRb5ISDy4ksXluq5_M2HeNGQjK-ftqEiPpNZArbd7i1hgPd13bMjNIYiDWy9nx-tuSi8lSljm7QmcFKsLKL-CljEM0hU"
+        },
+        {
+          "title": "g-enews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkXDQtHCXNGCIE-f4r2UjHuDTnurUGDFWOvR0RN4EYNcUcS7Qvnvj0WnjaHfZqLW9EBI2sGE7wjQjwenQp6KeKVzle0Bl0rcaOHhNfrs9Wx5qzvtBrY0ydH5Ysc6qOtzGnrQ0bD_4hci9J0a-9z_ADybeEj6LIVCtrLi0zn6_sXrlW3wakBOrmNwKl0g=="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMrxZ1F5SnSgUH_DrVagnzXT1jGo-WzgsMQgW35w9tMhG-Lyuwl2GMicfAVgyICGkxdlYKBC7zdqvoqS6NyuXBMePWLbfS0w5x8RlgcHnFsCdblvxZI41PNLOMj543KjgH"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjKs5TErVCg0L2eebPw4OyUxWrWfCbOY_Br9hEi0NpIzn53vguFXq5ESdKEYEkXS0WkwdPjzuJy4VgjhBWMzmxu0SIs2rA_OuL_nUlFcKjQAp_kceFMaov87yiqFyPmYzCkvmABAEO7yTnQhmEiMqEtTa5_Z2t2DQYTSJQqIgWf3BJnkzuXfRh-Mi_rPRpWoQkHCJjbTUBmv4Z10="
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENY9mZr0hrF8se4--YfcWtzgTi01RntOHr4FhTq9gYImygZqo94NaMV6GcX_yJ1RkaThfpsxV4bYb2S1w26aqwqsxbnXmMXEK5m8ILrABRAIhLCDXPe5VTckYLjOiLJ8MCC300YeUrCEGP"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCnRfHKKIWrlOzvtczN8jr2vviIbuOSNSnjn_TLGdzBbtswgbJGOax-mizcW9MLyfFTsHJKDNIzuJgBghfMQT5lS_5MmaHQ5QBoeZpAho1jnIDY4qSRxL-lSpeLmP6ZRRw1krCoHvVhGYG"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtUzogrSnbgS1vJ-Msf1nXnEAOvUSukiDoqSHb6IoTCp0vFKJ5r6X7DuHKUExCygrD4wOxsDuSY_EW-n-GNxAe79Kyd3dBinGHtd-3UNnyln1S_CjPQTeRjATGcHIbUO7jD9aoy7zZAJb"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED8j68W9U7uCorJwGIHQPlxOIq6VgIwCg4FUGAxRyxe-CYbmfdEkjoyTMHRVXJJXybdhEatOqicr5d8WEZcxzoKnYFskstePeU2B87GzlCHADuKFBc26BJnYV6F0e8dyAsirpW9IMgU9C6mrbqw_-Z4RZ0ORnpy537Vn1VflN7LDjpkmJTjEaYxbzaQQ=="
+        },
+        {
+          "title": "polinews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcu71ifWiL6Ue-nK9CPJK0LQs2Re2R1t2X33ybiKAWHlbWAkXyTJnLGGPaMOqFZ9L8m5DX9iWmPwrDPa2Plra41dMsLdX39aTAaExAo-toh3Iay42QbdW1sVDNcFqAG7hNIMNl6OVAxTqjRFgzZyhIaS1Alb9JQ4o="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDN8DuZkeQxYnQOpCwfkmT9o3jQ6FGbfeU7ZBcRlPOB5KFks7H_xq28bftEIfcZKl2d-dMyErtkD27g2pd37gUsZFQzGr-0ouAY22LLit7XDt7asOVeSjZxlSlACt7hLSK"
+        },
+        {
+          "title": "heraldcorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVb98ngdHpmMbBdFmE13ZiATDjhhHHy1RCCR8nbc9rR8rW_4CUq4DsFH0bI65xaXIGmfAyhElTJSp-OWBAvEL03oYFaf_fiYLRu7NTQ3Y7-1Ufec5QQSmdjkkMQHhkaIInDbLDln4="
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv_3dZrRjCZU6XITincqyEb_tprDFNAI-W4bojEcz0YsqqPek2-SocCaBR9oSoeC7jxMKfRaXg9qy7LeYnYeFEm4xTtREOkVyF_kh3tjuXvZR-PKXVULqoQjlbjFR8WmYD1r3kNXrqFiXSCxGYg=="
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1wPGFGxEOJar8WyYYdhmQi04MheFSV2fSDVoJ-ixUTRxPWGj-6HD7M00w_zQ6ee6TUaE1bAcRDurEuN4y0N1yL8eA3F6kCZN37NUnXotpGVfutx1lXRDNqm_gVzNN2g8-cEGyRrkt-GxBGq09G9If9jOxpikLZnekKZpDgO9y_xY-wachgY="
+        },
+        {
+          "title": "4th.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG704oXAFWizrBFFgtanNUrTA3YMq2p0rcWvWcrd7VXqoL-8orsPAIoxwCH62abhSeCG83IYGE7zJ2nB6mmvp895o1MLs6UcRinSseEDdfJYu-CJZMMGHH3XwMHhBucpbhGf_wfMrDqEhagi-9aBy4U9A=="
+        },
+        {
+          "title": "asiae.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnm87JRU1fcRkABGD-hlz-J9YVkaz0uSILLHcbibczqi-ectGaqsm5HLbBv-TbV_uzCWQznMfyV9go26bIFy-zqcE0rlXqrOXOMqmJ21j7Gh_rbT26cmqAlB0IBivsz-AfqqoA4YolJUsBVsm-"
+        },
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVxYv0O0fOA582_qSMSmh2JVKlE7HWR6peBQrW-n4ZsMvHALSwHpMZVt0HS6nsk36huVZPSDLdvcfo-GjWVInE8bxKsvv8r4QAweNGjFmDqsSQVsiKenZ_BNHZtQ9UxDspoCA5K9_ed_dFnIidMcFp1VRF"
+        },
+        {
+          "title": "businesspost.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_6p3w6o8tAKAzFC7bfh5ilX_ghjcAeEHK2xD_wNT6NKpGti8vQbv8q7TqbKtv6-ONpYvOCrvQB655fPyXqjo19KoLnxZtKz8MsJLbJiKcnkAWmfSCM4ATMgMxscgtYBwa89NXShtg-OxH3KPkP4K7b0p9abVqqFhowhg"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1neUJkdHJVeS1BWGFpR01VWW5ia1ZLeXdidVFMNVNiRkxTUkZCWGhrZnQ2UjNSbXRQWlV2UEJWalZoMnhFOVlYMkZJd0pERko5SjM3RjZCWTVEVThxcUdFXzFxOFU3YWtIQlRnbEtMWnQ5RmM?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94OXhyVC13S09ZUkJ0ZEpVemE2OGd5S1o4dGctSXdhZmFmdXNsYTBqNGVjaExRaGZYNFVyN2sxNUFqSW1RbmJGMEcyQlpYenZUdkM5MWo0V0g5R0E?oc=5"
+        },
+        {
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sSzZmTGtiUFdDclY3Y2NvV1pPSk9iVmFlODF0MTN1cXpvTjROai1pRHlVNGNkbFdhUmYxbFZCa25QWkhJQTdtRy1vVGJEUTk0aFdER2V4TGgxdFVkcmNQTDAyMllUMnAzeW5qaV9uWlB4OGPSAWZBVV95cUxONWlybDFYNFBCMy0tQXlkMFJyLW5uakVCOElOd1Y3cmZGUktnS19pak4wZUJYVktzb1FxaHV1RENlYVdvT29WVkpMRnptNGY4dWk0ajR3NFpYb1hPR0x1cWFaQWxsR3c?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXJ6NTMzRnY5dmE5UDlvSUN3bkRfSUpmVW5ZUEk4T2p4UmYxdnQ5ZlA4RVdqZk1faG9Pd0xKTmxsTjNaYktDRnF5WVUzRUpITWlmN2xtUEJpdGxtSXJsUjgyMWFKTnF6SllOeGdmWVpXc1BieExvX2RfNXZNdVNnTzc4WFFSMUc5NWNzblFpNEIxTG5WdFloOFRpWTI0QdIBsgFBVV95cUxNNmliYlUxNVN0R2lQX2pMQkdkR2YzbkNrNTVTT0txZFN6Y0tyZ0pxLWZUMk1tc3hrZlhPeDRwVVBFQkt4QzMxQzMxblJocHZjSmZvbUp3eWJ3M1dFcWt6X2tKUnh2R09wc2lrcHJKZ21uMWZ3ZVBtXzViaUUyUU9lT1lPVWZmNjVjZWhjVGdfRF9ZTVpWSVlGTVZDOE8tdnFxckNsVjRHZktnczVGZHVJNmt3?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04OUlmdlVfTC1iQ1lTS2twRW1qVDNpWTJyTWFXOEV6NnhkZUo0RDRMM0ZOdHFmaGMxSW1iRVZvLUVVOWNkM0RpY3lOWGVSVW8?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1neUJkdHJVeS1BWGFpR01VWW5ia1ZLeXdidVFMNVNiRkxTUkZCWGhrZnQ2UjNSbXRQWlV2UEJWalZoMnhFOVlYMkZJd0pERko5SjM3RjZCWTVEVThxcUdFXzFxOFU3YWtIQlRnbEtMWnQ5RmM?oc=5",
+      "original_url": "https://www.hani.co.kr/arti/international/arabafrica/1247677.html",
+      "published_at": "Wed, 04 Mar 2026 11:16:00 GMT",
+      "publisher": "한겨레",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL_4p11ZdYcVFmKn2KuPiVtUjuQjMNkxVBYJbWlTnZTZ-QCnsVNSB4uSPDuxQaQAAeH_8Lj3fghrps2XjwhkzqhtrtxSiUm--dSkMH3RfKZ710PdAKC0wWwhgKGI9kwVyt5swn55iYUWAJ3ARhYfja4DWapWpI3mmHPr2CgSGa1iFhpT8czZCaylIjGzeHLKPEvSw95o9PopGhCYwmbNPYMDvEHFJ_iWMZ_0qqVhoDRstHz971nrqqdCIvfUKKmlMmALAycYALn5Iz4j7HpEJbk-8a2iBEcpSFv98Z-P-YbJ1VmjX1Hcuw1EWE4iMKVvm2BsZzZnbF6WBHplcbueYV9xPWrQ==\">이란 미군 기지 대사관 공격 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDLqL9CIv6aUB9man-KbDs5tNkm9vih4wfAZU7Uz9cfoMyq5-mKIytj-ANJOeLNR6oCBNkBaPz3HSKdPTLYxYFf3e97x6D2Spf6qkgIZ1RJRgYbCOKpYcsW2TRkwtN0q-Q5Jp3PzlOPhGYPXexQJQolN5MBjXSgHI9Gi3XY1sNO4iPYzNnoUpsf1rDTn6kSstqo2oAb3qVVffi1XDFxOVCPX0hhx8wS5w7XdvQ_LlUfFrkK2zicIJPUj04jhLVM_7yuRU64L4bg9EulblpT5DX6uAeY0WHVlNlz5W-mbZorLNCvMtb3l7r4H8VuY7HQR-fqfJ5EWcKGOwrLAA-IKQhufqolnA=\">알리 라리자니 2026년 3월 2일 엑스 발언</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtp0a8MxrbkZuT-wgODiVof9MFN6Lzh6dRYIqIvHFtRuU1PAcYFzTgcqsoCD-psYnhDNdCGHR3hhMfrjBPPilThTx3MGKc60VVcEj7HIOroH6USnw4EgAvzqos8ErqFuMyG_2rSJfXvkeIQi9g2LGHi7osUPYHJq9KGNxxMSSf1oyKfGHzjpZLM_1VtjVz_S8L_e9PCAVxXYggJobTndSXpSwB6DCKCBOumfYc0DOpc71HAZvqGZAiZXnxC57rryqxE7ATjw0u5IEBGXRYyMSMyLsTWM_jTrl04yILlEuWVr1gFQr8yT0u-5V_PA5UWnjJgof6t7RFuc0OyCEw3xSsI7-V177z6jKULaKe6pgZFgPcBkzduvVN\">이란 1000대 샤헤드-136 무인기 2026년 2월 28일 이후</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnFsC415ABM5xLBEfNImmOM0xcCDx7Am1KibhDfiA0_ptjd_aL33t95MK-DUWZdaNja4hw9IJgUL8hlpKVVkw3260QMA2_d1tOgZZq1dzd5AXmCT_F5nOaR4lwGR6JQrs1a7b2s5QX5WiBKeyy_VU0vk0cU6u74Blol3yAYyLd88btufCIIr99hmridAZG9wwH1D-Hyr-C0dGMZcQUsukv33d5KaxvJsOL-mVCdBUTVzboWHLF3Mn8FQuLjceyjUaj5ZUFODPo0a_xKWVNlWEIwE209RceyrE3PM_Zc1mF47WbdIEfgOilJmHfyOY95my1nSawpUCgZoIYDJsokf9uf4NWtWNoQFitwOLA1HJtJSJ6gfCPCbI=\">이란 중동 전역 에너지 시설 공격 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH3w9b-4bFR6NHqFpEOSQ3wnr3cTgmWHjgP4Tl88MZdoYF_b05m7b_75osY2_kqvHfdXkA8SRfAS07N0LStv-P69Zk6pp5ocXs2ZjqMo4B6TQuMAInq_tHC6DETfQiG2sJ_ItlQHLwAoEZQ7nqeyPjbJ9zM8PPCu9m-wlID7t1Md1-FbyXpKKW8S3orBNZspfoFQUgC5Tmz2NGHCpUFkXl9YH0HjaDCHzBhxSKX1ktdPtjBhsHbSudx34C6aU4LHEpcrpABSPhlxx7Z2SQIasf_BoWYw9dx7ArFIH9njASkdQxI6qcSQM=\">이란 전쟁 비용 상승 전략 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjFvuMZy3yanmADV8AzWQaMa7EQXWRf2-_ldI36SWAHHx4e9lR9kMTojhkU1INAXpEz4wNJYu4IBoXYbx1g-FP3l7iViLkiqKcFZ5vtixGIc5s1XSNd10MvfhcZDKM3ceplWS8hJtTRiSGZtwjmKJQ-Jrqjd9Jr5OEWVDsxBrjk6P-bhgzSOURDRsF47eaNiWRpisoXa1MCT2Zdzx-RVUK4oOyVgYIZvm8ZKfLYdtXLDxT3hoGmWGAZO61gL_iOtodEf43FMYfWqVYrTcxAXy7qcGNiXZlWmEpGkthI5uR_sV9W9izoI5c95GnCJvIpA==\">하메네이 순교자 선택 분석 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLZ1cvXU4Hffk3zOhJu-Gab3y7t5GjwF6i1roRwlPc7fmfEkC3WUA7hCVNMtzfAq-NUf9URuj8dPbcxQsTxLnUrzI-kmYz3KoovNXNe1QdPupTYMM_xqbQ5KR1nR7ZzusyVJ5HkgwGLyrKcwEChTvpfLcdko6q4UiTEp5U2AaDgrhTHijTHAidzZ-6DW1ompFItPxzDPZvQNlzKvFy9cyYZc-pW2GWitGHqztCLLW5WzXF8o2YFXUP8iZX6WK-h4xj7yOpzRSCjUsigMAEpcf2WIDI3Jj3BtRuFKJ0ewqPYUOFLdyfuQ==\">이란 장기전 전략 트럼프 2026</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "78451d3b-f658-4a69-a269-ae1745320935",
+      "headline": "국민의힘, 청와대 앞 ‘항의성’ 현장 의총…“‘사법파괴 3법’ 거부권 촉구”",
+      "summary": "국민의힘은 민주당이 통과시킨 '사법 3법'에 반대하며 청와대 앞에서 의원총회를 열었어요.\n이 법안들이 오늘 국무회의(정부의 중요 정책을 심의하는 회의)에 올라갈 수 있어서 대통령에게 거부권을 써달라고 요청한 거예요.\n\n이 법은 재판을 잘못한 판사를 처벌하고, 재판 결과에 헌법소원(재판 결과가 기본권을 침해했는지 따지는 일)을 할 수 있게 해요.\n또한 대법관 수를 늘리는 내용을 담고 있는데, 국민의힘은 이 법들을 \"사법 파괴 3대 악법\"이라고 불러요.\n\n국민의힘 송언석 원내대표는 의원들에게 모두 참석해달라고 말했어요.\n민주당은 국민의힘의 반대에도 불구하고 지난 2월 국회에서 이 법안들을 통과시켰어요.",
+      "verification_tag": "verified",
+      "verification_reason": "국민의힘이 3월 5일 청와대 앞에서 '사법 파괴 3대 악법'에 대한 이재명 대통령의 거부권 행사를 촉구하는 현장 의원총회를 개최한다는 기사 내용은 여러 공식 뉴스 출처를 통해 확인됐어요. 국무회의 상정 가능성이 제기되어 도보 투쟁에서 현장 의총으로 일정을 변경한 사실과 민주당이 2월 국회에서 사법 3법을 통과시킨 내용도 일치해요.",
+      "evidence_links": [
+        {
+          "title": "국힘, 5일 청와대 앞 현장 의총... “李대통령 '사법 3법' 거부권 행사해야” - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7TQMAtdn01IWvGBHYNCcDxW3LWjYc227Zob6ooNdbE_xusbJ-VUUoNPKTcP3qwTfDTtqW73MoJJg4s3o2wkURGvVwZiYei76rSnRYMI27c1eUQsLHmmVXXpCReodLLpUw1cFb6pKe7VWRYZHn3Xscc36vzoq3L-fjdBtXAHHORcuogfHtdGFpUg=="
+        },
+        {
+          "title": "국힘, '법왜곡죄 신설'·'재판소원 도입'·'대법관 증원' 등 규탄 '도보 행진' - 세계일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmqbWqjBIJYOmFK3xu7QQmGxHApkbdJ6tjkzgGCzxnj7pCmDdM6_Z-OsjyBkUkJWMx2fSiChd2-lKWelCVh01_5dCDGAIF6nTdBtZvQ2_Vj-vwHG4lYNP8A3okylqj-VX9YfHH"
+        },
+        {
+          "title": "'대법관 14→26명 증원'법, 與주도 국회 통과…사법 3법 마무리(종합) | 연합뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJRDgYmanG5n8fL0zrlAIcAo9K977f4SFqsEHuEGKCR8oMyeTujhxs5Yud_utqyXWwc7ggVLKl2qKEP3dn854qbX4CIa1OSEwfuD5e-jc3c0PSeV_Nkn8lbtYDevOibHvp04JHVQ-uXBY=="
+        },
+        {
+          "title": "'사법개혁 3법' 닻 올랐다…법왜곡죄·재판소원제·대법관증원법 '기대와 우려' 공존 - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi59Vlh1CVC00KtdQsgOzidUKn9P8gqO7dy_Wv5MXVPuoPOSpRe1DHT955kz2Aj59hkyIdWoM8NwdHmUCbBS4EUnEY2IQuAcbYB2W8AW-5O-BvtJTtRSTHILOZtA4mJ8=="
+        },
+        {
+          "title": "“판·검사 법 왜곡하면 최대 징역 10년”…'법 왜곡죄' 국회 통과 - 시사저널",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXLFD-vUgYpppX-aYvqDUvTvovfo8CVpOfR3q-uLdKAyhgvSHCZkhYraVe4RqB1NbLESP__Y5HDD2J4IQmZldU0HYMSJ8G77pz9Il9bd1bdqyDXpyaMjrig70g5rQ0F9-lhoFtpiPoA3iDweVEKom-W4smKUTnl2k=="
+        },
+        {
+          "title": "[사설] '사법개혁 3법' 국회 통과, 이제 법원행정처 폐지 논의해야 - 한겨레",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCjaOIPQleJP04nHSqqkuTrDt9l_TOx53clamaesdvPD4Sv9QIgRpCpEljyb4H2gnAMozQrA7jopkPEzRmu96MHVFx6DZTtcXhM3x5uFQxjAN9Dk0Qz0Wc0Rm9JvwbgWZ_UT3SiNKWijwmFEE4idsQ-v4DXQ=="
+        },
+        {
+          "title": "국힘, 청와대 찾아 '사법파괴 3법' 거부권 촉구 기자회견 - 뉴스1",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv29MeX2_uXvccqeXwDktQnyZMJtgknnM3W4_sEpJuUd24ImECBgGKbJ6Me1u7NG1d7IrL0PyeHGeG7L6LX0gF2W_veJyRlptCPdl1Kez8vjnIhXI3Ruep7Ayc81dih3glh09HVdPBLA=="
+        },
+        {
+          "title": "국힘, 내일 청와대 앞서 '사법 3법' 규탄 의총…도보투쟁은 순연 - 뉴시스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbeWfpFZIJliKpPGzZWX8t47X0BUcJl_ufGCE4Nr9UOtZzPH6zuMmrdswo6hlkdOL3kxehy_USQRI1ZCZVLmOImMJzUCBYlF_L7JHYl93ZbqK_Khmdanm9d6fv1z9a4FDnJtQQyBQAf4TPhWKT1obB=="
+        },
+        {
+          "title": "40년만의 사법체계 뒤엎기… 국회 공청회 한번 없었다 - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQoXdKThpq-Q_HA4koyCTHDN1FRgraX44mbJ4lMZ3thTmwO5GYkg95iIF0sVGuurY1iGeEHO8KFtNw6h6grlatI8hXSQi3msgU1g6OfUXzObZFS7Nc9wP3arnPKijAR6a16NgLNT29WKNb5mpRpiahedNifvc6-V5fHPKLJN6-u50JGL3OefMHjQ=="
+        },
+        {
+          "title": "혼란에 빠진 법원, 시스템 정비 발등의 불 - 법률신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEChxxAX0abeqRscJx_OD2SJkC1AdvoK52JkG4vYDZZ9U97ZltUXtRzzO11ZDgT1NQM-Srh81V8N64E29JMrfuczm5QDDawxFn5SwOu0mUIFA55mGT4L6rzErf55cQktx7YClbS8rPF7pV-eBcQ7RPzosC63TtcTA=="
+        },
+        {
+          "title": "대법관 증원까지 '사법 3법' 마무리…범여권 주도로 국회 통과 - 뉴스토마토",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSamgag8yzE4e2azhkTRlsTkr4Z6trC-8TJTSwnzPaztmXi9YhDIVmkONf0BdY2gqFzxEfOtMnK-PWxrjbvRC-h8dCcSfHq4onQXfpj9OIqWo8UjFxWxWQ2ddh7H_7vYhXVdgGdDIY2PqcTTRm"
+        },
+        {
+          "title": "'사법 3법' 통과 마무리…李정부서 대법관 26명 중 22명 임명 가능 - 동아일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDun7dpjN6gnjQ7-KO9DhCAFMWeQV5kGwDTBLD8o-HtEm9-yNKkBFzqXAfhRWsjTmB7bP9Q8rvdkhvM751UVe9d35WB6PNwynnPRXXYqUnaGacPFhMvmBxq4npJ-_I5IZPIFLNFyAoA27hqifdCZ5rTaHU3MOE7r0fy26QBg=="
+        },
+        {
+          "title": "국힘, 오늘 청와대 찾아 '현장 의총'…도보투쟁은 순연 - 조세일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHR_zui3uXlMW42s3Ps4ew5m81W19hD6HEoUjInWnRYVT4AcJliBmv_vXeQ45nmdr_lXWoq9tX4mXARtC2h5C7Gsl3XFXK7j2LB7ScnuGAb29Dgfi5O6FXmcZavUndBbz-3v8_pLJmowtyf1gSJOUOmpiXkGQU9LkLCoATG"
+        },
+        {
+          "title": "싸늘한 당내 여론에?…국민의힘, 청와대 도보행진 접고 현장 의원총회로 - 데일리안",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFou7qe9bZS0VP3fLUyu0524nLAMfQq5ArBCUtL1uwzYTTNaSJFHv2xB4gye81V1iG_QLwP30HSP3J4w-09xzgqmZ4AoY-tjIA0CrL-Jd8YJ36d0rXZcnVxpHuOSvhw8PXvWeHXh5j39lrd-icsyrqbKHjbcp7GjtD_XtddnctafPdHNpEUIWRklZgDJ4B7ElHhs_5pLyqcutQ_3ebFQOQJo_7kVNUXqIcF3GvD76BQGt548IRqraOwXoqzYtCUYSAdvWkidsChconk7lr57W6go6Yu8HyIiAbfH9woL_Pq4B4uxZtMpFL3807S1DBTNomeLNGHzSPOxXkQfdsY3rq"
+        },
+        {
+          "title": "2026 사법 대변혁: 기업 경영의 새로운 리스크와 사법 대응 패러다임의 전환 - 법무법인 세종",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-9XIb802tjRKriw6YJ1k9n8Dar8-XAIRA53vl9Fn-FAvu0kDzRFH9XXjw4AndeR6sK78KAxGee1pv93ac9wrQAs2-Hh3yfreYesQwqP7xVqMO1mxqgBbFc-OO7lVWqn25DyvrLVaepK7eLw=="
+        },
+        {
+          "title": "이 대통령, 오늘 임시 국무회의 주재…중동 상황 대응책 논의 - 위키트리",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQNAy3Dn7YdiKuC4xeYbf6CW6I_EnYt2OP-UD_Fa9WwblCJ4lXDTrn8vtCssLYCrGdJxB3aduj-yB2UMyDWWtzomeomnmgIwwpJU2InxnPlTnxO1w7P8BubaIRhND0SrywZ4MzWw=="
+        },
+        {
+          "title": "전직 변협회장 등 14명 “대통령이 '사법 3법' 거부권 행사해야” - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIwcE6wN99DMff7vcIo8LwDK3aqi6URC81EBsYckETjtO9n8MIhkI2tXbT2pt0bOPmeqsH0L7XovpWLjckXtq0cRy6UQEd4kO98TX5LP8CoAh85dQZiT4AVKZPDdw7zrol_XOSCKziZKFQ4STs-92okQM87ez1g1rSZCVtYxI6H6aAtZVAYCpiCQc=="
+        },
+        {
+          "title": "野 \"이 대통령, '사법개혁 3법' 거부권 행사해야\" - 법률신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0YF92-BVmbN4kBiXYwaQY203H54ycpUZ52HTKG9Gm7JJW5loL_ZHViP7xCkfNYvsQNhKPoC0Jn-HZwPqnfipb7WQfjF7nC12w5Dqd_kJNv6E2sdLUNAyQUNEpIZCLjNNsGNHbSOLy6IcwzpwkRgxvU1M3aLTLCA=="
+        },
+        {
+          "title": "김은혜 \"'사법파괴 3법', 李대통령이 법이 되는 판도라의 상자\" - 경기일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_uLQqcM1X17Fabn5YCXF_nWj-wjBKYUqslfaHF6jGloCu0Hm_Q8QKlRk0Y4dZtAlEbEF3-nExMe80Yz_lWUhdARhBrq9kVqMF1Hn1mxtPmFccKGcrfL9ughvb-ngxRH5a0n8S1YpFbI=="
+        },
+        {
+          "title": "법조계 원로들 “사법파괴 3법, 李 대통령 거부권 행사를” - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjPkpRvYQj68_-MoO5uR3Mgr1gd8N1ieMYrdoqbLapV2uT14K4o3TbNMu7IgxP4RJRgGvpMbZgNSsKlbsOaMzeN-8ZmuoHmwxO4mpQLfyA3LH3BjYdiicL-fnK_EO759Q=="
+        },
+        {
+          "title": "국힘 “李 '사법파괴 3대 악법' 거부권 행사해야”...3일부터 장외투쟁 - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo1K1jd68KBtBNmiJYOO7nnRG0JGCqDuRNgiD89I6BZVUdvN4xF1SGPHRrrWBmFu8WLU6xSokOCZIcRAp86QE23cWECwLV0Cs_cQTO_VIn5tACiLDlK2n1n-lJDqhBO7U=="
+        },
+        {
+          "title": "[줌 인 여의도] 중동전쟁 여파에 정치권·정부 긴박 대응 - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDu_600upT1CaJs-q0LGD7rKl2hR2AX8r2Lkh74UNpqxImUKV28Jd_ASqpOui4odACYO3IJWHUxfgDEtzgL7jT61_MxhAdQLkMpZCpkph94_anWunibyZ_m4xuUMWUdc="
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJRDgYmanG5n8fL0zrlAIcAo9K977f4SFqsEHuEGKCR8oMyeTujhxs5Yud_utqyXWwc7ggVLKl2qKEP3dn854qbX4CIa1OSEwfuD5e-jc3c0PSeV_Nkn8lbtYDevOibHvp04JHVQ-uXBY="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi59Vlh1CVC00KtdQsgOzidUK9HQp8gqO7dy_Wv5MXVPuoPOSpRe1DHT955kz2Aj59hkyIdWoM8NwdHmUCbBS4EUnEY2IQuAcbYB2W8AW-5O-BvtJTtRSTHILOZtA4mJ8="
+        },
+        {
+          "title": "sisajournal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXLFD-vUgYpppX-aYvqDUvTvovfo8CVpOfR3q-uLdKAyhgvSHCZkhYraVe4RqB1NbLESP__Y5HDD2J4IQmZldU0HYMSJ8G77pz9Il9bd1bdqyDXpyaMjrig70g5rQ0F9-lhoFtpiPoA3iDweVEKom-W4smKUTnl2k="
+        },
+        {
+          "title": "newsis.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbeWfpFZIJliKpPGzZWX8t47X0BUcJl_ufGCE4Nr9UOtZzPH6zuMmrdswo6hlkdOL3kxehy_USQRI1ZCZVLmOImMJmUCBYlF_L7JHYl93ZbqK_Khmdanm9d6fv1z9a4FDnJtQQyBQAf4TPhWKT1obB"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIwcE6wN99DMff7vcIo8LwDK3aqi6URC81EBsYckETjtO9n8MIhkI2tXbT2pt0bOPmeqsH0L7XovpWLjckXtq0cRy6UQEd4kO98TX5LP8CoAh85dQZiT4AVKZPDdw7zrol_XOSCKziZKFQ4STs-92okQM87ez1g1rSZCVtYxI6H6aAtZVAYCpiCQc="
+        },
+        {
+          "title": "kyeonggi.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb_uLQqcM1X17Fabn5YCXF_nWj-wjBKYUqslfaHF6jGloCu0Hm_Q8QKlRk0Y4dZtAlEbEF3-nExMe80Yz_lWUhdARhBrq9kVqMF1Hn1mxtPmFccKGcrfL9ughvb-ngxRH5a0n8S1YpFbI="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjPkpRvYQj68_-MoO5uR3Mgr1gd8N1ieMYrdoqbLapV2uT14K4o3TbNMu7IgxP4RJRgGvpMbZgNSsKlbsOaMzeN-8ZmuoHmwxO4mpQLfyA3LH3BjYdiicL-fnK_EO759Q="
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvcRaYZjuXabOEUW-yxFaOWRz4mm1HnbYer6C39eQ3wdfEbB_Vu8y4ITZA5eG3lP8h3pCu8YzfOuXq_4ietRpEHcqBRMVb-61JUqo-7RuGmFcjNqNyfhDXX3gLVJyZX7loaBbtDX3FleI="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo1K1jd68KBtBNmiJYOO7nnRG0JGCqDuRNgiD89I6BZVUdvN4xF1SGPHRrrWBmFu8WLU6xSokOCZIcRAp86QE23cWECwLV0Cs_cQTO_VIn5tACiLDlK2n1n-lJDqhBO7U="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDu_600upT1CaJs-q0LGD7rKl2hR2AX8r2Lkh74UNpqxImUKV28Jd_ASqpOui-4odACYO3IJWHUxfgDEtzgL7jT61_MxhAdQLkMpZCpkph94_anWunibyZ_m4xuUMWUdc="
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zZk1FQWljSjdzM0tRZmc3MGdBbjZVOFNpYlY3VUNJczZJbk84NDZyaTlIN0Z0eVVCRWVSY0lYcWh4Mi0zNnJBZ29QdWNnMXJQTVpVRW5VODJ0YmM?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMENrR2hmUVdhUU14c185UGFvbjFsT043WExOWnUxMzM5c2FOVy1sN1BTLXZjRzNNTXJUVFEtVkdDZlAyQ2g5ZWdEM28tS1hfWlpoMDdFaEhZOTEyMHQzY1hjWDYtUllxOHZWTmllYmVsdllTODRGN2U2cWFWVnJhX1ExTGxGZ9IBmgFBVV95cUxOcmk0enFwT19IX0dRY1JzZHNXX3hBYXZUV0djY1pMUDFGN2o4SFktdzBRUE41UHZoTUVXX0FPNTVZWEY2b1J4b2xDRnhsdGUzYkNpWVpTWm1QY0RYX0o3el9tQkFzd01ETmFyV2xvamZnOEtXRVBPZnpjMkwtZHZNdjRud2NJUXdnX3VwcDZKOHVtbjNXSGRrSmxR?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yVVJZcW5TUGxTMzFUMVd3SHpJanRVbE50V3BoS3RreEhTbXBGRTJCTDRxYzdoaGhKeS1mQ18zZGQ1V1I0dS1kdHJVRzhPZ1U?oc=5"
+        },
+        {
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84a1BpQ1RrR0ZHdWhjRnVCUTRfc3pHSW5qUWZMVjQ1OTd2eVBJNW5CQnNIaURqV19mbW01Um8yekNXZklKd0ZuaXlOOGNnMmlYcXVhM0hEQ0NWdw?oc=5"
+        },
+        {
+          "publisher": "mt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LZTg5djg1NU9DOUlOTjJ3M0hkX25ZNy1TY3lJYjJwLV9wN1pJM091MjBBSDBWMUVVdnpFQkNBSDVKbFVIbGd3bzVoajY1RzJMWS16OWJweU5vZlpoQmpRTUJFQXNwWXZ3OUEw?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zZk1FQWljSjdzM0tRZmc3MGdBbjZVOFNpYlY3VUNJczZJbk84NDZyaTlIN0Z0eVVCRWVSY0lYcWh4Mi0zNnJBZ29QdWNnMXJQTVpVRW5VODJ0YmM?oc=5",
+      "original_url": "https://news.kbs.co.kr/news/view.do?ncd=8499663",
+      "published_at": "Wed, 04 Mar 2026 16:01:00 GMT",
+      "publisher": "KBS 뉴스",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgOeNrKEmhjOXm9Fpn4fwZ1X6OK7P0h9jBjqyo47-f1K9uDo4nn1qXDh-jrC-HSfWfbq9iThwGaqPUqI25nXQH5V_fayOyWZ3lSVoLSXyA-AUc6QlhdVhZQIdp5Y8B3mxreR7H42waW3hrgIUN_muvk3AU-7n_jScTN5Si2Bqlb0d3g6nfyXfe8jnMK8TTcfWTJ_w9y_zE_qhRHAlJhN6NmFr4ITBljSZGVTTj672rEJGEmwzEbfBsEbJ-B8enFTxvn0HbA5d2eHXq1mx1QkawshMEb1zGdE4Yv15AXDo=\">2026년 2월 국회 사법3법 통과</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoDJuC0bPuICh1StRN7eCJPn7Q-JZDIgmrBxk_tHYw4TG-rK_XrKbB7tMiOmE4XrROB8V91Idz6ZDU_fpewhQ5H90za_mKcru0QVytDO--40UYQ7KJirNcsw4ZrE0wt4MuePRl9K_ZxGJP7agk8u7FyJUzmr8kloEa4QET0W15BIfGDQg5jAFpkawAC-qO00oYRrkO0WYriUzbGhebPBnwLAzO0YoAWpTZaKkQxygwO-DXDmnsFiEmv3AyyiS5tJuMou7dMCvkfcv_5JeRADZPY_CTX6cszKL-1y6T0m68yF5P5HnUzNusqroSuDi0DV3-243gAwOewbu9\">이재명 대통령 거부권 2026년 3월 5일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH-8VbK_ZiVQeWoWIMA3q60s51t5T8V7z3opMDJEuDJjzWKVgkCNww78H81-GrI6HQOdMpArKcUSZWVKDfVKEg4ZDYlWdH1rOmeQVyw-LEnXFLR5p55ZZ8yzZOuNWbkjIlIVRx7T9lvOlG6v14pYqfWkudyi7XW9qjj1II8MS8YuYbN45KWm7fKs6y1Pj_Rf2TdSXp5ZuA6AC74NCQRacBZRzW81JRwkiqtuNXOhd30fUT1UA8QL8uxg3dUznQxkwl1Oc7Y0PnnVIMLhjs0De5SlBnWqzi\">사법파괴 3법 2026년 3월 5일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElEUBodxuwAShO5JVdBHmULG1GeIoJ4WEv44kFhXAYbd3pNYwr4uNshCvfb9uPMX9dBqy7UcJ6ViH5UKe-dpJdqIohadbfJKnjLi-cnKdtLT17h3_jMRaQ1PEh2mcNXqic0WgKdQ1PL7txWWV_UROQcagEjmoQ6Vki_Z8dhWQiWRBWbXWZNQK7TmZ5VVNar7bg2QNeC6AAq59i1Bw2LC7AbvSPMGM0zRGrhOXFS4gZvoF3v1ropptVLKtUGkO2ySXn-GnFHWiRS8FaQbgzA5QkJ9hjXCaFdOuaJCL2GT26d0Gp6-RheZ6RAH55SZathUHEBLMXyI9TS9qxuqXCDnnrjP2vFaVD79ub6JUdhQ==\">국민의힘 청와대 현장 의총 2026년 3월 5일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGT6MqxKAo79l8M_IIlp96iql9_aoRLHvMFvOFstsSgxD_F0rSE4kC4KR0Cv6KbY_7aRAUqO9P-qnBemsDdjFID23C2G44R0flcvQDExw5nDcU1uYzJV7tx9v2L6NY0eVfVPcQGN7TgZA5F8hyj-77VzP4ehFqvRDEMcpyGRX1y-C0OJC5HGjbux8fEn32rc2C-e6yRDfFGLFCbAZY3-Mv03HdZpzQth6TvP2zfh0JEcGA1-cOKK5t4tcxCZXa5yR95D2Wfn9OxaIETBhWlQW7CRAleCIoLZNyS7asWcWaVBdddUdcPnHtRlN1iBK01AOtXpQEZhdIkWghc4pozYNsQhqtKDpoE8NAd4rwdS7XlgxR7abco9gtMJd5\">법왜곡죄 재판소원제 대법관 증원법 2026년</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFViKcFdTfRwdwSILntKYcsHSX3OxRjpeUwwvXG0ZJ6b4Vx-6oxBSiHIY9OJ15AkxZDrXOolHhjEImUc5Se-tP8TT5WKwKGEaGLkBILtl5YQWp0fE2SsL123kpu_yeT8yPkzrEwob6f9AoMPexn0xOHn8tHWS88uT5B-bAZyB3rDwFutr3Y5eieUqkpM1_eZ9x7CTpHkYzgXER7rOzk3EMUWvMK8n3yb5DQ_AE_2mM5KxvIgaIpjbSEUmn_U_qtWvumGVJ2FAG0qO0N5UHmA7wbhjR0TRTJT3cRePatJ3E=\">2026년 3월 5일 국무회의 안건</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "218c4ea2-ee28-4645-a987-6bb191446a9e",
+      "headline": "금융위 \"증시 추세적 하락 가능성 낮아…시장 교란행위 엄단\"",
+      "summary": "금융위는 중동 지역 문제로 불안해진 국내 금융 시장을 점검하는 회의를 열었어요.\n국내 주식 시장(코스피)이 하루 만에 12% 넘게 떨어졌거든요.\n원화와 달러의 교환 비율도 지난달보다 39원 넘게 올랐어요.\n\n참석자들은 시장 불안이 중동 문제 때문이라고 말했어요.\n하지만 계속 하락할 가능성은 낮다고 덧붙였어요.\n이 위원장은 시장 교란을 막고, 대규모 지원을 약속했어요.",
+      "verification_tag": "verified",
+      "verification_reason": "기사의 모든 핵심 내용이 2026년 3월 4일자 금융위원회 보도자료 및 다수의 언론 기사를 통해 확인되었어요. 특히 기사에서 언급된 '이억원 금융위원장'은 해당 날짜에 금융위원장으로 재임 중이었음이 검색 결과에서 명확히 확인되었어요. 회의 개최 일시, 참석자, 증시 변동성 수치, 중동 사태 관련 원인 진단, 그리고 발표된 시장 안정화 프로그램, 금융지원 규모, 직원 면책, 24시간 모니터링 체제 등 모든 세부 사항이 공식 출처와 일치해요.",
+      "evidence_links": [
+        {
+          "title": "금융위, 긴급시장점검 회의 개최… 중동 피해기업 13조 규모 지원 - 조선비즈",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdGrN0BZ7BCmEMvTGhOhUupkREW3XnvJbLquPJTbKSK7crs40TjF2S9hNb8Ub0-Q-vPuDK5Os9inDk6CXSkhKpxWeaUFf9y3TA7LaynEaNzmIJvizdgOpe12tsp4wMQdSlenicmIqJOxX9iWof6HgfgHGXDdwN-dbJn_oVs_ujKtob9KUbh5w=="
+        },
+        {
+          "title": "긴급 금융시장상황 점검회의 개최 - 상세화면 - 보도자료 - 위원회 소식 - 알림마당 - 금융위원회",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd27caSkL0YckadE6_oiTnGF3qHYHdaa7xD_OlZOK-GU2PDFLcaAdnx3-gDVnYqQhWk6CPerXt3fWj1Qek8JkYv6YqZdsKFkbdEggf_Eh6_TOc0apaDEKL3-Rbn9Ux_z_1zRpLd3252jnM1Bry09erwudpgsrwLUiXYM7cAzob26staIgC-x_e5O-s00ToFNi4SgqMCTYMifn0Iqr1Fg=="
+        },
+        {
+          "title": "금융위, 긴급 시장점검회의 개최…\"100조+α 시장안정프로그램 적극 가동\"",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZCOugSH0wVjSTMI84OrcgN_TD6TJczzXwdm-G2egvZAFP-f7yyyAjE2HFgLPID89nGzXNc-9Pv7owCEcGaSiaynuC0Z6MYOs7BreThDz4arCYNW4Nz-FkcOyVFvFtMhF_GqkVQHdmK640Cr-tUWzcQpn2_NEFuJW39jPC"
+        },
+        {
+          "title": "금융위, 긴급 금융시장 점검…\"과도한 변동성 땐 100조 시장안정프로그램 가동” - 서울경제TV",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE1sIGOx2r4OSeCnsf0fVqDv_N3amdyHcNWeu6ePjiw-E4DG8h3yfS2dmNGxa848iRmyiDcvO_yOSiObmgNyRjMU_z9-rMuqFPuF6VY-BSAoLij4MSRwhPzYEaDZxgxcnBzPEAKkwqNBwBh5L-44BRWg=="
+        },
+        {
+          "title": "[Who Is ?] 이억원 금융위원회 위원장 후보자 - 비즈니스포스트",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8EprGP0vCnxUCRDwCYpfHNGT-AadgqxAswXY8UFrza161wqkbgcx_2TLGzJm-m8EgEx26HymrGHDda4L8aiTAmn82pvAyG7A218xa0lXIX9PL87Qcc41xdYhUFc4ZodCg274sfXlQYO4o2XTQ12n6XV8Ikz5TBQO0el64"
+        },
+        {
+          "title": "올해 상승률 세계 1위 코스피, 중동 사태 충격파도 가장 컸다(종합) - 연합뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCp1U0ZRk77RwjzjiN2Rz8xfR4iBvr-ESKc1dfzHlPZdjJmZDvw0fhuKimItN70tOoUaYAnXMLVGWL2fGInSXYTeVPt8QKNFIgQTyNk7jMeJfwqIvT8LKzbTDpi63m2q7-cGcCv1q-paqC"
+        },
+        {
+          "title": "중동발 쇼크에 증시 '흔들'…금융위 '24시간 감시체제' 가동 - 조세일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjIsfZCAu_1AKkjPXwYNWy-Q9uOfBgjfm8b1lK6PKgfFH4kENdnAkBztvHZ1Mvqn81TwUzeRbHF9Ym6uTc4TgngTUBmNiHpw3vOkTjOixcO115uvfurKqQ9W54U9bqdM84bu5gR0sEA0Ir74gE"
+        },
+        {
+          "title": "금융위원장 \"과도한 변동성 발생시 100조+α 시장안정프로그램 적극 가동\" - 트레이딩뷰",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyI-1kQBXitBq9SJjiuI7rb15Dvj5XalAZ8KpMPp9zf__CZahLSFD7QNk1XEkm0aJo8Bor_jADM_rb4m7aWheJfDOEFT52aONaTb2cQBb6fALPMMAjpSUrJmh60yl45tWOeqB6RmpCbZg7HxEvknVlwScGnR1yuNzU6OLTQL-V"
+        },
+        {
+          "title": "이억원 - 나무위키",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5sZHWZpjvay60E1hSkxWUoxNzVHZgQY2gw0qsHUmvZBWHd0Nelvdtgjm1YkgjSMwE_whFB6qu6rhGcisX-fkBS8I7ML2AJtOXthTjSGlrNSNUZEjfMKetbz2uJxHJzNWYw_C5s5VFIh6V"
+        },
+        {
+          "title": "이억원 신임 금융위원장은 누구…실무 겸비한 '거시경제통' - 연합인포맥스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETWXGU3_NgrgzWZTN2PD2YoXaAeGRZbM7-Oc6qSOQO0JTFhF7yUrTo9s-6UGyoXEMAZgy5QA7WububBP1s30Whl6cAJ_fleJmJD-oz9mGCSQWA9KqLFHkauLMBQ3gw7zszUP5864JVXaVRyeP4047II0jKUqqAf3qoTQ=="
+        },
+        {
+          "title": "이억원 금융위원장 취임…'금융위 해체' 속 조직 안정 시험대 - 마켓인",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFP3nNdGbLKUktSD0dkKRN6a2T_DzUZa6anMOZu0sbMhYXE7XNUk4jfr2IeyjzppNiLlS3hv1ZvOcgIuFO2Sptz3-sIJpZXkpnDkg0OEhuN3xxf40dfO7ZqvqnSiaCgIiwDoHiWBIjnrygPMDPK2jZudZXX8EJ8mss3FxS"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cnhFV2VHcG9DUjNDQTRoRWE2ZFVhUzQyUTN0Q3JUc0JpRnYwd0lFTHhUNHNvRkZFM1FQazBuY2FtQU04QkN4STQ1QjRxcUlKbmZIVVhOanpYUdIBVEFVX3lxTE9INUJZSTdndkt4VTUzZWJzLWdFbEZaWWR6b1VSV3UtNEpkaHFHRTdWdDJCLXhldWh2cVQxblpQem9zY3FiWXdiRFpBMGEya2tzUjZXcg?oc=5"
+        },
+        {
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VjlYS2NtRng5a3BCMHdMSmYwdHNFZ2E4aUxxS19NN1Y4aVZCYUVpYlhHMVl1amE1dU1VU3dLN3B0WGo5MzVGaFdyZHdudTFmbjc1VnhXM0hvTkVfZjVOa2lYUkJkLXp3QnNJdw?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OVHNoZGRXLUF6TjYtUXZPOVl4REI5MW8ya1QwaDJCV2RMdzZMeWhGZWZ4S0tDWWE5elBxXzZXMXZhWlBWM3ByVEh2UWZPdGM?oc=5"
+        },
+        {
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lNTI3cmJubXFTQ05ra1U0cEtPMUhmR0FqbkRFVUM5SVA3aXhJZG10RnJabUs3cUpNeUVpUWNsMmUwRUpNVnNKUmE0ZnpZelN4S0g2MU9LMkpmejR0MzNFUmROdUwzeG1DdVU0YkpnSG8?oc=5"
+        },
+        {
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnRXSTNaNmt1b3gzbjk1ZVdpTEpnMzZZYXNzNWdUcFJ0TmVpaWF6LVByaWRnWGhlTTRZNkNkbGJsT1NIaWx3cC1tU0RTQl9qd25XR3pnZktaYVhONE03MEtZQkxiWm5IdjhXbUEwbWpodXlIYXFmZ3FrN0pnYlpRa0R3bnNuelNYX0lic3d3?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2cnhFV2VHcG9DUjNDQTRoRWE2ZFVhUzQyUTN0Q3JUc0JpRnYwd0lFTHhUNHNvRkZFM1FQazBuY2FtQU04QkN4STQ1QjRxcUlKbmZIVVhOanpYUdIBVEFVX3lxTE9INUJZSTdndkt4VTUzZWJzLWdFbEZaWWR6b1VSV3UtNEpkaHFHRTdWdDJCLXhldWh2cVQxblpQem9zY3FiWXdiRFpBMGEya2tzUjZXcg?oc=5",
+      "original_url": "https://www.hankyung.com/article/2026030488066",
+      "published_at": "Wed, 04 Mar 2026 06:59:53 GMT",
+      "publisher": "한국경제",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_6zX16IzZGZBN83umctMLjqZbiw4hPG2MWydQpJWsW8ypzSX64wQD2bxAfM4Ee4lFmp8IOrb0Gun8bXT80T1eJN1MNU2wkgkibL5ZlyqttiHRNZtF9XfC_5j3jMA0SQ14NBvK1njkLWJgh_nCnt--ZGREZMiTM3Kmn-_x3a8UKDZZMWm6tWcVMHAItWrn7YDn3TQZLCoIUaALQm0ee1XJ8RDHqg6xL7sq_ZSGKB-7Ylr-Mu2AgN3xH9Mpf9AJ2zmQ_Uzhe-cSCYFd\">금융위원장 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM1oiuWf0KU7wA0Y1A7EMx9MrFKDBXnVurnFZjdbV-YhDemzMmu6zjO1VVlH6YOPP1cBfVGbT7pdZdGyUnVfc1kauiAVRGxnePNhmctYMpzHWfN0SOVYki7lU_9ewpi_pveamx2X7t914bDEjebRN3KgCsZO2vxMM2s6XWgQkn7GD9DrdrtFCzsMB6naF7CqLzXSvdaPhIE6f17AZDEN0FUZX3Z57E2usNT0qiSx4psD0egDHrqptBG6uScyPUbxr6x8CISr-U76GhGZ4JQjkl7dlLvvi44UkbH_pNrUaY05-akiPXnooceflLFEXuHJ1Lr9yt6LgvZL4VKj18Ni1KSIaelff7x1AR2FyIH4CHwYLK2VjhSEJHLzD1rUfJl_pj5y-mHybAQGP_bG95R7Uv9moyq1UkuFhj-kBrLSbhqNU6Cf0=\">금융위원회 긴급 금융시장상황 점검회의 2026년 3월 4일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL0o6_DTaso1fmZK627vhPhfLPfMxju6k5QBNZMJ0nHMZM16gFAVYA42DEB-_LYzpmdsfwe3UtjEYNkkjYCAtBq_Apgrn7AS1ABKCsoHBOvm0xqM32rVRs_AMSgBM_Lb6OGYaButtHnuUEyx8Es-4vYlWrlQbdLB_K-fO6NYPAFD4uLFDFZQ555ACbRs21KqyB_-tlWmaRrdYpxMknt9p0-rh-38wmoRtZLZeY2zz2Kd1ENSjkgc_oxKbXVyUrnlYOidmdxWPQX3-2GberahgxGGbYkiyc7yDsi02dX-KzW0t13B4F0Dr4cF3hqJTDwwhE2FAg_WwiM9wcf48oFoYTieR3ZRBSLabIIb2n\">이복현 금융위원장 중동 사태 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOl5WRUzQllLmYJKm7VfNsOG6AB0v-WuttmsTKAXqPbnyhfzHdRZPoNXym6SuxE3KiocwisQFVEsB-jg4v0OEqfvbVtbjzrRW4IUEff9AulAM-TgI7dcSORNx6a5j8CU6ahurQJEgRoLX1v-hoZ_i2KXCDWsuhLtFyeNXIyHhc3oJbeqCGwsfqW1dj3ZWueOSnmaz44m1BdR0E0-DYlpsO-u-L_AWIJ5XH9gDocB1CUex3Q7vXppxqZXwIVBO3kgLcyvH3oOcGzZm-cxjafyOEOwy8J0n1W0fl7WXU0TgBUnWhS-21So9xFhGMTBd4jB9jXAw=\">이억원 금융위원장 재임 기간</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaqiGFky2aTLgyg_NT914g59t-zqdYk6RCFSYDvEkS6hiCDNKmmW3WNEu1GE4TyxeOyyJdmLcQy6gXQjX0qezNeSckNr8O2q-WPlywnA9pP1_rS2oERdJaBlvPnh3Rwh6wF7UL1r4bsTTdFv36-DkVeuwxRKcctXQJC6fBXWx7g9XVambBaMzfJq5cZm3hFC_E0C3kkwRixOKxkB4wqW1Ito2FynSDkbU6Iw56uyqmxP5CegKj4AaJEZr5TFuEUlHW-KGBn9ZvCWQ5f7ujna04C6-rmJio9pUjLQNawJ34QeSeP6TelBE6\">중동 사태 2026년 3월 국내 증시</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "0bd3739b-c1e0-4675-aa9c-e2327a27fc76",
+      "headline": "“이란 차기 지도자 거론 ‘하메네이 차남’ 모즈타바, 미·이스라엘 공습서 생존”",
+      "summary": "이란 최고지도자의 차남인 모즈타바 하메네이가 미국과 이스라엘의 공습에서 살아남았어요.\n아야톨라 알리 하메네이(현 최고지도자) 사망 공습 당시 모즈타바는 테헤란에 없었거든요.\n\n이 공습으로 최고지도자의 집이 파괴되고, 가족 4명이 사망했다고 알려져요.\n이란 지도부는 모즈타바를 다음 최고지도자로 세우는 방안을 논의 중이에요.\n\n최고지도자를 뽑는 전문가회의(최고지도자를 뽑는 기관)는 모즈타바를 후계자로 발표할 수 있다고 해요.\n하지만 그가 미국과 이스라엘의 다음 표적이 될까 하는 우려도 있어요.",
+      "verification_tag": "verified",
+      "verification_reason": "이란 최고지도자 아야톨라 알리 하메네이가 2026년 2월 28일 미국과 이스라엘의 공습으로 사망한 사실과 그의 차남 모즈타바 하메네이가 공습에서 생존했다는 로이터통신 보도는 여러 언론사를 통해 일관되게 보도되었어요. 또한 뉴욕타임스가 이란 전문가회의가 3월 3일 모즈타바를 차기 지도자로 선출하는 방안을 검토했다고 보도한 내용도 다수의 언론사에서 확인되어요.",
+      "evidence_links": [
+        {
+          "title": "Morning Digest: Iran's Supreme Leader Ayatollah Ali Khamenei dead; Flights to remain out of West Asia airspace, and more - The Hindu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqP4d4019pa1KBk5oC5USBvUkbPh0vekiu6cq88b6z7QBXpylBNAjr7m-E8Na3yhu__okl8nsNWLQgeBHhyj91kX7RpaEvfQS0yIte2NsvwXB3fQxcVAkVZ_hcfMware8ujnIWLmYUR_guMRSRLuIPMNyX299_ezeysNyznH2_8-Lsksd1t5dCQCPJ2wvZOrdGrMTxpJanvvwSLOrvn5jh1cQSItKNgNdRuX-qjY-0mvM8Kj_fp597qvpRLei2lTOCxH6p8TvXQHu5ondsZRF5NUCmk_a_ivhgoED1S_6FlE__"
+        },
+        {
+          "title": "하루 공습에 37년 철권통치 끝났다… 하메네이·軍총사령관 사망 - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh5dUgJZ3mYw_LNWTfEdFMC9JqN8oIsWVwKiZHwtjrI1CaM0wiK-_xM6YSnxQq0Q2Ih7IIye0DsyaOHP4lmnheZb97MoEL9hlraVWofWoX4W_cgdDCAjpZyumncva8_eTSM3AxU83cwc-HA6G9EXYUWJNNbILR0bJJ0w7KZyhszUSDUku4QkAGTaD1VBf4hnkBy4aatfaJ46Km4OM="
+        },
+        {
+          "title": "Assassination of Ali Khamenei - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTAHZ70to2N1te0pA6Kox7Jfp_22HAFI49o87I2moR85ndyAfJzfd9SdTdBN4HkuvI9mraKviQbKrBXIfZdD3d93kZqjZHsuNF6aEo97t3r-rW05XAoAZaWQwQ_0JstVl7pwlBuIl2bPqcy8HTvK25CKzwV7Qma0dY0an1ETI="
+        },
+        {
+          "title": "Mojtaba Khamenei, seen as possible next Supreme Leader, has survived attacks on Iran, sources say - The Hugh Hewitt Show",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVaEQhxemMxUNXtkBnwEY0x3cHKndyPAvww-hsfsfsBtQXoi70Xoum2LnLqAAPWPU3iNapuIFtBgGMU2PrzAJZDY_zX084BgbfNgtbH9dNX2twJctQ82K09aVPDVJ0oKo9kkK3UrPziLc0iTjnVzXQbLK4U863y1RzJz7UvkO5MiXvpfcUxFXWD7syDkFglNHUGSOduZDkarXEtmExRW1djnUzlyrGUPmdlkhg_rjGZBzs1_KQdxIXFkX-hZu4X5rHpGPYafwvWdeKySA="
+        },
+        {
+          "title": "Possible Iran successor Mojtaba Khamenei 'survived' strike - bdnews24.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8is_KUCDT9eUqeRcXu5faBxWK11rRU_nVTRkBHiuzcebjIs26Z3R9R0Nzb-fbvv-nBbY1zYP02Mj3OEXPd2wTiNcppZnlO03fIvEmQgPbiee9Qjd33Cc_I_TueVBJ9cuJEE_kXBKsAMaBpmbxPw=="
+        },
+        {
+          "title": "Mojtaba Khamenei, seen as next possible leader, has survived assault on Iran: Sources - Al Arabiya English",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNEBUkjNir8V-TEAxCWWfpBit_9c87kaslk2CObhzEZ1nUXgoBwF8XOGBDl9DCjY1Zl4c3bveBvwooC-19OFfOvFa7J9ZkYtdWmQXaU3RMbxnQzY3mRs8gxZKUL5xjaKsEo4XwPOEPOeQq2-AJxW1EOK5y9zfMvvWj8yAA8MHI33p3qvas-adu7xIQNOMc76yEbe2auz5X2f8Ubv_Z8inwrPkTYwZr_ApoxDhHTkWCBSrwipB5Asd_T02ilHQObxFRd8fzdfh"
+        },
+        {
+          "title": "Iran Confirms Khamenei's Death in US-Israeli Strike - Caspian News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPRtLMvIgw-6sNCVGAqz2p0dsJIyWh5w8jo5-B0--WSFEnEo3c-LapnZWUsEH9WNjZqH_zmDLtZOzF5QWgnaWu6ljPahzjdhEZUwMr0gqkj6SldUj_qAuy4IjQeB3HoSASkJXOHQxlfkI1EW00xMR6Epovq7YMhk0uSfQZaIzhYgSm0qloVReoAEU11S6-4IwlMb3RqFz0bvNYLox1Q=="
+        },
+        {
+          "title": "Ayatollah Ali Khamenei obituary - The Guardian",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr29uyXytbOUKSCJnGwTQg6BXA8RaP3lMHt_qjGdumuUqRJuUgWI7m5Uh8pxUtkBg-6O29Qg0qpf9xTgeIC2BmxrxP6GruMh5WJk0nybTi-Wi-xfE4ZaQVzdBAIjdk1YrYDKJvNNMKdCYf_wdsrH1aplKv8O-fnjVE4ZeaxKFL_L7MUODFPpDq"
+        },
+        {
+          "title": "이란 정부, 하메네이 사망 공식 발표 … 40일 추도기간 선포 - 뉴데일리",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi8ft8AQ-rUXyA2vnWJ1ntuBS8s63vO4jHZwN6DwfFziclkMmjx0d5d9ouLhcV6Nu8nO4b686V8vnqknTFKnSxBuwsnagU5waTNC2SKBWkoZXFZOBUnAOIZT0f2PdXdSOSa0q9DfzjamFsU1DUYnUSQrBAgS9sQW9bR1yv3r9ipVoi"
+        },
+        {
+          "title": "이란 최고지도자 하메네이 '사망'…대낮 심장부 맹폭에 '수뇌부 폭사' - TV조선",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHppmydFSXv_cIm0QaHbPGKniGLgInJMvkhYONCNSm5CcqKE8v4KlpBU3A7jUzhcnCVSVab-p53FhqjLXzxJWRo-ZhEO_u1EQF77sNvlE78ASSb0zAlvXmKKAqFN2KAInF6UTFfruYHw0fm5vwFC7bgGAdJggbH6C5X0HcxGY0xPLz0ZAny"
+        },
+        {
+          "title": "“이란 차기 최고지도자 거론 '하메네이 아들', 폭격서 살아남아” - 헤럴드경제",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdG_eUYy93HYVbi8m7Vn_ZMiPVsGova2od-1AS6drm4rGBgG1SbaO40nbGmm-LTqRXpcNXOckSCCHM2jOUgDD7N8r5WAJAmfsATKcIcZedz4tksyQuhjeZI9Pntby8Og7LNZU28UM="
+        },
+        {
+          "title": "“이란 차기 지도자 거론 '하메네이 차남' 모즈타바, 폭격서 살아남아” - 매일경제",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1TF7k4m6b0Fa6zg_HeELc-Hcn0Vb4Eu6Sz1pnHaXskk-UcJHjTmHaRQ8auisntn63JLuzn-6eoYIP0X1DjRFkHiD1e_1fK10ePnCG5J-r--ry_i1RaMow4nrK29f5TOjqIeU="
+        },
+        {
+          "title": "Assassination of Ali Khamenei - Wikipedia",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7ihrpbSzjIHLgRfTQrMaz4kf5C-dGyyAQbkZ03tYWjMhMu8bAjPJJpT77yh-jmm8Xf2GW9JzI1Y8v58BfsMmkdKhklMmD0Y3iN7AN919fy_nNEB5htgrdE88a7zDKxfroYYc8KiJvCb8HVl9wrBlA-pjJiDms"
+        },
+        {
+          "title": "New leader will be appointed soon despite ongoing conflict | Iran International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj6NjyhNgJB1ARi8uZ9OpC9HNXwvOVumYVdPgZlCvdzlss9pUnujYGzHrrTHATXLC5pmZZebjIcBPSN8HNZJ4J2irCweH9lWxb-W9Mt_T7v-JC49M2BgwsIh99gYWQE0pYyUw="
+        },
+        {
+          "title": "Mojtaba Khamenei emerges as front-runner to succeed Iran's Supreme Leader - Gulf News",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSzE2Y6oqFnYsCzoj2jlq7f-48Gq6w2kUQeHuN5GqmZi6bVjAEX7Ac8UOEYLKEv_LAG519mYiamXKVDpZi8rTdJ1iu5hFk5HswK04KNZXL3f0D7iEYF_JLIHdHpjF7PyfzPzau2qnAjVVV_wcmp-sgPP3mV0rvDT-1pVNyRbS2ZDPVjXCSlZq_5x5Eaf05P7WSFBybHmBqOGr4kmu41ycitAqUYwFzjcUKE_QCBzexYGICaAE="
+        },
+        {
+          "title": "Who is Khamenei's son Mojtaba, Iran's possible next leader? | The Jerusalem Post",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKyhUxkZNJp2OctrlzSl5ppOuulrsP0bkZV3bCk3Pm56QQh6hlJczm8DQb78kc-cXV2ql1htuNEAUxWJtSXOHogaZBdL1lBun-FdvLtDgXGaCUVWdplctbRcvAujKCKabC6YpamoQkYBh4d_ZQZaTPbVEExuo="
+        },
+        {
+          "title": "이란 “하메네이 시신, 기도 광장에 안치해 일반 공개” - 동아일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECR3TgUYxLPj4-ubJ5akss3-zgi_thIUOK0tLQtn6WK1visRl6CR6p3uaJkXmjdlMZ-hEbqWPAwwDRRFKybmg7t0GQat0uyeq3D096ThsLPRzz5f3yw9bE_dsKV5OwlxPpmpRe-lJps1GjzRBSam4gYge1y3US-VFvxcG0"
+        },
+        {
+          "title": "\"이란 차기 지도자 유력한 '하메네이 아들' 모즈타바, 폭격서 생존\" - 뉴스핌",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfPycG3LzXzPdlagc2J8StsXGMhUBTLtUETr7tfI54xcAarRUdH2XHIWQ4PzGeyudAFt7RWeODy7_irYW6qj9sIxXxnHh0jIkjo4fUBYanvAKCuWOQQOY50u8nT0t47gnPuwxHhe-WDxv4uA=="
+        },
+        {
+          "title": "로이터 \"'하메네이 차남' 모즈타바, 폭격서 살아남아\" - SBS 뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJh9gPY98TQmoUh4XD4e5Yf1aJqVeohF9SkF27piPwCWWP68aZHJlfVGASSgEBREJv9V-gd2i1jOtQ86PoCbBfWRMtM_o4VRSOWir2m_jfHU1Q8v5jgzVxLaHU5dvgl1T2exoaRuqyLeUH41ijc9_HJIbGaU=="
+        },
+        {
+          "title": "Ali Khamenei's son Mojtaba named Iran's new Supreme Leader | Iran International",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtWkF5gTIUHUuB0Uyp__WA1v2_FmmUMrm9DhV7b1Gjddd0X9_eMInkdbRE9Dev6ViXvTJrYpENvlyaopxvUVVxnjXimYv-bVF3Hsr8OmqaDk3KQWpAahTSpKmiL-WiKEpV1r8="
+        },
+        {
+          "title": "Mojtaba Khamenei's Election to Supreme Leadership Is Not the End - Middle East Forum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzDUyVRzb3tGW6JACplhZa_DaeQVSHAMUMI9CSrRuADpa2GOFFTi8Hbxq3Ne94J5S6QGYieOB9ElAnv3VUN1Npkr9bPi7PItr2xOW-4qgzwL_RYezu7o31H8NRFlDG8L2dVkJuw1A9djZSHm0dCqPYswaVHHaPJZ572a0mlfHQdTodMxKCtuOLcjYEcoMGAa9tB_8x5yHQZAV6-6NNCXY="
+        },
+        {
+          "title": "Who is Mojtaba Khamenei, frontrunner to be Iran's supreme leader? | The Express Tribune",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDC6q2RRz5DioyXgwsYtP3Y-zFT8mGkGZSCC4T5R67noI4LJzS42jRw4Q1MWsl6w-GFgpH5s9BGddQT2Ae4QPDxp3kgWh3oxGoKZ0qeIB7BBqNXu6SzNXaO26GUdnF9HYjC3ClLMbg4ukYJMja1SCs9KJ5q7Voq3h6XygFIOhtMuq6fNM3LMi0afPQYz-UQ1KzUtGBAxcQ2wQrnsHcJQ=="
+        },
+        {
+          "title": "외신 “이란 차기 최고지도자로 하메네이 차남 선출” - 매일경제",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEE5vpPrEtrurNNH480g5udCMsXg1-1VXeumlZyL5Gifu5iiDEDDHRToRpIlETTHZMqbCKyYzHy1bR7Lzxg0w3P4HStsnHL9vfpFziXrj1f-egiBt4WWv0PvfsB1fzWJv7JN5s="
+        },
+        {
+          "title": "\"이란 차기 최고지도자에 하메네이 차남\"…강경 노선 택했다 - 중앙일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe08KBmOB-vZyINohQFr7yDunqBdFZpMxYdL4PxiiIAf4KlZzWJkxPa_seej-YkAcVWHMzomRMx7v5KF1voSPrChBIHe4mYJMZF8L9d0JXck15x85g9NLAq41Sspo8aLJzw5Pj8io="
+        },
+        {
+          "title": "이란 차기 최고지도자, 하메네이 차남 모즈타바 유력 - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESFziRgFjimGE8fLcyfUX_HYUXP3QPsOE9Bciz_HgUtXXcmPvXLORXp0V1UZV8nUTxed7AZcZM8_CRw73ed3Ku9bYUoN30TMHqf8ww_J6KO5dR45-lIYSZ1aCDdpy7BOeY"
+        },
+        {
+          "title": "Khamenei's son Mojtaba is alive and favoured to succeed him, Iranian sources say - RNZ",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLOWCZO7dO3Q4Du4kbh9nrVTZcZ0ulu2a0p06S4h5uQXSWu3jGbdlOO2uGdg13GnbVTXssO_Rkhl7vXyBHeuc7nyxqCT-mKfVNjdwlv7FMZz1oWarAtstcTO7Dr012ZkkEZ9FCGIC_BdOmczxfI6TGMJkPaY2Pal7HfT6y9oyLBovMR65wLZy8y7I8I6YtJ1fhFnWcF5t8FiDlxCLFK82mgmWm4PDXZ4ftty6rjUtWI1uQ"
+        },
+        {
+          "title": "Iran's Assembly of Experts Elects Mojtaba Khamenei as Next Supreme Leader - Newsmax",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGtaStBq7MSHvvkhduZeIMFYx40H4ymKlb43t4K_e-yxOr1cXDKOt7CvlfgJxKNzBY4tV6iwRYuKULqj0t1L9X2ERDyXZpAuHdUKuVk7aP0eY5JNZmT9SyG6Uw4IOtpB7xLnPoRrUdm7GSAO5o_pktp9-G5KkSvtIL7hQOWHgIjRwFwMhsJx_eKPsKkggPVzBeX4RpWOOzGiHNjCnJ9q29KFQP9RGD"
+        },
+        {
+          "title": "\"이란, 하메네이 차남 모즈타바 후계자로 선출 유력\"(종합) - 연합뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA_8NruHYIlEZWXq2vnj0IQt8yFqfLOgSOinfNRnQ-vGjlq7WhBp3n1BDIX8S_nwhXfYj6PZmqmR3Iy7_PUhEyeVTukEAvHp6OhzDGpXveicAPd_1tltr2MHI0Mfx4mQ1uash1wChA0wms"
+        },
+        {
+          "title": "Khamenei's son Mojtaba is alive and favoured to succeed him, Iranian sources say - Reuters",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpB17JbCrnKSxXdhXX1cef0p2ZbGl_vwnCCRlI9hF2_5ywJmZULHxHFkLzZC1PwYTFoZP9XsVBwQxmG9I-KcPvsqLjhBTnjnOZxInRcTyTR_nlSuyAfzPrcio_-LcrkQ4oCmW8nv3_JmCVrQ=="
+        },
+        {
+          "title": "Khamenei's son Mojtaba has emerged as leading candidate for new supreme leader -- NYT - The Times of Israel",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4pRdJti0uFNH6p2KcG3RAdIY-k3evmwrhnI9-PLipFhYCrBwQ-KvoDDZAPMTHUfpH2jCayaHshR1SlstOQhQlNdFx01cD9V-hR1xx2SE7M6n-lfjLJDfG75alTEqejDbN-WNhV0Pixz-5olpuLbcx1czILUwYNuZkwWA_iwJL5d_SQIbqHXxuVENfYg4gJyTgBcmkM8BxiCZt85wjNVq2KBaavJFoYelxUUC1n_XJ3G4lfALSPycXqE="
+        },
+        {
+          "title": "이란 전문가회의 위원 “최고지도자 선출 시점 여전히 불확실” - 미주중앙일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf1QnAnB29_I-Q47eZJU6Dv849PqaLzfl5YtBQOT0H7-5EUrqPUYB52Uuy67HZeU0ZhiYnsLicwOfQdTCEGiI7iyVxyXDH5TETTruaTj5Ax5g-Jay3TlKKI1TbGyQWBGujNuEMm0NVttmvyoyLEGc="
+        },
+        {
+          "title": "Mojtaba Khamenei survived attacks on Iran, seen as possible next supreme leader, say sources | The Straits Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoUsSCfS4htl-u2SCbqLDy6oTzpQuKo7FqX06zPdhH-ljB6G0m8p0ZGNFNKi3WAXNRGd6jc2ssNMiIX8gI9mItIvNJhe9EUAaaqRTQYN16oE46sfYJsEP7lMDoogPjSDyXwDo5LIW41184gaVjVSvvHy7a_cxKVQXphiuylZRGguQebrcSEfXfcfx-HgrD_Yhphjb7e6V-QKNxBUewRq9Q3hHbnbJR_u1jk5odmjQsb54_QeF2x3tCr5Hr88Loth445anmcVX6jV0="
+        },
+        {
+          "title": "이란은 결사항전을 택했다... “차기 지도자 하메네이 아들 유력” - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgKMvLkChM4lvYIoqJ8Ao-Mvw5V3A0mSZgdhqF1xqcLbEKIXALaIBRZquU4XMgMqJ0inusfDdsJHrS79I_iPuFf8TjXPWaKo3A9g6hSgfCVFoal23Df3PWpHVlAMHD2sZQ5oFLHtBS-azKjyHeHY6_p4GXZA-cMb_TJXlRwAZcq8LQ-IaT-LU-rO6sGMU73yE7gzQrxnGpGw9lqOQ="
+        },
+        {
+          "title": "“이란 차기 지도자 거론 '하메네이 차남' 모즈타바, 미·이스라엘 공습서 생존” - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-hcMgcOQOvynzLQJP14jJ8ZkGK57E6G65mHK47enx9H8LkB7HDs4GVVNZmplivbUdbwsjlCj1N4aGn7vLXbz2rWNpDUCnQ0o-OoAjXzFoeAmuMQAFNTLlPgTps0nY-_hy"
+        },
+        {
+          "title": "Khamenei's son Mojtaba is alive and favourite to succeed him, Iranian sources say - The Business Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeh8W0nc0b94ugIgU5FeVrWAOFKVBqbT3Rh-TluyOVlkRh6KCyNSkeyTMRXkDyeA0pINChiM78BTQLuUximlx3X06zer1vdpss6dvhdqZAaXPQPKcusutkjjWmDYPvm2UsuclxkCfyWTX30tbKfokIrpUf3ZBWDsBPaIgeuZtsd4_WIncYnC62zln0DhqnjdvHVWik-RdtwQ7qJo6CKOp3dB8MiOOM4f_UrxYc3YBTMSzFqIbs6sxznbv8w="
+        },
+        {
+          "title": "Reports Claim Mojtaba Khamenei Elected Iran's New Supreme Leader, But Official Confirmation Awaited | tconews",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFacoMzPKxHb8qs1ADO6pQ3kDQIEJLc8VSQSG6r31Nl49KzHD_6ECErzsj8ZMuFsOOExBi6nM68vbTuSMcNC5937vO1MKCNXzXX2wm07Mhw2AwMch1518WCi9E9FeCu2_hRmYcNgDwZMP6T1nELbSwLzHZZ91NTWxs0qFlRL7bRFuQSAHdose3IJKG9ZuXmkH0X6dTAJ2TwEbIRh9ehXJOKNt54VdL9iDIOdUaMaSLvwiDlHrEVGFfx3vy8hMnB8d0oj4PF"
+        },
+        {
+          "title": "이란 최고지도자 후계 논의…차남 모즈타바 하메네이 거론 - 매일일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKK7KW2cj0KaLzA_4dV2lp9tMKu9Pg5CG3KvEq23bxh3UvwUyrkI3snDBi6jnXwOG2DHEAP12GzpVahzrwLijCNEIym3dJ3gF_T6qjaD820s1-4RZTpkH2WeHwrdUXehuZDVz7_n0VDlBSPiuHzOccbA=="
+        },
+        {
+          "title": "Mojtaba Khamenei emerges as frontrunner to lead Iran - Türkiye Today",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWNYbohlaeaPnlt2oatUAmOkZRGw0F67YZi9UgUI4dY5E92bO6-kjsMo8Ihc2W3OwvkkO9nH0hCjDNeMWIKjN4gLmj8-BOHHPCU9fdwq1NHRi3onVJoXFt2U9wXQ4i-mhmUnzZgM6EV42pri4eReE8-7PRGVRzunCrLCUHPnxvsb44uMZ6Wzr5m5LzDIqXBh9Yzh7KfoTlfL-ytg=="
+        },
+        {
+          "title": "NYT “이란, 하메네이 차남 모즈타바 최고지도자로 선출 유력” | - 시사저널",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMWcsBCJL2LVP22PneO4NoqJ-8c6_wJ6rn4McqfYZ5mfU1KW7zxeqIRGzde0MVn_w9SHA9GaBHvprbe2KwUHLUqVhX-vkurBbL0NqGM9euUxxhkkOmVBX2s32olweZOnpyOQ0HO1anZgjr390FR-4zxnDjjwInPDtKcoqQ"
+        },
+        {
+          "title": "How Khameini's successor is to be chosen and who he might be - Asia Times",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGifB1Z-DFo5nsLdu7cnNKje5xVNYHWtkAJKgZS5TmXwEHDfKe8iQApdD7wgi3kjjNHVXQ_HjMuyPrHZQuxk35nZFOoz9OOPUTGB2AzODsTxhRAYIFckNl_UyAOrm8KHFVlMBPNz-Sn-ySHAaWHeEvD0fcqjoAqENfSinxWzZyAd1wzRTF3eQNzNcHjoMTsVzzrpKlDCrU"
+        },
+        {
+          "title": "\"새 최고지도자에 하메네이 아들 유력\"…강성 혁명수비대 승리(종합) - 뉴스1",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9x-gxaM3jP5nT-dIovGdM5EyXxuXFJR8Q0ZywJxF19qlkaH4yJi6IsZLBuFH4p5wHu51V2Q8XzTsAdaprRGXwbss1IKnQuZbmNKydft2hhec_X6DwvqBijcSPjoKer0Efg39ahwOY_NyZ-nH_QJY="
+        },
+        {
+          "title": "NYT,\"美공습직후 이란, CIA에 분쟁 종식 관련 접촉\" - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgVTdxLUtPm41pVqVRxmIxScDueWNcfPon-bQjgQ3z5khMUR4Ykl8oSlMHFkASWw794rCZUiOkuLP2dq76veiAcDUxmtqGuHfj0OnP_Y5M1BoUf9GlXONmuON1S8t-S_PBr"
+        },
+        {
+          "title": "이란 차기 최고지도자 선출 연기되나…전문가회의 청사 폭격 - KNN",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERYLrQkYdu5-eNrHjYMTpcZDPtzcwuwHkdzzIp5CG5-B-V98YA4OkOWGz86BqhKVv1880Z0Bc2kNrvZlAattXvEnTZuxG4ypfKBgPuRERtPyBEu0tuTiGm0jMoER_69t_XA-O8B_cx"
+        },
+        {
+          "title": "\"이란 전문가회의서 하메네이 차남 모즈타바 최고지도자 선출\" - 메트로신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH04JLAfqQlMSIIKJ3sib4epTUAuQE50K9Y8HfpYoyZjp8yKlSa2Jrf7jbKZuPEZwkZeOrgW7D_gQH3sCnKEt5_OTd0BnH2-RAadcHq5-HquiyBsIqahfl4ZbEYL9bda863bNefazP62AVvSuYr2A=="
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrNEBUkjNir8V-TEAxCWWfpBit_9c87kaslk2CObhzEZ1nUXgoBwF8XOGBDl9DCjY1Zl4c3bveBvwooC-19OFfOvFa7J9ZkYtdWmQXaU6RMbxnQzY3mRs8gxZKUL5xjaKsEo4XwPOEPOeQq2-AJxW1EOK5y9zfMvvWj8yAA8MHI33p3qvas-adu7xIQNOMc76yEbe2auz5X2f8Ubv_Z8inwrPkTYwZr_ApoxDhHTkWCBSrwipB5Asd_T02ilHQObxFRd8fzdfh"
+        },
+        {
+          "title": "caspiannews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMPRtLMvIgw-6sNCVGAqz2p0dsJIyWh5w8jo5-B0--WSfEnEo3c-LapnZWUsEH9WNjZqH_zmDLtZOzF5QWgnaWu6ljPahzjdhEZUwMr0gqkj6SldUj_qAuy4IjQeB3HoSASkJXOHQxlfkI1EW00xMR6Epovq7YMhk0uSfQZaIzhYgSm0qloVReoAEU11S6-4IwlMb3RqFz0bvNYLox1Q=="
+        },
+        {
+          "title": "tvchosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHppmydFSXv_cIm0QaHbPGKniGLgInJMvkhYONCNSm5CcqKE8v4KlpBU3A7jUzhcnCVSVab-p53FhqyLXzxJWRo-ZhEO_u1EQF77sNvlE78ASSb0zAlvXmKKAqFN2KAInF6UTFfruYHw0fm5vwFC7bgGAdJggbH6C5X0HcxGY0xPLz0ZAny"
+        },
+        {
+          "title": "sbs.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJh9gPY98TQmoUh4XD4e5Yf1aJqVeohF9SkF27piPwCWWP68aZHJlfVGASSgEBREJv9V-gd2i1jOtQ86PoCbBfWRMtM_o4VRSOWir2m_jfHU1Q8v5jgzVxLaHU5dvgl1T2exoaRuqyLeUH41ijc9_HJIbGaU="
+        },
+        {
+          "title": "businesstimes.com.sg",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeh8W0nc0b94ugIgU5FeVrWAOFKVBqbT3Rh-TluyOVlkRh6KCyNSkeyTMRXkDyeA0pINChiM78BTQLuUximlx3X06zer1vdpss6dvhdqZAaXPQPKcusutkjjWmDYPvm2UsuclxkCfyWTX30tbKfokIrpUf3ZBWDsBPaIgeuZtsd4_WIncY62zln0DhqnjdvHVWik-RdtwQ7qJo6CKOp3dB8MiqOM4f_UrxYc3YBTMSzFqIbs6sxznbv8w="
+        },
+        {
+          "title": "timesofisrael.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4pRdJti0uFNH6p2KcG3RAdIY-k3evmwrhnI9-PLipFhYCrBwQ-KvoDDZAPMTHUfpH2jCayaHshR1SlstOQhQlNdFx01cD9V-hR1xx2SE7M6n-lfjLJDfG75alTEqejDbN-WNhV0Pixz-5olpuLbcx1czILUwYNuZkwWA_iwJL5d_SQIbqHXxuVENfYg4gJyTgBcmkM8BxiCZt85wjNVq2KBaavJFoYelxUUC1n_XlJ3G4lfALSPycXqE="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgVTdxLUtPm41pVqVRxmIxScDueWNcfPon-bQjgQ3z5khMUR4Ykl8oSlMHFkASWw794rCZUiOkuLP2dq76veiAcDUxmtqGuHfj0OnvY5M1BoUf9GlXONmuON1S8t-S_PBr"
+        },
+        {
+          "title": "knn.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERYLrQkYdu5-eNrHjYMTpcZDPtzcwuwHkdzzIp5CG5-B-V98YA4OkOWGz86BqhKVv1880Z0Bc2kNrvZlAattXvEnTZuxG4ypfKBgPuRERtPyYEu0tuTiGm0jMoER_69t_XA-O8B_cx"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fQ0FkSkxwMkhhOFRuTUF5bzdCT3EzcTc5OEhuQUZrWG5hQ1dicTYwc25IdW9MSVliaXVZcW9IZTM5dHNNUldJeGxZWFNKUzR0V2dqYnFMNGZBZ9IBX0FVX3lxTE43SnFRd1JLZ09mMkpxZE9fTHF3TzN3ZDgyNzVwY1otd1Q4MWtKNzhPWHR3UjBsb0lHSFVxWVJDNFRIZXhfQWdoaVNIb2V2bEpXSFpsME5Rb3dpTEEzaEdv?oc=5"
+        },
+        {
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oSGE1c3lUNnVmU01GdFl0TmJzakRIaDNyTjJqeHNtNlowTmhwYW5fSTJCcG1xT2lxS202WGNRN2ZqYjJyYXYyRnd6SE1EZ3NCSmhHc1hjbG1yZ9IBX0FVX3lxTFB0UmhUWDFzd3RuM1lHSlNTS2xuTUpwdVBPWWh6UmdicW91d1NsMDFEUXFVbEpTYzBMRTRKM1lhU0ZPb0dWYzR1YXcwa1I5dkxRa2V0c1J4Qi1FTndfYmF3?oc=5"
+        },
+        {
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TUVpjMDBOZXF1Y2JYdUUybmxhbERlR0JOc09jT0lvOWdmQTg5ekJodG1fMlRJbGU5d0Z2S1V0WnJMV2NCU0ZZY0VxeTNhNm1pM1FJZ3hwY2tYZTDSAWBBVV95cUxQNlNRNmFQY0RnTllVVW9GM0ZBeTFwLVlTVnBnMHoydjktcFQwQUR3MVNhVHplZzJOSFAwRllSNFNKSE1XYVd0NC0tbUgzOUdMTzc5a18tdTNlU1lqWmotTjY?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObXVvdjZSTHBmd0dnWm9oS2J1UHFjcm1jYVZ4dmJqR0RrT0FjYnVCOFJsV0IwdjR2YXpFb2lQWHlsSEY4VkF4Z05UOV9UOFhlWTdsUzNVRTA5WVB1TDNrbXJpZ3JZNnp0c2s2akFRczB5VWEwSldxRGpsa0F2a1RMeUxJb2xDbnNQQ05wZVBJMDJfN0xpeDdpWFQzMGHSAbABQVVfeXFMUHZrM0V0V2ljWm16Smc2YUVPd2h2RFd2UW1lZTkyYWxEV0dIcWZyN2xUMUlKVnNWOFlxdHRpMWJYOHFVX3NPV3M1MlBET3k2dGpDNTNqblFFaVhBbkZZdmdfd1IwSTA3Q3dQV24tR08zZUdYY19BNGFWUkdnSktpOXR4SnFkSkx3QUo5Z3dGWEtaMFh3Q0lxTnBrR281ZHR6T2lhaW91NU5YRVB5anpaeUo?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DU1g3X3ZzSWxuQ0NXejR3MC04dWlFcVFHOEdXdEN3bFBaQkQ3aFVoX1kxWjNDcEhQbEVhMWMwVHdqV3hfajR6MlE3VWpRWlc5SHlicFZzZ05rM1U?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fQ0FkSkxwMkhhOFRuTUF5bzdCT3EzcTc5OEhuQUZrWG5hQ1dicTYwc25IdW9MSVliaXVZcW9IZTM5dHNNUldJeGxZWFNKUzR0V2dqYnFMNGZBZ9IBX0FVX3lxTE43SnFRd1JLZ09mMkpxZE9fTHF3TzN3ZDgyNzVwY1otd1Q4MWtKNzhPWHR3UjBsb0lHSFVxWVJDNFRIZXhfQWdoaVNIb2V2bEpXSFpsME5Rb3dpTEEzaEdv?oc=5",
+      "original_url": "https://www.khan.co.kr/article/202603042153001",
+      "published_at": "Wed, 04 Mar 2026 12:53:00 GMT",
+      "publisher": "경향신문",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDMdqZSx6zpOphIUBlb4a3Eh73-y_EyWCHpjhlU8xzBtNmG8GCOh3kTSNwJmaB7HmMDzeAJYEI6fHzOBjbrNT_5LbJVO6a2jCROKCgJPeBYcPa_bCDPQEd7rOYYJHnmrF7eUDRXbOeH3ydhDXvqFHY3JxMW83hmgOvbPr4MySZ_adlW6oXbG8ralUQvCrxHtJGpbj9wCNtC436UKbKAvaiUC-Q5G1ov75n2vNTc2VkQJ4=\">Mojtaba Khamenei survived airstrike March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEp2hduzmVe3xTj-Ssft6PTUkcS4jhucEcE63yGob2BN08lfN0VHecyh8b4wmJXuOrXpSAYjyGDgSa-UzBMC4DrSR51LhuhLnYPX2CD8B-BSEwL6MDMqNz61Sh5bpqwiTBoVlWkTZTIM_oYvTToC16wHSrWao3udh0Rskk098U4NwH8YDRugvdqKXqHjvZEX5tmrOY1rbOvZV9KDZsSalCs9yMVvuvv0wT\">Ayatollah Ali Khamenei dead March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4CEFjWLnQAfYZlMdwZryR2RF8DOtTOfIwfRaKdEIainfNQqFaAiDl9JZ9CzCz-hG60s14GhUkZvHVXjIliv_vNJ3balDwI-iC0yRsQEjt7eNpx_oZp7iBzszsXBcpMpLQWfRgBNn5W4ITM0TiJbPQZwFeVc1cjmsZXS_EDxhTcKNvDGsNeDWIxU8EiJ6FpCf12vsUQVTbNN9TDm7B36Gs7uP-56yg8HYdtHofphoXaUFVEYPs-c8uTEjURv4LGB8TngF60vHtdo52ub0Ag3smKbH4Fd_VahBRkx8Wnl1GzvJhVvTPhFb26ik4eAXIVxLYvO8Bjk3yNRwj_A_86qSj18wvTn6VNIesiYDMMGyV3VT8hDg0\">이란 최고지도자 하메네이 사망 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ57NMqK-gUc7RX6pqnKNYzUKcIcU-9knSAb6yP5hnTOZ6GzQOdVaDY3-imLJa93m3hnX5x2IshUDDbyVCmAbCZbSBvv5p8Fq_65YtUJKykvQq82MdOZRTfpmMJ7BS4sDlf_T4gI3O8JagFUVKBGxkp957PAGGR7rVf16-V_YnAKc99fkyvR6xq23AXtfaECm32i3y8tMLx8pbYuTmNlsf5sfDSCvwjsGUCYPOad0VsXrbkgZmWaR6OS3aafzFmUDzVplBZWZHwTIKJpLokyejYyQuhKGDF0jd_yMeKjthn-pHmWYgPcdmKRzsfypHG-696NTLtgVsYwP9PERV7EtX9MOtwgmDHepfE67b\">모즈타바 하메네이 공습 생존 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWaHNEbsEFpI0jyAKW4AQ5edYA2aRQ8WT600XuwCREwvDlMo2DDGiuPtzd1MgJWXou24tzcTfTG0PZHsIWhQZq6qqAThIEQdCdfp56o89qLk_LyfhzQPe5VU7mSNMIS5GQmw2hdBhsme_wRuGOcm72V83pO__8iW8o7dE9IpBrkzf0hUvkVu3dQIjAtBBBRdPvgnLihkBRwwlfesM_fQM1k8rQfSeIwpus6StZICZZIlTZ5fXcQjRGU0U9Tazf5x25WOt3\">Iran Experts Assembly Mojtaba Khamenei supreme leader March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-1lYVBP0Nh2ZkLvHrkllUFJgSk3VUw4T4o-Vh2ybeaFFtaGZY_zzGue118dft3xnCg2XXGH7xpABeZMAK9h9IWXPVD9dZNgYTNSYEav3AWJL9H9qWKE9ZpbjjAQVnzvQMqBwf6uMIrPmQeeJETuqPsjpHOumPGjFA4L89TYZh7X2BgrkMV5BJzB8jAxirqIGjJwhIVnDneYNb8rGvbDV1AbZcIC5u0Xy9MwORcoKSzVnzhdL6Ftsa2I9-b21SFfQktebrC_02huTtoeqN35MXHKZs87I9bMLPyTlD78GcPVt-mUOhwnTEGGHlMmnMwKnJjORdlNrlui1DVf10CqPALzJsQl9LENaHG877anGycc2SjZOwXnOSpwh4-q8BbvEwXo04cQKW6BtNXC3dpN9bI0ld1sL6lZMhB7Xx7eEc83WaszUhT0bOvUgxo3zxqEtgdevWw1o=\">이란 전문가 회의 모즈타바 하메네이 최고지도자 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo6PMvncDjj24P_2dhqjE6w_hhTePH37WpdwgQmA63rS0k6F5IY-fC9-KVzsIi3F9CtFuUabZBgWPyKkh0iSq7M-9j1bc7bw6AmPvErIdEhj_s8TtAFCMRHbM53iFTk3ZB3wu6ueN_aNM9Ai4UNGUqXgIpCiVAc8whh_4MevdLviXOglNS6rpsSpQTe8UOZvGWLeHUUsnAS0ksM2h-qbNGQdKiSIDndJr9IV_rNdifObfaoxcjYJ7g1qBygFisaJ1puC_00uUXrcg_aAKlqnKjFymhDeMtbL1XqNioo-fmjlIcCMXxmqDNQS3gbTbuI7vatS3oDTXgt4U7c3JKY8GnOCpXfFF53VpgeSYWDK8iTEpkaeHjMzL_xMGpDuuB0oM=\">로이터 모즈타바 하메네이 공습 2026년 3월 4일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVHdJnWvedpcYWmKC4RhDaXGSJQmxtWv0-rDuAHGTVnn7zpp12b2tJZHDIPC0UkK_iaIv4dU3ld5NAVzevGiwYaTHxJP9r1nuCuM1tXeFCmj4PvJIkUBrf4Ph46XJnuk4rXszDOq5fsO7Rxx-16NAVAEOUTAolPE_qjtaMAjfdgnEDF4uSOILBGjK02YKf5pxw46_jL9INf6M_DQQSfwNwr0EA890D622APPKjGI7OvOxlnxdKkyJif3ehmzGB6nK0Jv9QfNcnT0gLzaUe7bhydnNMTfH3FzqPeXLlICXwcBbVC5qqoZN9l5xCtt4rOI-Urc9Dj1ZWbYU1F0ZuxWbG_U5H5yk27D6VK7m8OKo8LoLqCC77UqUnuQ05zGdm99Tm6VK_a2Hp5DrL8QLZdNOL473lzZf-Gzr2qxmKkSDID51ErcNFSgJUgeqCBAFc\">뉴욕타임스 전문가 회의 모즈타바 하메네이 2026년 3월 3일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTOu8jTq4PijS9VtDaOkquH1aDLi0p3TMY6K_yStaEBBBzSWpGLiuOm3ccD1-DlZ_10Ihf8-twnoCUeZzU89nlUPCmcmfpokA8pmT2v-CJuNStvvSOpIhRzsghLiKZw0Gtb_mJltV4po5WDMH1d6aEECa2rXuEFYGSKsSWR8ZLqUMeakBOY9AR7pQYk8QzkLkdtDudqxC8wJIx2JCBUFxg2unziFUUt-CU_dgQDs0rT3E1joLCIw==\">NYT Experts Assembly Mojtaba Khamenei March 3 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_XGb_psO6_uS4GTZG71E0R4MqUeqUe1fM24etL_xOH1UxUODClD67tzFFTfJZOMGTcs2WUTwPOTvs3vsvx1v_g6yPFHfNpNLT5ImjY3q96D_XgcquB0Y0EGThZI_Ff5sHNFyNqXLkq07apxvIqmzsKDaKUWoI_xKalppGMGZSPlxTPwI0aH2W2F5Y30HBFH8pBQ7ba-fLJj4T26ToP8rtCXvz8F22CXcwI0CRfdXcxgjz\">Reuters Mojtaba Khamenei airstrike March 4 2026</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "0d6f2963-6e69-4ad6-aab5-bb29dabf23e9",
+      "headline": "김용욱 강남세브란스병원장…“‘NExT 강남’으로 Top 5 병원 도약”",
+      "summary": "김용욱 원장이 강남세브란스병원장이 됐고, 'NExT 강남' 비전을 제시했어요.\n그는 앞으로 50년을 준비할 책임감을 느끼며 병원을 발전시키겠다고 말했어요.\n\n새 병원 건립을 가장 중요한 과제로 보고, 모든 방법을 검토할 계획이에요.\n현재 국내 6위 병원을 넘어 대한민국 Top 5 병원으로 도약하는 게 목표예요.\n진료와 연구 역량을 강화하고, 사람 중심의 조직 혁신도 이끌겠다고 했어요.",
+      "verification_tag": "verified",
+      "verification_reason": "김용욱 병원장이 연세대학교 강남세브란스병원 제16대 병원장으로 취임하며 'NExT 강남세브란스' 비전을 통해 대한민국 Top 5 병원으로 도약하겠다는 포부를 밝힌 사실과, 새병원 건립 추진 및 디지털·AI를 넘어 'Human Transformation'을 강조한 점이 여러 공식 언론 보도와 일치해요. 또한 강남세브란스병원이 미국 뉴스위크 '2026 세계 최고 병원' 평가에서 세계 77위, 국내 6위를 기록했다는 내용도 2026년 2월 26일 자 다수 언론 보도에서 확인되었어요. 개원 43주년을 맞았다는 내용도 2026년 보도에서 확인됩니다.",
+      "evidence_links": [
+        {
+          "title": "강남세브란스병원 제16대 김용욱 병원장 취임 - 중앙일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVy9sx-ET8CRug4tDe6BNzyumzoWoijvNFsXyeMVeXBtq3hiY0zSQiBpbMzIvUEPS2BWKGq8LQeZo_c3f7-4bY9abYqnKDh6DSMHprAWj50VIQ3ww8-PaMD0iVhThxzW7mixw_k7I="
+        },
+        {
+          "title": "강남세브란스병원 제16대 김용욱 병원장 취임 - 메디포뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdtXcxOvD46rAbS9dTqi2fQ_pFushMwwtM8ZnHhdWoJK0C-PaABOWUYaSYZK85JboCfCoBCrTN2ug6Pfs6WdIlV8K2StfU-FztMyObQ_b3AAX_tpUv36RxEZYYG8g34bu5gw7U2OZmc1zox35jmPhwA=="
+        },
+        {
+          "title": "김용욱 강남세브란스병원장 취임 - 세계일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9A9ZRrLcdu_Q_L6zCIPWgMZ2wa3k_2wOi1xQoQLUYnyugvXC-67-QFhLUCdY39IQwqbUCvo5z4fzJlV_823Mlbeh828iv_YShhVc2IjE4d1zHyIJ8d79jaRXfoIktSLE6C0oa1O4bIA=="
+        },
+        {
+          "title": "김용욱 강남세브란스병원장 취임…\"새병원 건립·AI 기반 전환 추진\" - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwsH0PD94dH_edTDjP7mkKgKsgLiMJe3-W7t-kAaW7KBNTKHLj9hYVTNenBTRZmXLjLfz9oVr973cw3FX5q5lPGatPieobmmx1rnY1aTEbI_gXpTobEAzELFdH8AHTDvsA"
+        },
+        {
+          "title": "[동정] 김용욱 강남세브란스병원 교수, 제16대 강남세브란스병원장 취임 - 의사신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ZyA5aC0tLoy9bH9IFKUj1zEtb30IivalIi_CHlwF5_7jm_y1z0bRG5qkdAwc3bYX4NUDFhTBin3AUw0AVl7Ud8Amtiida0odEooscGJopz_UtoZujWyo9BQQxg1Wjn6xKu7IhulmO9BUWEL7n0PKdmxyCH24qSaw"
+        },
+        {
+          "title": "김용욱 강남세브란스장 “새병원 건립 본격 추진” - 데일리메디",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfqAF6-gFsHglWMMzAOtW8M5PvsHf3kNOGs0_yaVmGt58-vakvq4SR9fVouZhvyx6xs2A6tfAEwxTWXTyyGtU82K7jHM952syxk0TcaidgO6EJp7WhzbKyl3xLKrtg6W31adoz2EH1TxnqaY8o8HI-vP5ieQ=="
+        },
+        {
+          "title": "김용욱 강남세브란스 신임 병원장 \"빅5 병원 진입 이후 톱3 도약\" - 뉴데일리 경제",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuODN3MB_CN_0Ck77wojRti-grCBoNQVYTTXl9hfNLxpfULpp8F3u3lzozsdmWqn-tdyVNc-ptZLSInhBESADZ5dStvGmYt1FUyIJQMcf2dXjH32nhZ7HEby7EwxKIGK0ygIlc8n1Fc3hjBq4N_iCip_4df0Kq_qCXsxRykJqKbCEe"
+        },
+        {
+          "title": "뉴스위크가 뽑은 세계 최고병원…K의료 약진…삼성서울 한국1위 - 매일경제",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFagEGx-9TCk8g1H_Yx7unVgvYM1vBo9a1pKC89Lsofc5M7lRyAlnlszrI5kIyvz_tvS60k9BtDH6HIcUUHeArPrcH2AkOxY36G8IIoGkBrr5j7aENLXm-WfEzPoaisjOczOzdUqg=="
+        },
+        {
+          "title": "[2026 신년사] 구성욱 연세대 강남세브란스병원장 - 의사신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jfrr98pJJ85Kuh6QJxgahr014NW-0v23Uc53H6vxBb1VFPPWKE0oJ0WB-D1W0SN6aSe5MryDYJALWWPBE7v36sJto4d5z3AYD_JkPe6pksgaKS_LZxbSp3p6VfOKCFBR4-zF0sMMVO0ZjRqKEYadyT48M7uRFK7t"
+        },
+        {
+          "title": "삼성·아산·세브란스·서울대병원, '세계 TOP 50'…분당서울대 '약진' - 청년의사",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo75hlGgBwq7ns3SsWgwMs4tvf1GU2cPkxeSh_7zCkU4H6hX7-s1Rx0_8Br4OOHJsUs3oJKYy5BCpl0qmjnXXMZ_kF1JHmvNNYJpyRieyOavzKfdVk9Lb4uh2JeSyPA4tsXzOXyemyYUT_zJxh-IM9xCUMPE2oYi4F"
+        },
+        {
+          "title": "뉴스위크 글로벌 병원평가서 삼성서울 26위, 첫 한국 1등 됐다 - 중앙일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlzfyvRqtArQXZBRCz5bRoSJPSZfIFNgPXgMsM7PqSlkKqINjzZBWsuEUo0Whr7DfrawB5FiSDuU7skAGjd43fMNyW52uecAqKhjuqxt4m-yHkkwzsscLhw1V1Frg9QJOOxDPyzs8="
+        },
+        {
+          "title": "세계 250위 안에 K병원 16곳… 삼성서울, 처음으로 국내 1위 - 조선일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe4lZ0h-iikeo_s-OMpki99ZI0F9URU5ssnJObHyKNuUCRE9K4FKVN0-CLaL0S2sV48MBDDLbmMwlUB63d5sDkr1mMCFmXSVvVFl7tMEEnLNV8t28WKmbMYZuvEwn5LJKNo9K0Gv9KAUCl0ncfsds6VnQ9Xp-AtSPgU60Z0c4EZnCBPAkZ2sOY0c9UoNxpFsmG"
+        },
+        {
+          "title": "[후생신보] 김용욱 강남세브란스병원장…“'NExT 강남'으로 Top 5 병원 도약”",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyJ5_HrMyDV_Y_QwRAYYlAvq2i3hkucmZWFc4j3y7g1NB5cEX4IV7waZRmO-7cAB6CTK8ktJ15CUUWek3X_Fl69KczHj3Em8idJVgC7DefNuUPKny5VZThMA=="
+        },
+        {
+          "title": "강남세브란스, 김용욱 신임 병원장 취임 \"진료·연구 탁월성 강화\" - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDCePoOFA1Dbeq1Va5eK3XRXRh-VFsIi6Il6IXBchiOF6byA-HQeJLvYRW007lGHBTE2DdOFAJjmMc8ilEsbW6sya0m_BWsqVndsZcDDDbBhEN9SAqObXSSfKA-ib5g9q6"
+        },
+        {
+          "title": "전체 < 기사목록 - 메드월드뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gPzBy2O-SxdLmfSEFZ_bPBBuJUFVBh0_AU3RIa6GF6pErIFRaZFqGgrvsIrCL8imo85uwQdG0DvqWC9brfd1JBQWIYsetoYN1-92u3hkOwmqFKp-laZc8Los9kkiYg65VInXGFlbXz0G7DJe_AD0zPyX1LoVkJyMXrAODUf46GjBtky7aHYOotEEKEJ8jzl3ZNR5O2pvPiFyN2N2IFA54oDofxCfITAptvJOeJc"
+        },
+        {
+          "title": "medifonews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdtXcxOvD46rAbS9dTqi2fQ_pFushMwwtM8ZnHhdWoJK0C-PaABOWUYaSYZK85JboCfCoBCrTN2ug6Pfs6WdIlV8K2StfU-FztMyObQ_b3AAX_tpUv36RxEZYYhG8g34bu5gw7U2OZmc1zox35jmPhwA=="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwsH0PD94dH_edTDjP7mkKgKsgLiMJe3-W7t-kAaW7KBNTKHLj9hYVTNenBTRZmXLxLfz9oVr973cw3FX5q5lPGatPieobmmx1rnY1aTEbI_gXpTobEAzELFdH8AHTDvsA"
+        },
+        {
+          "title": "doctorstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0ZyA5aC0tLoy9bH9IFKUj1zEtb30IivalIi_CHlwF5_7jm_y1z0bRG5qkdAwc3bYX4NUDFhTBin3AUw0AVl7Ud8Amtiida3odEooscGJopz_UtoZujWyo9BQQxg1Wjn6xKu7IhulmO9BUWEL7n0PKdmxyCH24qSaw"
+        },
+        {
+          "title": "whosaeng.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyJ5_HrMyDV_Y_QwRAYYlAvq2i3hkucmZWFc4j3y7g1NB5cEX4IV7waZRmO-7cAB6CTK8ktJ15CUUWek3X_Fl69KczHj7Em8idJVgC7DefNuUPKny5VZThMA=="
+        },
+        {
+          "title": "medworld.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gPzBy2O-SxdLmfSEFZ_bPBBuJUFVBh0_AU3RIa6GF6pErIFRaZFqGgrvsIrCL8imo85uwQdG0DvqWC9brfd1JBQWIYsetoYN1-92u3hkOwmqFKp-laZc8Los9kkiYg65VInXGFlbXz0G7DJe_AD0zPyX1LoVkJyMXrAODUf46GjBtky7aHYOotEEKEJ8jzl3ZNR5O2pvPiFyN2N2IFA54oDofxCfITAptvJOeJc="
+        },
+        {
+          "title": "doctorstimes.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jfrr98pJJ85Kuh6QJxgahr014NW-0v23Uc53H6vxBb1VFPPWKE0oJ0WB-D1W0SN6aSe5MryDYJALWWPBE7v36sJto4d5z3AYd_JkPe6pksgaKS_LZxbSp3p6VfOKCFBR4-zF0sMMVO0ZjRqKEYadyT48M7uRFK7t"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "후생신보",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE53b2pKRmF2SXdoVEg1RTd2UlVMY1V2cVN2REUzLXpRMVRrdVJZeS1xaWxrMmdjQURfT0VsZ2g3LVlqMG5J?oc=5"
+        },
+        {
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vaVY5bFlCOHZuZ2JwVWszUGZrZG5KZzV5OTNzanppbWRBNzJWb2NuWlE0ZlZBdUNvOFlBV2I3MHpnTHFJb3U1S3luYzRJSlBkYXZzaDZzTGJrcl9vZWhYbHR5MGLSAXhBVV95cUxQVEtuX3dLMHRwQWM4VnFlek14cWlQTXVhN3BiaTktOS02WE14NU9reHNCbzI1bWs4MzZwSFhac0xOM01YdU84MTAtQWRLQkR3S1ZFWGx2SHQzaWdWcG1talFQdmxQTXNoUWFJcEZqVzZVRU9STzlWQTY?oc=5"
+        },
+        {
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKd0F0UkFrTjZRVHBqLXhkcERWT2JVVnpiaThIOThHaUwzeFBmNlRCbjVPZWlsNWZPejhTUFhvR2dSOTEzRHJnMW5FY1JJWHdLRVNVbDdn?oc=5"
+        },
+        {
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0Rldrc1NwbVlsZi1IanFiWFlUVGx0WnJrbUxOUC1rZHhBM09XX3hEOHp0WWl5MkR6WkgyVGFYTVdnYWg1NF9McmF1UjNUZm03TGRPckZJcGtpWW5F?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2d0tyTmV2bnJEekJMc0tfd2w5STRDdy1PUVItMFNjeVNiQy02VTdrM2huQld0bmlIbF83YnRFd1V2RDBHN1h6OWdoT2JnWFk?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE53b2pKRmF2SXdoVEg1RTd2UlVMY1V2cVN2REUzLXpRMVRrdVJZeS1xaWxrMmdjQURfT0VsZ2g3LVlqMG5J?oc=5",
+      "original_url": "http://www.whosaeng.com/168580",
+      "published_at": "Wed, 04 Mar 2026 22:00:00 GMT",
+      "publisher": "후생신보",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf6sKCPSKL0Q2s7Cm4Nm5kHO3eHy-3fjCwku_T4rAD8eTket0n7gb0FRyO84dXXuZI0cQNBEs9nF5t3aUyKO_inGM8goFadXRb6Zi5xpj-YqmlMRHoBhPwZwslJhIalFLp_9dF_LtuEqSHsyAYQddV2Dyw6ksGwlDD8sGGTcsoquZwuz0FC6TEQ60zPrSki5WIOXZNF_89lEeBIW9uN7-z-Kndd0F4-n8HVh-Igt_APg0EV9P626YPMEpw20bs_dKzomEIYaBQ-o-Ydv_siOLU7_irWOFn1PD3MPHxHSlykd8sCPyqRRaBpNKFkuB2gAf8Xhy3OJ5dUoScGAet9O9B8E44SLtWVqDvD7fVHZU=\">강남세브란스병원 새병원 건립 계획</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQGk0Q1uHfVN1mE3jdrzrEzueJA6eu7ODmKlBt_qlNCyY0GQM-m243muUYewcbxDEy3FabPwQrFmtBvoEZMqv4IIizpv4cxXc7a9F2u6OWsGkla5ikP7j4x5Jx2kZ7KJTcPvRZBhHikrPcqikRtpCDs3rCRcxy60pDmMzo0AG-5k2Hr57q3T1TeAoInxBRLVD6olnQOI1mMJgX2H-hpl0Q5b-wIZHD-_eubnENpGAYV77_kTHLUa5seMHhlIrN2bVjVK2_IHwgWzJ-UxxNuJAANMGhLiFI7s70O0g5ywD-qnFg6LsK_HhF63fuKBIia-bWIXmagctf4Oa7NCcwjfG6DbL-mADsU5K8uTEvORgODnkxCaVeX_XU_ebpUFo=\">뉴스위크 2026 세계 최고 병원 강남세브란스</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFERSL5RlIJ_OwebmCQ0MS85W1bXFcnbJ5NgpmQ3DTiY0BLQrCrqECvaPuRUcb7mysF5fDWUTnEO1AXaEvL8Um9mgpTqzyjM_bEUKWbQkCVKpCug8eQA24t_cadSmDS6W2SGbDkgZ7J3mv-tGKVvOa_B__dCyD_4R-Kz7n9quLa-zyKU16jozIbQWREJB6mM9lIPZzz189QPbtJpjEm56zOv2c9AUyaYeJp1z_5aJliJ66sxjtjONa01-1JIyCSSUsJzrUiADvpvcNMAL2uffMFUh4A83GGfgyUyxuonPCzkcfWgjp4fzrJ9lPVd6oDSyalcx4dfSfisH78W94HajzmZ6lRzg==\">김용욱 강남세브란스병원장 취임</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3n-0oeOq2WBNTW8AHx7LHGnPxEvbFtXI85MG-hGcBsM-u_yD05JTuMnj8TaH7w_Wm6_2xbV6YKJYSFDrVOvvkNtIJ3apDvFm_sbUBpiIJ19BqQ1LGxoZ1gs7fkVNCYa4GJI0CUimPWjHIcFq0eZ-DvGwr6kMXT8UYKNiKTir-lbJzl5NG4YYuVT9Sof7X-8eiDdeW0HdcvfYAYtpx57NZ61hAw0xioi6sDk6Pywfwpi3annKP_dUPL_FkIvl2cutulFzaYtEziEF-bXfRPj9D7w6vdTjK624-8ncbKpVegKvEZJErI7-YCs96bxRffrxuF8uX4xQD\">강남세브란스병원 NExT 강남 비전</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkdCX8qFwUFFp50cpwVv-WanLc4XRQ524gyeLo24eQ3iX9idttHrdSlqR3eGQ36C11-nZkC90MGGXnj9N6x8j-gRXPgirdNYMrQGWyGFW98Zj46_m9t5pkcQ_eNb0wgAdPjykGK3FpAE_HMQM8xSQhsPNO_l_ol6hmBs352cu2dRCmjShlDsR6EOBht5_e77Uplyz7dHKenJJIx_k7morbqbP9VFPUwBqD9S5MhGt5ltZeLy73NLYVLa3EOh-LTyqo1MbvCqrVJGhMxO1KO4XGKFQDUdw6BoH9efNJz2kc32Q=\">강남세브란스병원 43주년</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "e3d7ff7a-1b09-45a2-8175-eebef0d2f872",
+      "headline": "지역에서 중증·고난도 치료…권역책임의료기관에 742억 원 지원",
+      "summary": "보건복지부는 각 지역의 핵심 병원(권역책임의료기관)에 총 742억 원을 지원한다고 말했어요.\n이 지원은 수도권으로 가지 않고도 지역에서 중증 환자를 치료할 수 있는 능력을 키우기 위함이에요.\n\n이번 지원으로 중환자실을 늘리고, 고위험 산모와 어린이가 안전하게 치료받을 환경을 만들어요.\n로봇 수술기나 양성자 치료 장비(정밀 암 치료 기기) 같은 첨단 의료 장비도 들여올 예정이에요.\n\n정부는 지역 주민이 사는 곳에서 안심하고 모든 치료를 받을 수 있는 의료 체계를 만들 계획이에요.\n이를 통해 암 환자처럼 어려운 질병을 앓는 사람들의 경제적, 심리적 부담을 줄여줄 것으로 기대해요.",
+      "verification_tag": "verified",
+      "verification_reason": "기사 내용은 보건복지부가 2026년 3월 4일에 발표한 권역책임의료기관 지원사업 관련 공식 발표와 여러 언론 보도를 통해 사실로 확인돼요. 지원 금액 742억 원, 사업 목표, 각 병원별 지원 내역, 담당자 발언 등이 모두 일치했어요.",
+      "evidence_links": [
+        {
+          "title": "복지부, 권역책임의료기관에 742억원 지원 \"지역 완결 의료 구축\" - 퍼블릭타임스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdhV991OL5AcDBMbMlW1IwiHMTzVQGZYUjG5JwBI2F7oPOzumN9yUYLsxT_E4OP4fDaFNDTVvD-jocMCqmvhlq_HD6xrFSj1DyY-i5li3AMSRhplMzEAMABZv6kWAg4QmOeQQABAmq3AQ0YMVfC39AYIBfO4O1NJE="
+        },
+        {
+          "title": "복지부, 국립대학병원 등 권역책임의료기관에 742억 원 지원 결정 - 베이비뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNKt234O_4U_F00PffJn9r8g2lOMlUO6fMX2Bx4sj-IHhd-f4gQ9Wf3-W2tiPRLBk5NVU7J4aA8pN_nFTFtdMou1x0eu0ce905CNXKuaNGcTxfDuQemfwPjfZXm32vv8_3Ztg-fHi3S6x28TyO1-irDSGRsmkAVA=="
+        },
+        {
+          "title": "지역에서 중증·고난도 치료…권역책임의료기관에 742억 원 지원 - 대한민국 정책브리핑",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6ZOJWkVVqkUi2jmdq5Le83HlZNNmUjjrVClN9yrLBOPj1G3bNHvJnFd6Fjjom10DwTmf8cGnV0AIOV81nrRyZ6b8J9dqjauCncjindyLoRBDXd5-NhhWdM84IMxCQSjrNIK1Lm5QvqNlcek5KQ_0xco9KQYjJcA=="
+        },
+        {
+          "title": "칠곡경북대병원에 첨단 양성자치료센터 건립…2029년 완공 목표 - 문화일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFurRgmv--PismEzfxeKFI2w2QbbJLtl8a9Qry3LcCh-sAEuYtRnSdkuVnsuin4mZaZk1osNJk6LvUOuaM-jO8Tp8gbD97xmWXaDDu8JBFLXQSWDFgrNsRU6rWtr1Pz4cW7vg=="
+        },
+        {
+          "title": "칠곡경북대병원, 최첨단 양성자 치료센터 건립 확정 - 의학신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6sNoGKi_lDvYAUpo6KjlYHvAaAtXcGti4UGDyo2PJNczeZ8THYaLYcsKas2smklk1DpRgTtqgDy-pB6bUOBy4rR4lMZyQ5_NFPAkqhQ6XHsLyJvJsN3EbBbvywDzPCWNqZvvIFZlnfXdfNhFWFjfOfVouJw=="
+        },
+        {
+          "title": "권역책임의료기관 17곳에 장비 지원‥정부 742억 투입 - MBC 뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyrQ9S2LbJff2icr2urk4Gnw8-_uXiSwKPu4-FXYSvjknBFXi7fBqVgB_FSP_PK9eHz83f-NxrhWOAo579ETndcAQd4MmnpXJS-08b6UafwAIfoRdL5zP5pq72zhTdtScC2qA_367te8CtdQiyOmtbJ78AOAoIGW9iIHOzqyG"
+        },
+        {
+          "title": "최종치료까지 지역서 완결…권역책임의료기관에 742억 원 지원 - Daum",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxLwUf_LpqgptUMr99-CNECGOBWOcLZpzIdxoO_JZidy2raKKqLV944kUst8Y9rFb0ugsmvEtMq9lVIDR0vHJSxQrCx5eOeFOQayD-GQB4bvjqnjZ8b7NsBdqOU9SeH9Ti"
+        },
+        {
+          "title": "지역에서 중증치료까지 가능하도록…권역책임의료기관에 742억 원 지원 - 미디어생활",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO8jyKzeWC9_MR0ROpdeyASDsGU_0iu8g1wmPM1VE3VksL1yzKebnt-fEtjj0giPzGXKI2qLjSwqtzGcR44UAVd1zoNBD0Ke4JBb3EDbSI6klZle3_r_JAeB6rMPwmm4YirKgSCC1cclBI2AyONx8ReiKw_b3e7_Hv"
+        },
+        {
+          "title": "지역서 최종치료까지…국립대병원 등 권역책임의료기관에 742억 지원 - 약사공론",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhRIb363bTDzW6FngZ0mqCtX9cipcCkATZwC6BWVAfG27U8P1HjWN0KxR7m3AHKoGHYHMQJWfveehWmiVbRsCUyzTqHYscxYZITcvp3Lq6fRS6veFOPX5_OMtcIWStgecGJnQy11eMpWFtItce5ilD50iB9Y1DqqQ=="
+        },
+        {
+          "title": "서울 아닌 지역서 최종치료까지…국립대병원 등 742억원 지원 - 연합뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQTaFL0ZQE4_G05dVTvnuYdEfqZ907FgV8f6vpU-CwcgtiKzyPRfUVBUZy6WrWV-Q5OqztdLHEmh_YJf519CrNbYok9NhCfm4j0c2F_mpQovsMY0XstlXH6yaHrbilkOG8rFkCGzf6Avl"
+        },
+        {
+          "title": "권역책임의료기관에 742억 원 지원…중증·고난도 치료 인프라 확충 - 후생신보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-K1F76F5xGynvIsRwFfsx_3Gm5v7mfP7t5yuNNzlVrqsHB2GFyqw50dVSvl0wdO1PTzXu6kKL8-pu-H9LVmjAy9I0Ox3dLgSYYuhM7Vg2Fgo8eLQTbXB1ZA=="
+        },
+        {
+          "title": "국립대병원 8월 복지부 이관… \"시설 넘어 연구·교육·진료도 집중 투자\" - 히트뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6k-HD-Bw1kUiRSCEDOFSz6DImT5qGlHSI7CNfo_lJ6dDNQ-8je1kqltcODM42nwJpw0jYZkU_Busv1IvPDpIMuJadce4_3D5Eqv8C5ZZjfbiXrnsJlV9REkKDl-g3jDxJ6nej31w5uTeeIHmjebbSORDl3oOf"
+        },
+        {
+          "title": "“시설·장비 이어 인력 지원 방안도 마련할 것” - 병원신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDFZbH4heKKj_1Pey4F3O1_LZwx5du_CDbXrkBTeHn-fx8nwuEHZ-rBUVqBx7lcVR_rUCrO1dpf8DN74r9lwMYgxuMNAgEOP765qnY5HN70HDmpTmAOPwi5YZxl8A-WKSy5c4dHRWQbD2kHz92IdkxcjBZSa0="
+        },
+        {
+          "title": "복지부 \"국립대병원 진료·연구·교육 집중 투자 발전방안 준비\" - 뉴스더보이스헬스케어",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZcB-yHVr1cmQaCmq4kydmLhhZNbtReFEl-_vyzzq1Qb10xmZctUU0kpKkBglwBht7d5MILFMRFjY4idg-VeBEWplQsn3PofGfzXg_lxmF6Wt7WlFlZzsysGwxqcn2WmQPQexoe80O4f4TyKCO5kSDA1kpYZAiJXo="
+        },
+        {
+          "title": "국립대학병원 등 권역책임의료기관 '742억 원 지원' 결정 - 경북구미신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2g6A2HYTDB4GsFHB2UzV97B0JzyQMMybpn1ZszaWG6JhzvpunPeOmlvlP4V1iq974qfHAnMcIrHww8iSR0b5N3FyXqkhjC4qoLgR861pTDbO5zSH6T9zuQhHpfTSqS8CgC38eXC692MCRXnotuP7V2Unuoks="
+        },
+        {
+          "title": "국립대병원 복지부 이관…'지역 완결적 필수의료' 집중 투자 - 메디칼타임즈",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGteFzyuI2BzFEb-wA5XJ4l9bjOBEnxqMrGgRuk7tuacc5stbGaYmoShUTm4eYHQ86FfuZgcD2J6S0Tg5jdfIzp1ZnJSkcWhQJCF0q_oSkYMtFm8_DzY29_e7jnFFDHaLuWFbHmFdfkfb4Wq2WYxESFQLqQkZ0SBoc8lw=="
+        },
+        {
+          "title": "“경북대병원에는 양성자 치료기 전남대병원엔 로봇수술기 도입”-국민일보",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlgD6--dRAQpn1-xE6vqfzoxVGLsl1AjBFeU6Ce_C4tM28qYCeWFi-qyg4INljKlTLPB0tGiH0dq3cmBCgqjtEF2GBt2pctggkM9BbaB0E5sx3Ib3hbjEo1HGXu4as_uhXrtnyThlWGeNB7cmvaK4t5Zaf"
+        },
+        {
+          "title": "칠곡경북대병원 양성자치료기, 전남대 로봇수술기 도입 < 복지부 < 정책 - 한국의약통신",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8wqnU1r2-Gh6rVNqbhF6GG4ZMtsemfL9VtxaSYVpGStcRE1ldPBlUZdlErVBEajA-_Juz9G_7kxExJAz_l95FbxrM3QgBOr_StLbJyCRSHQbMg-8Bqm6A4Ll_KFJ-A2pYn975CQDD6b14gjRTDvAHQ0Y1Hb2J"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Mb2pBRVp3cXg5ei1XNV9uVU91djNhRnltNHFxcElMRFpXZDhKcWlBUUx5TjNoUEI5WHVuQU8yNlJ1dm5ieXVqY3VDVUoxdS1LeEdHUzRxcW9qNkJnRk43TjZvVG9OeXY1ZVhvRQ?oc=5"
+        },
+        {
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlNOMjFYR0tKU0Y3cFNDWjl4U19SekRsYUF1VmlxY29qRVI3SVlwclNjeWVNOVcweHY5YnRsRGR5MEFZUEF5Y3lWekx3QlZCN1RFQklxMVFvV2NqVGIzeWFXcjhXdmpCaDZKZGx3UzZiX3lCWGVwVzNjcjZ3MW1MaDNXcHlpVUpLZmwxSVhR?oc=5"
+        },
+        {
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iNUk0ZDh5UEIwYWtxR283YUp3SkJfT1NsTk9IRTZtWC1xWmFNdWRBb3RfVVJHTHQxckJuMFRwOWtCVnotaEtBSGx6enc0RnJTSVpjMUcyMWNnUlE?oc=5"
+        },
+        {
+          "publisher": "데일리메디",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FMDJfYXgyZFBpckNCQ2NMM0Y1V2p0anVWQlBrbTRadWZ1eGdVQ2xGRGg3NGNuOXlLeVlCZWdGZ1FSS1FaQkE2Xy1kODRGNllRVWsyaVBtZXZxTENLUC1DaURSem1YaC1z?oc=5"
+        },
+        {
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VSVlHUUNIRDdLeGoxa1NQYm9BTHR3aTJzUHBudWJxQTVZUzdKNjRGWFplZ2c4RHp4b0xvc3RwOU13aE5MMWhRcGRoVXhfUmp6?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Mb2pBRVp3cXg5ei1XNV9uVU91djNhRnltNHFxcElMRFpXZDhKcWlBUUx5TjNoUEI5WHVuQU8yNlJ1dm5ieXVqY3VDVUoxdS1LeEdHUzRxcW9qNkJnRk43TjZvVG9OeXY1ZVhvRQ?oc=5",
+      "original_url": "https://www.korea.kr/news/policyNewsView.do?newsId=148960306",
+      "published_at": "Wed, 04 Mar 2026 13:03:21 GMT",
+      "publisher": "대한민국 정책브리핑",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdDkomPcX9NpQw7kVhfhgZxsUWXm9nzkcY6becuzUhjpT0VHONPFlCNCxfu9v5qKuxcaOWKGcu2V3QQ3dnpk_PIDij96y-PNIjJFBA8CwuBcX4KWXkVfAdfeheVPS0AdAauevTEYqZKBpeP8Rc4ky58-CjGKzNZnPe9f8aIFJH7dYZQeaOR7UsNpB8p39yDqfI5g605Kbn6Fh7qzb3_k8RZHQiHVUig6fUYx9zE3IfV1Pn5iJUN7A1_ikiZ6M_1jGepFpsJs64PN1xzEvvHuP1pQa1a9IuubkmJTvmcn4-I4rpwKsdsSaZTvVk_NJObv6pg68exHNun8152AEP22AFMQQektGK2aLCw8qtByNf9RfzmsnFAQK88LAo1rB5d-8F8LAqHu2f3uet1yEd0rqY_yu4aiDXle419s0=\">권역책임의료기관 양성자 치료 칠곡경북대병원</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE68JrQz1IlU07Ieu9xDoZwPZIsm6GsMXsj63ROJ3HFSR3AemSrgI6bjP0CSYWYvcLLYHF4LETBGZny-bOWszQIvABILyN8ohuBV-69OgmIzNXlQy8g41wSYJS_TzRmCApPcLLY1Kx3YyiASK-oHgV4G8TywmKUoSeGaDDs74nrnY4ofsGV56OGbAP1PtiuTDczTXXOlQRA6rMp1ZOoDRtd4nppUZVefMZ_-CAV4jGgzYyKg-ru1AMDRKN-BG62fWAoXtVCs_BycV-cer1o2ft2ijq1HSh4j-4myK6nXeHOCeZ-8Vu8Q2WEMh42XLUnhT7U2hDp0SxCurbSga2SbDj_OeG6rI78d3_6N_1ADKFOOHQkk1PKX5xVZe8_caRfpKFAY4sW2dZz7SDv8WwhRd7fPhP8AZAwJw8ltw==\">보건복지부 중증·고난도 시설·장비 지원사업 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc04wQ7qNEWYkumFOXCsr-jVqmUGy9bBrYdevUHAhM8XF6H9ZHLsjoHh0uqGCY4eT0CkdmgxvEPlBKL2oJ_htwQ-iL5vWdILHhgMyu9jdoe4vmWErVRmo7cx1FwmCIi6UGazK8uzC3cnk5jl19ZKwDMRJ1gznH8L8Rqzd1Tsxr_k7BSr_03HZasbFeBm-LhYuRDUWi47SwaCWNTZx0m2_sxiPPmf3aeqHvBtm5IXraXgC0DBFZdkmBs_HszRwNbwDQ1QYj62NDKw2rPBfle70SXk_Dk_ra3lePIQLzo9cAMs8Y7Q6RkrnQ2C002OSR0kBv5oQgern5tOSRI4jmeyQAgafzrGN04aAIRPIVE4fqyhzlkk6JOhS0jkLeSeIRo9S6xPjqTD5PyPbN4FO45Kdcn1USiDOzTIV47Ra0zsQ=\">보건복지부 권역책임의료기관 742억 지원 2026년 3월 4일</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuMdAhIV5wBOuyGm1ER65MtObyrtYtkawlqq5EBbZdMOT5gC5NXBR5LzjO20zmkMoYUwQaTy7aJiz1YIHPoDI7GzXGlCZ13FrYTylnaOKMzWXVgsKD6oUo6-PGJiZ1LE0Rqz0trzShZPPoa-iLjD_02daK47im7AFg-khMGbK3_9Oc5J2mj7l_HZc0NsjsXZ3FeZPveIa5SVvx55NKo8hjZiUOQFzJXoVeKvF9D-jadID4CQPANGa_unNCrnDF_unJtT9y5EhgAqKNsxuRGDRR3Q_QiFLrZjNh4w5HCjssxucybumOS3SGlm88ZtcPlcYm4ut_RfT_LKh5eS7SJ5maE0ZDuZZItJDIOtdJaPG2lt02oo92WYbQCX8yP9kz5jyhUoEq0DkUKope3eS-juw1aJPo0YdwN2AWoqbly8lD_bUpoD1wkPN52QP9KToweWb-kA6HaQ=\">보건복지부 이중규 공공보건정책관 권역책임의료기관</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "96a210ab-e6da-4707-b873-1f2d21946bb5",
+      "headline": "티로보틱스, 자체 개발 휴머노이드 ‘TR-WORKS’ 첫 공개",
+      "summary": "티로보틱스가 'TR-WORKS'라는 사람 모양 산업용 로봇을 처음 공개했어요. 이 로봇은 공장에서 바로 쓸 수 있도록 초정밀 기술과 인공지능(AI)을 합쳐 만들었어요.\n\n이 로봇은 키 180cm, 몸무게 180kg이며, 지금은 3kg까지 물건을 들 수 있어요. 반도체 공장 등 여러 산업 현장에 투입되어 작업할 수 있도록 만들어졌어요.\n\n티로보틱스는 앞으로 로봇이 들 수 있는 무게를 더 늘릴 계획이에요. 안승욱 대표는 자사 공장에서 먼저 시험한 뒤 \"단계적으로 상용화할 것\"이라고 말했어요.",
+      "verification_tag": "verified",
+      "verification_reason": "티로보틱스가 2026년 3월 4일부터 6일까지 서울 코엑스에서 열리는 '오토메이션월드 2026'에서 자체 개발한 산업용 휴머노이드 'TR-WORKS'를 처음 공개했다는 기사 내용은 다수의 언론 보도와 전시회 정보에서 확인되었어요. 또한, TR-WORKS의 주요 사양 및 기능, 안승욱 대표의 언급 등 기사 본문의 세부 내용도 여러 출처에서 일치하게 확인되었어요.",
+      "evidence_links": [
+        {
+          "title": "Automation World 2026, Seoul | SCHNEEBERGER",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES-oDnsE6XK3ScfxtCX3GDEMe3SmcGIu0-USbYKtks0jMwnw5KpQpMYC8aLpUHbkj0t-jpXDGA2dpDXK2lbOt31tCER9IVhdTYWoUWzUQ9W4xf6FSAnatOA9n5Ot39Sx6O7AEHHwc7RuEeafL88h_AsIVYWgxw-de2ZE36O-gX29UbPfTXp5DWrhIUMQ=="
+        },
+        {
+          "title": "티로보틱스, 산업용 휴머노이드 'TR-웍스' 공개 - 지디넷코리아",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErTnQcsLoEuXanK2KnbbLo-cXTMnHUfJ7G9EjFZ2u24MXZl35YxfQqhbLTcG1S2CxApigOvwe77E4LSydH1j3ihwfRm8oLdXv5xLu-8i2vYPCLAwnM-Lp7WQ6wFBGckO0zInEhIA=="
+        },
+        {
+          "title": "티로보틱스, 자체 개발 휴머노이드 내달 공개한다 - 로봇신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6ZMVR270IQaNa4C_34laXC1kWTti2UTyfryAXrpmz-cljFazQUUZA7CZvov_ZepLVkxLeJuAvYTikBfBucHi4vXKQhxtab3LZRIsAlUU-8Yha_yI8PRAnfwY6W9bgEYXz5jGZApbep356uZZbKeO689dV3WV5"
+        },
+        {
+          "title": "Smart Factory & Automation World 2026: Korea Market Guide",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4P7QVJS6HmJkO74x6IYMWW0RP4AzS6sINOqzyLOdYC5n8zwvAqe5-ijnb-AM525OVrHhMeohxVfaEtO134qoO75l2NqBTOlHJnu_G1A25BmlbSzJpXikf9tc5uriRmaJ1T0ZNUiBF37gB_pblG6CnvHyeJJJ985sA6IUr"
+        },
+        {
+          "title": "티로보틱스, 자체 개발 휴머노이드 'TR-WORKS' 첫 공개 - 로봇신문",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvE_YvV9WD4GpjiAkdXMxZs2cWtCJi_crwxw6izSSqMv6VRgNskKDX4hs3aioLZ5LpOvEAyvwRx92g-2EvtjspY1cKlmd6XmKQA_Yja2lCxWbiqyfIq99R1ct10I3qNCXL0whQ7muG8jFd4Uu0vnq6byXzELYy"
+        },
+        {
+          "title": "코엑스, 4일부터 '오토메이션 월드 2026' 개막.. AX 산업 전환 본격화 - 아크로팬",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8est-3YIbQWFBL15NhvJ5o64KYNY_Lvi4i7vryNs3Y4i9R6VoNlsOyJx1hSInuj1WcpzSBm0JhyQ5WtHO5mijT3fg6KhLi4Z286d_433n_zCpcd3_7L0D4FvYTTZyL9kH5Z1lHs3xhrM="
+        },
+        {
+          "title": "Smart Factory + Automation World 2026 - LMI Technologies",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYzqmSImtoUeG7FZStO518kbIsNzRFAVC_3PHvuIXzkJewnpX0zOLeO5FCXZbNILi6M2QahmvOwcvg1HmElAxjJm4sFG5Ll2nIuUbSwDZtqPBKJmtPQMxxHvFbMa-rIwa0mEVmejLNgerJMFr0xmWVOzRF0-v7"
+        },
+        {
+          "title": "[산업 레이더] 티로보틱스·제너레이트 바이오메디슨, 신시장 개척과 상장 목표 - 더밸류뉴스",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF1ESaxUXlYcUnVuSU6x2TZOHGmjtEX4TFqZ5zlxWth-RO9lV-4q7hmx_eDfMlOB9WIY0TfKdObGFzGwLeMeXzmEdb9PPXDqplv2hcQTsYIu-tCoQAfsrVHJz1zw22MyZ0evCR"
+        },
+        {
+          "title": "2026 스마트 공장 자동화산업전 - Rockwell Automation",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo_lzWjGei954xsEjqqhS29EDpVqCVaJwtGgBNyq0xh9aAce0UUrrhevSY9CozxHBD24xNModyjkJ578Tkr1Qs_f4dSd30SHKRCEpascYIzAqHFaUlQ6D7s3F390gYhDISs3qMpNNGU77uDY6OZv6tLICk6UJxLc8ChJ6TfLUutwu47o8="
+        },
+        {
+          "title": "[AW 2026] 스스로 판단하는 공장 현실로... 2026 스마트공장·자동화산업전 자율제조(AX) 시대 열었다! | - 에이빙(AVING)",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH09p44fKZibwTNINBDqWPw5RrRM2lwH65Mmxsd574sOt2GkFkVDXKu9lL1ORLci4gP-1kfF1tP4uFQi92kCEomzHJDpeFxx3OLKJcRDUW-MX-03dUX_YccLVADWEcRZZpfThtRpRPW3Id2FRxJFWeCm6LkFXI="
+        },
+        {
+          "title": "zdnet.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErTnQcsLoEuXanK2KnbgLo-cXTMnHUfJ7G9EjFZ2u24MXZl35YxfQqhbLTcG1S2CxApigOvwe77E4LSydH1j3ihwfRm8oLdXv5xLu-8i2vYPCLAwnM-Lp7WQ6wFBGckO0zInEhIA=="
+        },
+        {
+          "title": "lmi3d.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYzqmSImtoUeG7FZStO518kbIsNzRFAVC_3PHvuIXzkJewnpX0zOLeO5FCXZbNILi6M2QahmvOwcvg1HmElAxjJm4sFG5Ll2nIuUbSwDZtqPBKJmtPQMxxHvFbma-rIwa0mEVmejLNgerJMFr0xmWVOzRF0-v7"
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "로봇신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCb09KUzZFYXUyTU90djFldjlIVVNWZmNacVcxWVZhT0E1cGtHYXNQaTdTLUppN0xvNnNrQ2NDYkNPX3F2UE9vZ2ZETEV2WVdLcS1VaVBHaTd1OXhSOUZ0eEFNNzB6YXliTENGdA?oc=5"
+        },
+        {
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YSXIwRy1DRXlpZlRzcGV1SEFlc1dmNk4yeFkxbUUxdnA4RllQbndwSGRVekN5MG5fQmk5VnRSeDFoeUZjaTRDU2tCUTU5MGJSc2FrTEMzTjBGRFhfUmFQWURPaEkyQkEwenpMatIBcEFVX3lxTE80STVvU2ZFWWgxWDBBREh1bFU4bmhIbUo1Q1BHT3R0RHp0TUVVamxNS3dJNjBkeW0yeDhiS0ZkNXJVQUw4Y0VxYjhMOE8tMS1pbWFabE9XRVBEazktN0dFQ0lMYVJxOWp2aTVYUE9qcTU?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EamNnSUF1bDMtNUlaRG5vVTFMQUtaenQ2aTB2a2VJVnh5M0NPcmoybnJwX200djRJSjVueW5nVkZxQ2dXNW9tRUdUVzhDbXc?oc=5"
+        },
+        {
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VEdpWXNzTGpCT1VXaVZDWERSbU1JeGxad2FkM3gxbURIU2ZCTUxIQThySXRJUTJGZmNOOXVNTW9LR1NkR1NLdXAxT1p2Qm9HXzgyZE56OTFuN182U1Y5cElRMlPSAXhBVV95cUxQSklSaGhvUUNHSndVX3FMb0NCbkp2aWxlQUJpOVBXeTJtRlZjQ1IxZFBacDkxVDRHbkJhalBQbl9NOVhSN0kyck04dm5vUVg4ZEdjVjF0QndodXZRRzBBRDhhOXAxMGE4d1lXRFE3WXlLeE1HQmkza3E?oc=5"
+        },
+        {
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qYW1maFA0M3ZLQlRoRlJnVU9vek1fWXRsbWt1eUNEZUJlMmpCc2dXRFRrLURRQ2ZvM0pWNHZuQ25RTi1nVlM2NzJUd2ZFZzBMVDNHOVl3?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCb09KUzZFYXUyTU90djFldjlIVVNWZmNacVcxWVZhT0E1cGtHYXNQaTdTLUppN0xvNnNrQ2NDYkNPX3F2UE9vZ2ZETEV2WVdLcS1VaVBHaTd1OXhSOUZ0eEFNNzB6YXliTENGdA?oc=5",
+      "original_url": "https://www.irobotnews.com/news/articleView.html?idxno=45174",
+      "published_at": "Wed, 04 Mar 2026 01:16:26 GMT",
+      "publisher": "로봇신문",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFctgYCo9IgJK70meUoZnXZWo8TV7OP8q40kmuLr5gEsOQs7zxDq98kF-KB2kYyU37OlCng_mlC8nFiTVlQoC2ZIBT_lKmaIL0nNc1nomhTuONsGU80iUS35ipwbiZi3lDbliz_CszWpDrtaB0rdBbCA6pedaL3v5nG-VLTOlMmbRGfIHfX0qFL9xrY64W7DgT47IGXAm_gdZGCuC5Bsmt_0eI=\">Automation World 2026 dates COEX</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF5hLyjDYoEHNhP0TB2AfBFz0eaTPg9mzcLnMgIxgvIpaogtwenVpdDjXoERsUn6QeZsO98aYYtvqGhU_ik3KQCieZmvG65-Yo5zGOitG9jTS_kjTqZ_4CNqi2B94al6DmVY1XoVli8mwGeRtZsbqBhOsja5FHtWEwSZ9FRazc778P-jNpuI2zuEZYzVoDSso9-O2n1xBJEjjfbwXrf3bItLPG2loijktTJ0YhqkLn9GFmMr52OmQ6_BAkthS7ebkvvjbWKJEG63lA5ew=\">티로보틱스 TR-WORKS 공개</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi5M3tntCXUvPYsa06dsP9inQX1NIwnSZ85XNOUKbxHTElwchHKDynoviyZcl6PvSjq4f7s6NIlicBIW3Esjjbx4F3jyJ9sTvVUVocNQW79noUxtpH_7aVLowOlDjdfDzwiiVEypa2R78_YK2xlYXLoa2vAoHte-xbHjuJ2lFOfDnU8fSVdhyQrIXwstETEGtyujPJ9DuPfGbz5KvlrGHnxWEsppKN-H_ntjd7aOPyzO7yt40k27vQt4jhaB9o7dP4g8daZAHeEWQ4azcAPV6iThkkp-ZP4SLgJg==\">오토메이션월드 2026 개최</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnzcCMmWWQcHUYS6Eu9NyCAKLuLoQ9gxwotcTr_ckk-S6PGtg1VM12H4mXWfhnwkevuiuXlKzO6sVM0inJBS3rRMJGq1E_r-ysJnzsu3YfBqbWUdkLgSqKAEZ7u3cnI-uMFGWTFena1ctMgJI-0ECDb64oDzDsl2DB5DjEYB53WDWaBPvtkvGF9C3_vAFzPW1SWU6SKSjU5lLdzTjPiJe6IDFDMhB5hYP82jy8Qthr-bjTw_FTVAJF-eoszPuf9jBys_duh9fNahs5oNhAkVeZ9fLjftR5Zynm-uYrzCA=\">티로보틱스 휴머노이드</a>\n  </div>\n</div>\n"
+    },
+    {
+      "id": "58aa9117-9409-4d9c-b3ad-3099d030f3f4",
+      "headline": "이스라엘 \"이란 지하 핵시설 타격\"‥이란, 미국 기지·영사관 공격",
+      "summary": "이스라엘이 이란의 지하 핵시설을 공격했고, 이에 이란은 이스라엘 군사 시설을 공격했어요.\n이스라엘은 이 시설이 핵무기 핵심 부품을 비밀리에 만드는 곳이라고 말했어요.\n\n미국도 지하시설을 파괴할 수 있는 B-52 폭격기를 이 지역에 보냈어요.\n이란은 이스라엘 국방부 청사와 텔아비브의 여러 군사 시설을 공격하며 맞섰어요.",
+      "verification_tag": "unconfirmed",
+      "verification_reason": "이 브리핑 시점에 AI가 충분히 확인하지 못했어요.",
+      "evidence_links": [
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMoq0V6nOAGajThAnKL3XWBYeDUIFv69Z8vmaQgERh3cdPwGZIJYX-JUEVJSxwOV_U-XdG3vYfcJZsPU4Ob-o-jKj_neaQcTaBfPcYs7nK-vDBmxCA7I1mmwX21aNDiWMVpZEgmDCn7uGQGmLP-IGsWQ=="
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJSgXbRCzSaT15Tv2kZIc3XhuOVRQd6XYVXyU3L2Rpgpg4mICatOINhYWmGXEtQNSg6eGChiGLSkWrNXvafd2R2r32H0_whAGXILP_paeN-UwnYj0ulKxbSkfnAomoSq-mKpQY8lP5Oc0VyIowZQ00x-rHVKfQQJ9wWbzQITLHyBF1eA1NDw=="
+        },
+        {
+          "title": "nocutnews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXd5ei0KKnMf2CsxABWQH7YlFp1sG3twByWhmxH43t3_SHgnx3VnRO4H8ka0p9BPIYGE3Hki3GGT32FRBJkvpkFAG0-lKQimrkZRf06c8e-kTaCMhPEeyEFtK8AVTcNQZgpSc="
+        },
+        {
+          "title": "hankyung.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgK6erVVvFUpn9E0uGLyIvEBFF3ylEgjWix7QusyPABtNYISRJb2Azw4gLGL1yPMv8kl_t0oPApPIPbUeyIyje_qaCErDNSHO0GdnEr4WbG9nBI2yVB6d2HRErzHuXSeDLXth1rvrnOElKaduWUHIH1TbZ6VRn4Q=="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqIcKIOjBET4HIwPZ6nnDMoX84bF0irIQQI-3bMxqIVuyJRk7637ivFcGlmtoJ9Rz7o1xZf2BR8_UIIAMPORU_P79paWggQPj52ECaauGlndpYHZqBSKaoccWyBhkuFeZd"
+        },
+        {
+          "title": "edaily.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE26OKzY3hQziHZvF2zRNgs7Ld9K3P3Wb8_2z3HtB9v6b4hq6scRUn4veB_3LrzsQXEhFjNHnwK0szsqNHjW1raihrD7OnMR5qSFxQJLa5U_72Oi8ftQs5eOsRiPpXQnlVyj_Vn7hF9KheH1MV33fyRAtcoUn8M6iyExmKo"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg5Pg7-VFRHSjg44xBZ1cEkikY3dt-ZnR92AEDpzmBo2nEc9qpQlHO2seFS-FJDaX6Nze2RH9QDFIsZ2bPUcdgTECyVuRFoF8KeaHXHRmugRgSlr_RTBPAkfNY0WGStExROYVxl4OAur80"
+        },
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERP2Bstmcvh08DuXYb-L89a9Z-iF6xca9KwMObjKLsQgnljmel0cseBWvUWaEOc6SodcN2sBrMGXWB1dp5rWJHcwLzya9pqMQZWEewXcxQfnLTqB-IZXQVPmiij_dvilSfGXn5ma1Z297-NB3Wyvw2TQ=="
+        },
+        {
+          "title": "news1.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkdE7GJ8qIlk3iNk6vs6nv8xd7Vewk0WsT5R8JU0mAgYy_sIEn10Ohov1ZCe4-CT1CbAHQIU1PeHOc3TEoD3RYJlVDF37UjW8MGGXsbtIZKU6Ju7zEEA-k3Uo33njAXOTUlEi8M8yY4g=="
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTsw8mhWf6YBZbewWav6VQaY8atsMd9HdtTPeb3ftxPWGcOyEqTyX2Pm2niiyNkFlb2SRw31k_qyGl-NAykihp73OtVybtO89Ev3vctS4FNzwWPrWSZlOiSSRWxhGf4BosdJDS7o1BsVWo4MILzFW74KY1of0WHcrwb9p8"
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbzrPDroJdGan8solq_99NprvgrIBUAVI6tPGSVx1H8tytDiBRyH9fecuwJg8WUup6rrcznYZFdRb5ISDy4ksXluq5_M2HeNGQjK-ftqEiPpNZArbd7i1hgPd13bMjNIYiDWy9nx-tuSi8lSljm7QmcFKsLKL-CljEM0hU"
+        },
+        {
+          "title": "g-enews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkXDQtHCXNGCIE-f4r2UjHuDTnurUGDFWOvR0RN4EYNcUcS7Qvnvj0WnjaHfZqLW9EBI2sGE7wjQjwenQp6KeKVzle0Bl0rcaOHhNfrs9Wx5qzvtBrY0ydH5Ysc6qOtzGnrQ0bD_4hci9J0a-9z_ADybeEj6LIVCtrLi0zn6_sXrlW3wakBOrmNwKl0g=="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMrxZ1F5SnSgUH_DrVagnzXT1jGo-WzgsMQgW35w9tMhG-Lyuwl2GMicfAVgyICGkxdlYKBC7zdqvoqS6NyuXBMePWLbfS0w5x8RlgcHnFsCdblvxZI41PNLOMj543KjgH"
+        },
+        {
+          "title": "chosun.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkjKs5TErVCg0L2eebPw4OyUxWrWfCbOY_Br9hEi0NpIzn53vguFXq5ESdKEYEkXS0WkwdPjzuJy4VgjhBWMzmxu0SIs2rA_OuL_nUlFcKjQAp_kceFMaov87yiqFyPmYzCkvmABAEO7yTnQhmEiMqEtTa5_Z2t2DQYTSJQqIgWf3BJnkzuXfRh-Mi_rPRpWoQkHCJjbTUBmv4Z10="
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENY9mZr0hrF8se4--YfcWtzgTi01RntOHr4FhTq9gYImygZqo94NaMV6GcX_yJ1RkaThfpsxV4bYb2S1w26aqwqsxbnXmMXEK5m8ILrABRAIhLCDXPe5VTckYLjOiLJ8MCC300YeUrCEGP"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCnRfHKKIWrlOzvtczN8jr2vviIbuOSNSnjn_TLGdzBbtswgbJGOax-mizcW9MLyfFTsHJKDNIzuJgBghfMQT5lS_5MmaHQ5QBoeZpAho1jnIDY4qSRxL-lSpeLmP6ZRRw1krCoHvVhGYG"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhtUzogrSnbgS1vJ-Msf1nXnEAOvUSukiDoqSHb6IoTCp0vFKJ5r6X7DuHKUExCygrD4wOxsDuSY_EW-n-GNxAe79Kyd3dBinGHtd-3UNnyln1S_CjPQTeRjATGcHIbUO7jD9aoy7zZAJb"
+        },
+        {
+          "title": "wikipedia.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED8j68W9U7uCorJwGIHQPlxOIq6VgIwCg4FUGAxRyxe-CYbmfdEkjoyTMHRVXJJXybdhEatOqicr5d8WEZcxzoKnYFskstePeU2B87GzlCHADuKFBc26BJnYV6F0e8dyAsirpW9IMgU9C6mrbqw_-Z4RZ0ORnpy537Vn1VflN7LDjpkmJTjEaYxbzaQQ=="
+        },
+        {
+          "title": "polinews.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcu71ifWiL6Ue-nK9CPJK0LQs2Re2R1t2X33ybiKAWHlbWAkXyTJnLGGPaMOqFZ9L8m5DX9iWmPwrDPa2Plra41dMsLdX39aTAaExAo-toh3Iay42QbdW1sVDNcFqAG7hNIMNl6OVAxTqjRFgzZyhIaS1Alb9JQ4o="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDN8DuZkeQxYnQOpCwfkmT9o3jQ6FGbfeU7ZBcRlPOB5KFks7H_xq28bftEIfcZKl2d-dMyErtkD27g2pd37gUsZFQzGr-0ouAY22LLit7XDt7asOVeSjZxlSlACt7hLSK"
+        },
+        {
+          "title": "heraldcorp.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVb98ngdHpmMbBdFmE13ZiATDjhhHHy1RCCR8nbc9rR8rW_4CUq4DsFH0bI65xaXIGmfAyhElTJSp-OWBAvEL03oYFaf_fiYLRu7NTQ3Y7-1Ufec5QQSmdjkkMQHhkaIInDbLDln4="
+        },
+        {
+          "title": "namu.wiki",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAv_3dZrRjCZU6XITincqyEb_tprDFNAI-W4bojEcz0YsqqPek2-SocCaBR9oSoeC7jxMKfRaXg9qy7LeYnYeFEm4xTtREOkVyF_kh3tjuXvZR-PKXVULqoQjlbjFR8WmYD1r3kNXrqFiXSCxGYg=="
+        },
+        {
+          "title": "hani.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1wPGFGxEOJar8WyYYdhmQi04MheFSV2fSDVoJ-ixUTRxPWGj-6HD7M00w_zQ6ee6TUaE1bAcRDurEuN4y0N1yL8eA3F6kCZN37NUnXotpGVfutx1lXRDNqm_gVzNN2g8-cEGyRrkt-GxBGq09G9If9jOxpikLZnekKZpDgO9y_xY-wachgY="
+        },
+        {
+          "title": "4th.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG704oXAFWizrBFFgtanNUrTA3YMq2p0rcWvWcrd7VXqoL-8orsPAIoxwCH62abhSeCG83IYGE7zJ2nB6mmvp895o1MLs6UcRinSseEDdfJYu-CJZMMGHH3XwMHhBucpbhGf_wfMrDqEhagi-9aBy4U9A=="
+        },
+        {
+          "title": "asiae.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnm87JRU1fcRkABGD-hlz-J9YVkaz0uSILLHcbibczqi-ectGaqsm5HLbBv-TbV_uzCWQznMfyV9go26bIFy-zqcE0rlXqrOXOMqmJ21j7Gh_rbT26cmqAlB0IBivsz-AfqqoA4YolJUsBVsm-"
+        },
+        {
+          "title": "yonhapnewstv.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVxYv0O0fOA582_qSMSmh2JVKlE7HWR6peBQrW-n4ZsMvHALSwHpMZVt0HS6nsk36huVZPSDLdvcfo-GjWVInE8bxKsvv8r4QAweNGjFmDqsSQVsiKenZ_BNHZtQ9UxDspoCA5K9_ed_dFnIidMcFp1VRF"
+        },
+        {
+          "title": "businesspost.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4_6p3w6o8tAKAzFC7bfh5ilX_ghjcAeEHK2xD_wNT6NKpGti8vQbv8q7TqbKtv6-ONpYvOCrvQB655fPyXqjo19KoLnxZtKz8MsJLbJiKcnkAWmfSCM4ATMgMxscgtYBwa89NXShtg-OxH3KPkP4K7b0p9abVqqFhowhg"
+        },
+        {
+          "title": "isis-online.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9BIgjNuepvbPvktb4IsxnDx0WSh_Ng58QfFBE0OgjxNkb-ORRMLlhSn7lqVhJGahKkNyDqKgOkmyVjegFettVPHGa1YQjeSfBKs_G6C6VD24KAwfKuMAIse79KraiU9o1JfAqTzrgikOULAUt_Wq6GYad-G7iLEw5SagpaPw2O8W5vLAsNUab8Ov1MMp76ln0peq-xO60"
+        },
+        {
+          "title": "understandingwar.org",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHs3WFQhRCy_vAoFQkqltOnaFhhgCPG4jSnFKnw6ahynbu5qpLMg2KZ07QQdAE1m6QBnoAhMzbWPLh_4HhGxvg2pY5XBSK6XcslY7lOuELCbubATj5MVZdBdQGEUTWYiNZ-UT7KQcmpyOc5f7rf-MuAjWsdNLby0SqTsuhn4VaBB71ov7s98vA-aWNRuAqQUyyfHpruER2eBYIvyby"
+        },
+        {
+          "title": "alarabiya.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0p_UmwgE9KCW1KkHTYd50b2dYmDYGtmPSxjJ4xPbtPW64ZlWMVaiLqBzXkUUBhk-5ojA3KM0T_eNtncAf_dbgsaZgtnQXOxtQOnXBT9nC-BYAUdqBuzdOQkFZfmPSQBydFqLBi8ShsuytZrr3nW0zcvgatPZfCZWTS05xSDdpmVJmgNFMm_JWY627idVBCkcmYvC_zvTTj6888ZBFmC0ZrGa4GvcM2YTPqVkEDQsUq0FptQ=="
+        },
+        {
+          "title": "youtube.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKavnX-dJLCn69HYzgXpY1eWGvnu-0VNN8e1ZlsKniT6btns_57_NFo5zQJ4MZOMnwmFIuHRlfTB4kB3Tfl2otSMzJFHEiAyXvPeWN9YQSa4QTX4tIQkO6NaUv5bekdsF7HjWp6Zo="
+        },
+        {
+          "title": "cri.cn",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzgv2pHRjQqOSsKoNkDJWdg99VPgNFZRn-pFwpBdkfveHtyry4Qo3DlK5MdKuaTaLdSwxAmdzi3PTa94qUiXITgdCwL2607uW3pbTbnszJkOU4fBXt4tuoNwgH0J8XCRv6IYSz6lpwD-9pXCX8pirz"
+        },
+        {
+          "title": "flightglobal.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpFmNMmq-ZlhULYTKapLLYQEIqKPnfWC1a4GphS24SsB5dpNgPfdViwx8HlgsgKyDFdlOzMApVOBf46wqnLV2z-2Y1lc_tfWl86Fvo9dPKNYDIsE8fxQwDNsHLBizGGbA4MSGx7YGpxQIfu97kp65T59IUV_CynOWFge4P-FqwUcv5vMdl5_S-Caxw3CNUXCJknwkL-X8R2jUhrvtbns3wUgUhSXJfJYTTHIk="
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETOUnT3ji-0D6ObpyuracJRv4oT8-OVVyGda9tq5tktgcB5H7dL3gjSZ_nsFPtPdPNMihm0CZTJXlIPr4W-vhpMb8OlbAHJxlqBAxkuyu1RvW3o8VvE0jcwzBqqEC_7Jet"
+        },
+        {
+          "title": "yna.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsFTzpv0bSV5X78lau4rFFwZzHXIaCtSYcceAhSEVUNBNp4uLu8Io0EXW6NafP6WSbeIiEfWGlfHQKIYqSKOILer6RiNj5X3_Z3THTxeXH9-jZA04IDRBrvw6m-L9oO04yOx1sL2Usulwm"
+        },
+        {
+          "title": "daum.net",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM1VG0iPlAK4P0V6dFq78mlZUIjUX_0dUI2ffdECZwtTxuseYBNVNNWt9mQkM6LqvNL74G30PseMA8rDd3sb4TwejmkY0I362MlsJQKPsp4KqQO63A3bHELEoNXWf0Fd7I"
+        },
+        {
+          "title": "joongangenews.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-Y_pV23B0bsIABEz88jQbK6nO-4FFqiyjpIIPDQoaua7aOrwrG83JNfck5Kec2sMwq89wBAjjJDP6PoqgKSWHwuUYzbzmxScDR7UtaArcXrSbrZOVnOhXwY-t2AizXq44qnE6kpbiAUwL8k47tQdVFOI_7w7EkU-XFw="
+        },
+        {
+          "title": "koreajn.co.kr",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUI4mQpk6Us604nLQPUy9etedje7oOU4yvRveeB-zxfeyl1b88_ZbQjkXE1bplQ759FLvi3VELFF9IWOxUQWoTYe7ytFcaYe2oFpniiQqjp1R7p_6fHImWWUrZgrAuHsBGiK-CEvb6P-VMoKnFdBWPMlHX2Q=="
+        }
+      ],
+      "source_articles": [
+        {
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3NWpWLVR6UzJkd3FhakNQQmhJYWNIOGtpakJmdXpzOTl5dmlpd3ZHMElmcTNGR0g3SV9oOVd4T2p5X3IwRWlUNWVpUVV2YTgxb1NIN2NnSHFwM01iWmFUUzJodlR0dmRMRGp4QnFKLVVDdWZ60gF0QVVfeXFMT1BPYjk1UjE1eFZxbzE5OGE2NXdZb25qT2Q0Zm9YTzdKUlR3ZWpBZmhMMjRveGR2SzdRTEVwMDQ2bjd5MnlVTEtUWExpX3lzRWgxOVB4bDVOZlZVVXowSjBPSUw2aGs0VWxsWDhmYjNwaUVPTEk?oc=5"
+        },
+        {
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVkwWlBCeWQyY0h2UUxqUE82OTJIMVRNX2xkcUNfMEVPbGRja0xSbmtaYnpEUVE2R2xEQkpOZnRRNnJRSzVPdzFYVmNzYVpEbjFmZV9YRWtVcnJIWFh1UUdqeGt1bkRGYjh3Qjdxa1ZkVUxUOVQzc3F1NW5kT3M1eC01QWNRY2NkUFhfbVo3eW44SHkxc25lZlJWUGZoUdIBsgFBVV95cUxObXhhMXY0S28zNGxTR1RIWHR1dkRHY0FYcGlrRDduYThVODZ6U2pKbXJtZFk3SnFjUVhQS1oyZ3BKR3I5VG9zQkEwRW5hQ3VtSDVJcEp1dXh1X2dsR0dkeUhGbzZnaTNJc1hWekQxMTZJN2wzOVBxS2JGVVdqd0I0WEVZR0ZNTWRHR2txeTZaNTJUZ3hrVVZzb01GeWlrc3F2WHNfR3BuN2JGdlpLc09KRm53?oc=5"
+        },
+        {
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10VG9GbnNGVHlDUXpINmdrdUFqLTVCdGM4Y0I1SXBINkJPa1BtU0k1VE1oVDdXQVJndWNrZlFrNlItLVltN2FseWJsVXFuU00?oc=5"
+        },
+        {
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJcm5IMUs4SlhzRzBtdFRMTDEyY3M4eVRIdWxEQnBOb05LdUgxZkJjSGVpMG9rZExNOV82bm9ZeE5TU1NmS2NMekVhd0t4ZnZaMU1GMk9tUnlkaThPNDFFYi1xVWRXT1ZsM294S2pHc3N4WnFXTlJvY9IBeEFVX3lxTE1jRm56bkFUanU2cExaalJTOGEtN1hwbHpvbEhlVTA3ajJENEZMaUJ0Yl81UGlBYXlBNDBiWkc0VEljSDFpcGJNbFlwNlg2VzRaa01HOURfLU0xY2dlZ3hwdGhlMGx5NGcxMWhGSzN6clRzWER6VjVldA?oc=5"
+        },
+        {
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54Y0xudzZmSGg0Y1NhVHo3Q051T2dscHNmRktoRkhxaHpfLVJIMVNaemZNaDFocUs5U3otbjF1Mnc0R1lFanN3QUNKSGt1Z2ZUYTl2Z3d2cmFEMWNOdk50RGV3eWk?oc=5"
+        }
+      ],
+      "google_news_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3NWpWLVR6UzJkd3FhakNQQmhJYWNIOGtpakJmdXpzOTl5dmlpd3ZHMElmcTNGR0g3SV9oOVd4T2p5X3IwRWlUNWVpUVV2YTgxb1NIN2NnSHFwM01iWmFUUzJodlR0dmRMRGp4QnFKLVVDdWZ60gF0QVVfeXFMT1BPYjk1UjE1eFZxbzE5OGE2NXdZb25qT2Q0Zm9YTzdKUlR3ZWpBZmhMMjRveGR2SzdRTEVwMDQ2bjd5MnlVTEtUWExpX3lzRWgxOVB4bDVOZlZVVXowSjBPSUw2aGs0VWxsWDhmYjNwaUVPTEk?oc=5",
+      "original_url": "https://imnews.imbc.com/news/2026/world/article/6804774_36925.html",
+      "published_at": "Wed, 04 Mar 2026 02:21:49 GMT",
+      "publisher": "MBC 뉴스",
+      "search_entry_point": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETsjwbkAaGXv9yKQ6YLZIxTUnqtKUMkj7zJAmZPgqEp1ieoZVHeQIC20jCiCXN5V6aYaS4Vusgw558UwWm6bcu4qxmPj9n8zytO6VA7ykfOoFK_yTyPbOu94Wxjx4uOYcOplOKRFCBLi3W5K5s7JCHLO2VdmzVjReRGvrPok7b1oxCgpQv6i7WTpknypGnnawEbrvS_XY-DgbyRS1-wkxyBK4Npq8FRmJOqv5Ou_xThqdqZLUAm1-auGxQ5SB-oyS36RnqYsz4Hz0q9ZGHxKJARGEUHCruR10mYg==\">미국 B-52 중동 배치 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdYRdXaNKqYwePcmvtAqsJdzvFrXSdTNwW6nufnXqriYNd_ZQPAcUAURrqXmkcraus57IcbQIFU6veYE1JrF_g0Nh1eW_QJfOqE5ANJv8VbhWemA8WdbBhaF41E2YvS3ALo6R-UPb_5GSA-jadAMZFCGOEq60Ld8Q27eBFrX6BCUQO55hRcYo4y5z5CQkJ-2SCV-lnRYDDUmjRNL0qiD0J8ZhbcTX1-asZ1r8_0oCWvuokdCZgF_QGMQhYPuiOLtwFVXHRU52bKnyVUdRqUcIQSRNexcnhsv1Vr8Tk0NOvBK7XrSllKrbfxLAUGH4DO4b51GXaJbDf0pGv2ztZOr90qtZM\">이란 핵시설 민자데헤 공격 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzaGsD94VyFzU5megZBboSQ5S0iletW-h4pMVewowBUF9E62h89SKd4g6dRyqNG0sxPQvrDlF0yv7_pdc10zS1HM79kcrhS05nOKC8hZyxSbaGoyq7NLgLWqOmsUwK_h_bSxZjJwgBRXv0IFe7GxnmUchzKTp-3m9WWsV09Zhtl_TqnOU43Z63LXMgfyCZ8ceg7NIOsTQZPXRaXmh0ZciuaAURmrOebl-PK1aFUNuOgQo=\">Israel attack Iran nuclear facility March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGggoZN1-KHP05Njd1P6Drtkv3TVMmtJ0n182jmKzBjdZqfibODA8ztxa2sqatJUrTzSrbdQDeCmZZBKwJgyzduoYssJmYPR3TyBkK8yC32oteNK3OcwYn_e2CEeiua-0kIPZT32xeZo7ib3Ec08rmQfZZt5xrRDsCP3VUBhqj3uSvKv5nCsRgvOYK_H8_UYSPH3bWxteIFId5uuUl7VOj9p7-RLNKScUri9k8T\">US B-52 deployment Middle East March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK9uwlQdS8Vf4T_yyyEFQb93bijaOFz45yagDqZoBOsjnGkhGBJXwmT1HWgd775u79nsUG669jd-r2lK_7kcAAZPat6Oh5qG5sFNJamCfFz0VYOiPHZWBvEB3kLRa14yor-WhHGz_HIE0MEjKwTxHj9wr_JZZWpALk3b8alpK_-j29PtNbg1hZzgOikEWlTWqz0TQQjlKDlJW2DEwtlaq4OoXrvRzu5XbbCrPd71Y=\">Iran attack US bases Middle East March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFiMegoXSOFIwqg2iOq7Npu2XxuByyERBWfAHFgXJ7iMxzOIG5EXztrIqA3Uh7zfiyaO-CMyNFIZg_HevhUS9CcllAMYIM2M6SxteriSzfYslN4jTYQZuHc5FQecx6_GfaqDi_lLf_UpjaPXOwIxfo323E8lNkPgcaF5lr-pbry71WsSjuO3dFZlpQ8uEAW8JnyOH3ZM6PgBliMIKhEFiNAAWmBPAPNmPhQBwclwAjeuBu3Hf_V_t9JaTz3XacTiKOK09brFW6Ur8Dd1FAslWmxrvxzL7uzRRpBJ1ocrrLtJDCfnQoDfPE\">이란 미군 기지 공격 2026년 3월</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6DWToYPTzthRMcyBTuV7IPdNK_rSpZOnq-73QVyFN10Dvtrks05gxrIJrzSQ9gFhOO1jsic74QiEUkJdkUqvHlJAGpQ8YOc-MYDD5Ck5gevbm0FHrxJQbJVqES2LT06nstF52Uv5U1otSdxWPAZjp5720ZupREKwzgBXzwbfhQpco8zqhKiIK4kIWQGGiSrG-fqOVxzExWOebJASaZ7qLy-4WaAv5H6Fpwps1tkAgkdpXazo=\">Iran Revolutionary Guard attack Israel March 2026</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXvxcrGnmSDhqgccRPE2t-RFXyZ4XZWWjfZ-1r8rsR-eOEt8hVvMxYZnuo-1-sOqCqsBLAYQCYt5P8UMknSSPmIA-XEBCiDMiPluB6VTN-ZOen-TwmKx24G9198Ei0GuMJiGzkTaE243NKGoeOefrPEeaCeVonxU0KeqbsoiG-lmPJKc_pCXygHpm2aU06b1id9hvebepZAYq2XGmVXBU-ojLazNWtIUlBFH0NPOkwAJ9pc99dA1JILI8r1nPOLBmo35aHc8REB5ZYBrUgUxf-RqzPC0q6qzld257IJIqd1AdB4Z5pQN4Ra3IzB9tOMtK1Xy64-HMafDV1oPV8QK37sYbA9PXLZQ9I4FdIzqN0nOOSSpW_\">이란 혁명수비대 이스라엘 공격 2026년 3월</a>\n  </div>\n</div>\n"
+    }
+  ]
+}
